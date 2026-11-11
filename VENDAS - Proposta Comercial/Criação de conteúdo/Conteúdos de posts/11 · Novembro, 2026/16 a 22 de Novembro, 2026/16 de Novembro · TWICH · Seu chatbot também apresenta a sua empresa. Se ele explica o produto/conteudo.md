@@ -1,0 +1,31 @@
+---
+titulo: Seu chatbot também apresenta a sua empresa. Se ele explica o produto de um jeito e o vendedor de outro, o cliente percebe.
+data: 16 de Novembro, 2026
+rede: Instagram
+formato: TWICH
+funil: Topo
+pilar: Humano na era da IA
+dor: Site, proposta, redes e apresentação comercial descrevem o produto de maneiras diferentes (documento 04, dores práticas)
+status: rascunho
+producao:
+template:
+modo_cor:
+link_arte:
+---
+
+## Texto publicável
+
+### Arte
+Seu chatbot também apresenta a sua empresa. Se ele explica o produto de um jeito e o vendedor de outro, o cliente percebe.
+
+Quando o assistente de IA do site é alimentado com o que tinha à mão, como um FAQ antigo, a documentação técnica e a apresentação de dois anos atrás, ele aprende uma versão antiga da empresa.
+
+Aí o cliente pergunta no chat, ouve uma coisa, entra na call e ouve outra. Ele sai sem saber qual das duas é a empresa de verdade.
+
+O assistente precisa partir da mesma mensagem que o seu time usa.
+
+Se você quer que o chatbot, o site e o comercial falem do seu SaaS do mesmo jeito, me acompanha por aqui. Eu falo sobre como usar IA sem criar mais uma versão da sua empresa.
+
+## Base e dependências
+
+Sem fontes externas. A dor é hipótese documentada, não relato de cliente.

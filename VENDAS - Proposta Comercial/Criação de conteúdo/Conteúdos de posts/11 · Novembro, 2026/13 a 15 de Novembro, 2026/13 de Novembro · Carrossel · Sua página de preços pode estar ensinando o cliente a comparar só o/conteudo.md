@@ -1,0 +1,57 @@
+---
+titulo: Sua página de preços pode estar ensinando o cliente a comparar só o preço.
+data: 13 de Novembro, 2026
+rede: Instagram
+formato: Carrossel
+funil: Topo
+pilar: Vida de fundador de SaaS
+dor: O comprador compara preço ou lista de funcionalidades porque não percebe a diferença relevante (documento 04, dores práticas)
+status: rascunho
+producao:
+template:
+modo_cor:
+link_arte:
+---
+
+## Texto publicável
+
+### Slide 1
+**Título:** Sua página de preços pode estar ensinando o cliente a comparar só o preço.
+
+**Subtítulo:** E ele aprende rápido.
+
+### Slide 2
+Pensa no que aparece ali: três colunas, um valor em cima de cada uma e uma lista de itens com check embaixo.
+
+Se essa é a primeira explicação do produto que o cliente vê, a conclusão dele é simples: o plano mais barato que tem os checks de que ele precisa.
+
+### Slide 3
+**SÓ A TABELA**
+Básico, Pro e Enterprise, com usuários, armazenamento e integrações.
+
+**COM CONTEXTO**
+Cada plano diz pra que tipo de empresa ele é e o que muda na rotina de quem contrata.
+
+Com contexto, o cliente escolhe pelo momento da empresa dele, e o preço vira uma das coisas que ele olha.
+
+### Slide 4
+Antes de mexer nos valores, lê a sua página como se fosse um cliente que nunca ouviu falar de vocês.
+
+Se nada nela explica pra quem é cada plano, o preço vai ser a única diferença que ele consegue enxergar.
+
+### Slide 5
+**Título:** O cliente compara do jeito que a sua página ensina.
+
+**Subtítulo:** Se você quer que a sua página de preços ajude a mostrar o valor do seu SaaS, me acompanha por aqui. Eu falo sobre como apresentar planos sem virar uma tabela de comparação.
+
+## Visual
+
+- Slide 1: nenhum
+- Slide 2: ilustração `preco`
+- Slide 3: diagrama A · Comparação
+- Slide 4: ícone `diagnóstico`
+- Slide 5: nenhum
+
+## Base e dependências
+
+Sem fontes externas. A dor é hipótese documentada, não relato de cliente. O texto não promete fim da negociação por preço (documento 06).
