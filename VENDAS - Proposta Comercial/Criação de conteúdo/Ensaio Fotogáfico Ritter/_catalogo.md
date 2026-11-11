@@ -1,6 +1,6 @@
 # Catálogo · Ensaio fotográfico Ritter
 
-Fonte principal de fotos reais do Ritter para posts. Os arquivos são os **originais do ensaio, sem compressão** (PNG, 2731 × 4096 px, 7–20 MB): use-os como estão. **Não gere versões comprimidas em JPEG nem reduza a qualidade.** Única exceção: o Claude Design aceita assets de até 15 MB, e seis fotos passam disso (colete Skave, andando, mão no rosto, palestra e as duas do restaurante). Para elas, gere só para o upload uma cópia temporária **em PNG, sem perda**, reduzida para 2160 px de largura (o dobro dos 1080 px do post), fora desta pasta. No Figma, envie o original.
+Fonte principal de fotos reais do Ritter para posts. Os arquivos são os **originais do ensaio, sem compressão** (PNG, 2731 × 4096 px, 7–20 MB): use-os como estão. **Não gere versões comprimidas em JPEG nem reduza a qualidade.** Única exceção: o Claude Design aceita assets de até 15 MB, e seis fotos passam disso (colete Skave, andando, mão no rosto, palestra e as duas do restaurante). Para elas existe uma cópia pronta em `claude-design/`, com o mesmo nome, **em PNG, sem perda**, reduzida para 2160 px de largura (o dobro dos 1080 px do post, ~11–12 MB). No Claude Design, use a cópia de `claude-design/` quando ela existir; caso contrário, o original. No Figma, envie sempre o original. Se uma foto nova acima de 15 MB entrar no catálogo, crie a cópia dela da mesma forma.
 
 **Padrão de nome:** `ritter_<cenário>_<roupa>_<pose>.png`. Todas as fotos são verticais (2:3).
 
