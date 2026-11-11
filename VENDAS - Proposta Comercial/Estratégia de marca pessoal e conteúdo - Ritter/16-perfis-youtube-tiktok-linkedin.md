@@ -1,6 +1,6 @@
 # Perfis no YouTube, TikTok e LinkedIn
 
-*Sugestões de 11 de novembro de 2026 para levar o novo posicionamento do [01](01-posicionamento-pessoal.md) aos outros canais. Status: **proposta para aprovação do Ritter**. Depois de aprovado, registrar aqui o texto que foi publicado em cada rede.*
+*Sugestões de 11 de novembro de 2026, reescritas no mesmo dia depois do retorno do Ritter (a primeira versão ficou genérica e falava pouco dele), para levar o novo posicionamento do [01](01-posicionamento-pessoal.md) aos outros canais. Status: **proposta para aprovação do Ritter**. Depois de aprovado, registrar aqui o texto que foi publicado em cada rede.*
 
 ## O que se repete em todas as redes
 
@@ -19,6 +19,10 @@ O Instagram continua como canal principal ([11](11-distribuicao-formatos-e-rotin
 
 Fora dos perfis por enquanto, como no Instagram: workshops, mentorias, preço e números de carreira que ainda não foram conferidos (anos de mercado, quantidade de clientes).
 
+## Como estes textos foram escritos
+
+Quem chega num perfil novo decide em poucos segundos se aquela pessoa é interessante. Por isso os textos abrem pelo Ritter (Exército, sete faculdades sem diploma, o tímido que virou palestrante) e só depois explicam o trabalho. A história é o que faz o perfil ser lembrado, e o trabalho é o motivo pra ficar. Cada rede também diz o que a pessoa vai encontrar ali, pra seguir parecer um bom negócio.
+
 ## YouTube
 
 O canal recebe os reels como Shorts e, mais pra frente, análises de caso mais longas.
@@ -28,86 +32,90 @@ O canal recebe os reels como Shorts e, mais pra frente, análises de caso mais l
 
 **Descrição** (limite de 1.000 caracteres):
 
-> Eu ajudo donos e sócios de SaaS B2B a fazer o mercado entender por que o software deles vale mais, antes de a negociação começar.
+> Eu sou o Ritter. Passei sete anos no Exército, comecei sete faculdades e não terminei nenhuma, e já fui o tímido da sala. Hoje subo no palco pra falar de marca e sou cofundador da Skave.
 >
-> Aqui eu falo do que acontece quando o produto é bom e a comunicação não acompanha: cliente que compara só preço, site que promete uma coisa enquanto a proposta destaca outra, fundador que precisa entrar em toda call pra explicar o que vende. Também analiso marcas e empresas de tecnologia e conto o que eu faria no lugar delas.
+> Meu trabalho é ajudar dono de SaaS B2B a explicar por que o produto dele vale o que custa. Tem muito software bom sendo comparado por preço só porque o cliente não entendeu a diferença.
 >
-> Passei sete anos no Exército antes de abrir meu negócio. Hoje sou cofundador da Skave, onde a gente faz posicionamento de marca para SaaS. Estratégia primeiro, design depois.
+> Aqui você vai me ver analisando marcas de tecnologia e dizendo o que eu faria no lugar delas, abrindo os bastidores da Skave (inclusive o que a gente mudou no caminho) e falando da vida de quem vende software: a call que só fecha quando você está, o site que promete uma coisa enquanto a proposta mostra outra, o concorrente pior que vende mais.
+>
+> Eu falo direto, às vezes provoco, e sempre tento deixar alguma coisa que dá pra usar na reunião de segunda-feira.
 >
 > Posicione-se ou será posicionado.
 >
-> Se o seu produto só fica claro quando você explica pessoalmente, se inscreve no canal e me acompanha por aqui.
+> Se você vende software e cansou de explicar a mesma coisa em toda reunião, se inscreve e me acompanha por aqui.
 
 **Links do canal:** formulário da call (primeiro, aparece no banner), Instagram, LinkedIn e Instagram da Skave.
 
-**Banner** (2560 × 1440 px, texto dentro da área segura central de 1546 × 423 px, que é o que aparece no celular):
+**Banner** (2560 × 1440 px, com tudo o que importa dentro da área segura central de 1546 × 423 px, que é o que aparece no celular):
 
 - Fundo verde escuro `#252F25` (modo Dark do brand kit).
-- Título em Instrument Sans Medium, cor `#F8F8F6`: **Posicionamento de marca para SaaS B2B**.
-- Linha de apoio em Courier Prime, cor `#ABB9AB`: **Posicione-se ou será posicionado.**
-- Só texto. A foto já está no avatar, e as fotos do ensaio são verticais, então perdem o rosto no recorte do banner.
+- À direita da área segura, a foto `ritter_palestra_camisa-branca_microfone-perfil.png`, recortada no rosto e no microfone, com o banner do evento de fundo cortado ou desfocado. Ela mostra palco e autoridade sem precisar dizer.
+- À esquerda, título em Instrument Sans Medium, cor `#F8F8F6`: **Marca pra quem vende software.**
+- Linha de apoio em Courier Prime, cor `#ABB9AB`: **Análises, bastidores da Skave e o que o dono de SaaS costuma não ouvir.**
 
 ## TikTok
 
-Mesmo conteúdo dos reels, com o gancho reforçado no texto de tela, porque a maior parte do público chega sem conhecer o Ritter.
+Mesmo conteúdo dos reels, com o gancho reforçado no texto de tela, porque a maior parte do público chega sem conhecer o Ritter. Aqui a bio precisa despertar curiosidade em uma linha.
 
-**Nome** (limite de 30 caracteres): Mateus Ritter | SaaS B2B
+**Nome** (limite de 30 caracteres): Ritter | Marca pra SaaS B2B
 **Usuário:** @mateusritter
 
 **Bio** (limite de 80 caracteres), duas opções:
 
-- A (71): `Ajudo SaaS B2B a parar de ser comparado por preço. Cofundador @skave_co`
-- B (71): `Posicione-se ou será posicionado. Posicionamento de marca pra SaaS B2B.`
+- A (77): `Ex-sargento, 7 faculdades e nenhum diploma. Hoje faço SaaS B2B ser entendido.`
+- B (76): `Já fui o tímido da sala. Hoje subo no palco pra falar de marca pra SaaS B2B.`
 
-A opção A segue a estrutura definida para o Instagram (para quem + resultado + Skave) e deixa claro em segundos o que o perfil entrega. A B fica mais com cara de bordão. Recomendo a A. A frase fala da direção do trabalho e não deve ser lida como garantia de resultado, mesmo critério do [01](01-posicionamento-pessoal.md).
+Recomendo a A: o contraste entre a história e o trabalho de hoje dá vontade de ver quem é, e o fim já diz pra quem é o perfil. A B é mais leve e combina se os primeiros vídeos fixados forem de palco.
 
 **Link:** o TikTok só libera link na bio para conta comercial ou a partir de mil seguidores. Até lá, o caminho é o Instagram vinculado ao perfil.
 
-**Capa:** o TikTok não tem capa de perfil. O que faz o papel dela é a grade de vídeos, então vale padronizar a capa de cada vídeo: frame do Ritter falando, gancho em Instrument Sans Medium no terço central (fora das áreas cobertas pelos botões e pela legenda) e no máximo duas linhas. Fixar os três vídeos equivalentes aos fixados do Instagram.
+**Capa:** o TikTok não tem capa de perfil. O que faz esse papel é a grade de vídeos, então vale padronizar a capa de cada vídeo: frame do Ritter falando, gancho em Instrument Sans Medium no terço central (fora das áreas cobertas pelos botões e pela legenda) e no máximo duas linhas. Fixar primeiro o vídeo das sete faculdades (14 de novembro) e o da história do Exército, que apresentam o Ritter, e depois uma análise de SaaS.
 
 ## LinkedIn
 
-Aqui está a parte do público que decide com mais calma e lê mais. O texto pode ser um pouco mais completo, sem perder o jeito do Ritter falar.
+Aqui está a parte do público que decide com mais calma e lê até o fim. O texto pode contar mais da história.
 
-**Título** (limite de 220 caracteres, 148 usados):
+**Título** (limite de 220 caracteres, 162 usados):
 
-> Posicionamento de marca para SaaS B2B | Faço o mercado entender por que o seu software vale mais antes de a negociação começar | Cofundador da Skave
+> Cofundador da Skave | Ajudo SaaS B2B a ser entendido antes de a negociação começar | Ex-sargento, sete faculdades e nenhum diploma, hoje no palco falando de marca
 
 **Sobre** (limite de 2.600 caracteres):
 
-> Tem SaaS B2B que é bom de verdade e mesmo assim chega na negociação sendo comparado por preço e por lista de funcionalidade. Quase sempre o motivo está na comunicação. O cliente não entendeu por que escolher você, o site fala uma coisa, a proposta fala outra, e o único que consegue explicar o valor do produto é o fundador, em call.
+> Passei sete anos no Exército, comecei sete faculdades sem terminar nenhuma e já fui o tímido que evitava falar em público. Hoje eu ganho a vida explicando coisas, em palestra, em aula e dentro de empresa de software. Acho que é por isso que me incomoda tanto ver um SaaS bom que ninguém consegue explicar.
 >
-> É nesse ponto que eu trabalho. Sou cofundador da Skave, onde a gente faz posicionamento de marca para SaaS B2B que já tem produto no mercado e operação rodando. A gente começa pela estratégia: entende o negócio, olha concorrência e categoria, define o que torna a empresa diferente e transforma isso numa narrativa que o time consegue usar. Depois vem a identidade e as primeiras aplicações no digital. Estratégia primeiro, design depois.
+> E isso acontece muito. O produto resolve, o cliente gosta depois que usa, e mesmo assim a venda empaca na comparação de preço. O site fala uma coisa, a proposta fala outra, e a única pessoa que explica direito o valor é o fundador, que precisa entrar em toda call.
 >
-> Também uso IA no processo, com um cuidado: a direção é pensada por gente. A ferramenta ajuda a aplicar e escalar o que já está claro.
+> Em 2021 abri meu próprio negócio, sem ninguém na família que tivesse empreendido antes. Ele virou a Skave, onde hoje eu e meu sócio fazemos posicionamento de marca para SaaS B2B que já tem produto no mercado. A gente começa pela estratégia, porque logo bonito em cima de uma mensagem confusa continua vendendo mal. Entende o negócio, olha a concorrência, encontra o que só aquela empresa tem e escreve isso de um jeito que o time inteiro consegue repetir. Depois vêm identidade, site e as primeiras peças no digital. Estratégia primeiro, design depois.
 >
-> Antes disso, passei sete anos no Exército, de soldado a sargento. Abri meu negócio em 2021, sem ninguém na família que tivesse empreendido, e aprendi muito do que sei lendo, estudando e errando na prática. Hoje dou palestras e aulas sobre marca e posicionamento.
+> Uso IA todo dia no processo. Ela escala o que já está claro. Se a direção está confusa, ela só espalha a confusão mais rápido.
 >
-> Por aqui eu falo da vida de quem vende software, de marca que ajuda a vender e do que continua sendo humano num mercado cheio de IA.
+> Por aqui eu escrevo sobre a vida de quem vende software, sobre marca que ajuda a vender e sobre o que continua humano num mercado cheio de IA. Falo direto, às vezes provoco, e tento sempre deixar alguma coisa que você leva pra próxima reunião.
 >
-> Se o seu SaaS precisa de você em toda conversa pra ser entendido, me acompanha por aqui. E se quiser conversar sobre o posicionamento da sua empresa, o link do formulário está no perfil.
+> Se o seu SaaS ainda precisa de você na sala pra ser entendido, me acompanha por aqui. E se quiser conversar sobre isso na sua empresa, me chama ou usa o link do perfil.
 >
 > Posicione-se ou será posicionado.
 
 **Capa** (1584 × 396 px):
 
-- Fundo claro `#F3F3E7` com texto em `#252F25`, ou a versão escura `#252F25` com texto em `#F8F8F6`, a mesma escolhida para o YouTube, para as duas redes ficarem iguais.
-- Texto alinhado à direita, porque a foto de perfil cobre o canto inferior esquerdo no computador e o centro-esquerda no celular.
-- Título em Instrument Sans Medium: **Faça o mercado entender por que o seu SaaS vale mais.**
-- Linha de apoio em Courier Prime: **Posicionamento para SaaS B2B · Posicione-se ou será posicionado.**
-- Só texto, pelo mesmo motivo do banner do YouTube.
+- Fundo `#252F25` com texto em `#F8F8F6`, igual ao banner do YouTube, para as duas redes ficarem reconhecíveis.
+- Na ponta direita, a mesma foto da palestra recortada no rosto e no microfone.
+- Texto no centro, longe do canto esquerdo, que a foto de perfil cobre no computador e no celular.
+- Título em Instrument Sans Medium: **Seu SaaS é bom. Falta o mercado entender isso.**
+- Linha de apoio em Courier Prime: **Mateus Ritter · cofundador da Skave · Posicione-se ou será posicionado.**
 
 **Experiência na Skave**, descrição curta:
 
-> Cofundador. Posicionamento de marca para SaaS B2B com produto no mercado: estratégia, narrativa, identidade e as primeiras ativações digitais, com acompanhamento depois da entrega.
+> Sou cofundador da Skave, onde a gente faz posicionamento de marca para SaaS B2B com produto no mercado: estratégia, narrativa, identidade e as primeiras peças no digital, e continua junto depois da entrega pra ver a marca funcionando.
 
-**Destaques (Em destaque):** os três conteúdos fixados e, quando estiver pronto, o formulário.
+**Em destaque:** a palestra, o post da história do Exército e uma análise de SaaS. Quando estiver pronto, o formulário.
 
 **Link no perfil / site personalizado:** o formulário da call.
 
 ## Pendências antes de publicar
 
-- Ritter confirmar os fatos usados nas descrições (sete anos no Exército, de soldado a sargento, negócio aberto em 2021) e se quer expor esse trecho em todas as redes, conforme [08](08-narrativa-pessoal.md).
+- Ritter confirmar os fatos usados nas descrições (sete anos no Exército, saída como sargento, negócio aberto em 2021 que virou a Skave, a timidez de antes) e se quer expor esses trechos em todas as redes, conforme [08](08-narrativa-pessoal.md). As sete faculdades já foram aprovadas no reels de 14 de novembro.
+- Se Ritter quiser ir além, há trechos que deixariam o perfil ainda mais pessoal e que só ele decide se publica: gaúcho de Porto Alegre que mudou pra Palhoça em 2020, criado pela mãe e pela avó.
+- Confirmar se o Mateus Seifert pode ser citado como sócio no LinkedIn.
 - Formulário da call pronto, para trocar o link provisório.
 - Escolher o modo de cor das capas (claro ou escuro) e produzir as peças no Claude Design ou no Figma com o brand kit.
 - Conferir se o identificador @mateusritter está livre no YouTube e no TikTok.
