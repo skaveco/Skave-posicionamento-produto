@@ -22,7 +22,13 @@ Antes de aumentar a verba de anúncio, lê a primeira frase do seu site em voz a
 
 Mais verba leva mais gente até essa frase. Vale ter certeza de que ela diz pra quem é o seu SaaS e o que muda pra quem usa.
 
-Se você quer que quem chega pelo anúncio entenda o seu SaaS na primeira frase, me acompanha por aqui. Eu falo sobre como deixar o site pronto pra receber esse tráfego.
+## Legenda
+
+Anúncio e site precisam contar a mesma história, ou o clique vira dúvida. Eu falo bastante sobre essa ponte entre o que o anúncio promete e o que o site explica. Se isso tá no seu radar agora, segue o perfil.
+
+## Notas de produção
+
+Convite para seguir na legenda. A arte termina sem CTA de seguir; não acrescentar o texto de exemplo do Fechamento.
 
 ## Base e dependências
 

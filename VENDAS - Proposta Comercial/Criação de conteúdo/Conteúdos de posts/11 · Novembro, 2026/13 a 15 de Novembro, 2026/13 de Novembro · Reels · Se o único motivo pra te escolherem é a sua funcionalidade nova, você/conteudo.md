@@ -31,7 +31,7 @@ Funcionalidade continua importante, claro. Só que ela precisa estar ligada a al
 Faz um teste com o seu último lançamento. Tenta explicar por que ele importa sem dizer o nome da funcionalidade. Se você só consegue falar do botão novo, a explicação ainda tá presa ao produto e longe do cliente.
 
 ### Take 6
-Se você quer que o seu SaaS continue sendo escolhido quando o concorrente lançar a mesma coisa, me acompanha por aqui. Eu falo sobre como construir uma diferença que vai além da lista de funcionalidades.
+Eu vou continuar falando aqui sobre como um SaaS se diferencia quando a funcionalidade deixa de ser exclusiva. Se isso te preocupa, me segue pra não perder.
 
 ## Notas de produção
 

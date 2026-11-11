@@ -24,7 +24,13 @@ Aí o cliente pergunta no chat, ouve uma coisa, entra na call e ouve outra. Ele 
 
 O assistente precisa partir da mesma mensagem que o seu time usa.
 
-Se você quer que o chatbot, o site e o comercial falem do seu SaaS do mesmo jeito, me acompanha por aqui. Eu falo sobre como usar IA sem criar mais uma versão da sua empresa.
+## Legenda
+
+Testa hoje: faz pro chatbot do seu site a pergunta que um cliente novo faria e compara com o que o seu vendedor responderia. Se as respostas forem diferentes, vale começar por aí. Eu sigo falando por aqui sobre IA a serviço da marca. Se o tema te interessa, me segue.
+
+## Notas de produção
+
+Convite para seguir na legenda. A arte termina sem CTA de seguir; não acrescentar o texto de exemplo do Fechamento.
 
 ## Base e dependências
 

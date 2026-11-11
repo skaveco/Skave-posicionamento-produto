@@ -22,7 +22,7 @@ Dá vontade de mudar, eu sei. A frase cansa você muito antes de cansar o mercad
 
 Quem troca a mensagem a cada trimestre apaga a lembrança que estava começando a se formar. Manter a mesma direção dá menos empolgação que uma frase nova, só que é isso que faz o cliente lembrar de vocês.
 
-Se você quer uma mensagem que aguente mais do que um trimestre, me acompanha por aqui. Eu falo sobre como chegar numa direção que vale a pena manter.
+Se você é do time que troca a frase todo ano, fica por perto. Eu falo bastante por aqui sobre como chegar numa direção que vale a pena manter.
 
 ## Base e dependências
 

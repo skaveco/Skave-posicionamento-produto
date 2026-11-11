@@ -79,7 +79,7 @@ Para cada slide ou estático, leia o template correspondente do brand kit e grav
   - **Diagrama:** use o template Conteúdo com diagrama. Para o padrão A, preencha os dois blocos. Para os padrões B a F, reconstrua na área de 864 px a estrutura do artboard Diagramas, em escala do slide (rótulos Courier Prime Bold 20 px, texto 40–48 px), com as cores por variável (`{{txt}}`, `{{sup}}`, `{{line}}`, `{{soft}}`).
   - O texto do slide continua sendo o aprovado. Se ele não couber com o elemento sem reduzir a fonte, proponha o corte do texto ou a troca para `nenhum` e aguarde validação.
 - **Carrosséis:** use um destaque tipográfico leve por composição quando ajudar a leitura. Aplique o sublinhado em um `<span>` do trecho e a cor de apoio (`{{sup}}` no texto principal, ou `{{txt}}` quando o bloco já está na cor de apoio). Em um contraste real, os dois blocos do Conteúdo podem alternar `{{txt}}` e `{{sup}}`.
-- Preserve o CTA contextual aprovado. O texto de exemplo do template de Fechamento ("Siga @mateusritter…") nunca entra na peça.
+- Preserve o CTA contextual aprovado. O texto de exemplo do template de Fechamento ("Siga @mateusritter…") nunca entra na peça. Quando `## Notas de produção` indicar o convite para seguir na legenda, o Fechamento usa só o texto aprovado do último slide, sem acrescentar CTA.
 - Se for preciso cortar, reescrever, fundir ou mudar a quantidade de slides, apresente a proposta editorial e aguarde a validação antes de aplicar.
 
 Siga as instruções do tipo Design que o Artifact devolve ao criar ou ler o canvas: `canvas.json` primeiro, depois um artboard por vez. Não renderize, não tire screenshot e não abra o canvas para conferir sem que o usuário peça.

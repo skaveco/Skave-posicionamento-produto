@@ -160,7 +160,7 @@ Na biblioteca, as ilustrações usam cores fixas do modo Light. Ao aplicar num t
 
 1. **Capa:** apresentar a situação e uma tensão, consequência ou descoberta que dê motivo para passar ao próximo slide.
 2. **Desenvolvimento:** escolher o modelo textual ou com foto conforme o argumento. A imagem deve contribuir para a explicação.
-3. **Fechamento:** concluir o raciocínio e escrever um convite explícito para seguir @mateusritter, ligado ao assunto desenvolvido.
+3. **Fechamento:** concluir o raciocínio e escrever um convite explícito para seguir @mateusritter, ligado ao assunto desenvolvido. Quando o `conteudo.md` indicar o convite na legenda, o Fechamento termina com o texto aprovado (conclusão ou outra ação, como salvar o post) e não ganha um CTA de seguir.
 
 A quantidade de slides acompanha o desenvolvimento necessário. Alternar claro e escuro pode ajudar a marcar mudanças de etapa; manter a hierarquia e os modos consistentes dentro de cada peça.
 
@@ -181,7 +181,7 @@ Aplicar a mesma regra nos estáticos, reels, stories e legendas. A [skill skave-
 - Verificar fontes, quebras de linha, crescimento das caixas e distância do rodapé.
 - Conferir assinatura, grafia “SaaS B2B” e recorte das fotografias.
 - Revisar contraste sobre imagens e leitura na escala de celular.
-- Garantir que o último slide ou texto encerre com um CTA ligado ao conteúdo.
+- Garantir que o último slide ou texto encerre com o fechamento aprovado: o CTA ligado ao conteúdo ou, quando o convite estiver na legenda, a conclusão ou ação aprovada.
 - Exportar cada prancheta individualmente, na ordem do conteúdo, mantendo 1080 × 1350 px para os modelos atuais.
 
 ## Fonte e manutenção

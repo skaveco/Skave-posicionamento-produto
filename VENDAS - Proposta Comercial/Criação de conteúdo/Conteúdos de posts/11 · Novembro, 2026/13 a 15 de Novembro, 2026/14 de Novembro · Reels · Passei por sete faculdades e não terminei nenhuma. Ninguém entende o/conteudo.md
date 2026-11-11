@@ -31,7 +31,7 @@ A lista é verdade, só que ela fala do produto. O cliente quer ouvir sobre a ro
 Faz um teste agora. Pega a primeira frase do seu site e vê se ela fala de funcionalidade ou do problema do cliente. Se fala de funcionalidade, é por ela que dá pra começar a mexer.
 
 ### Take 6
-Se você quer explicar o seu SaaS de um jeito que o cliente se reconheça, me acompanha por aqui. Eu falo sobre como apresentar o produto a partir do problema de quem compra.
+Se a sua apresentação também começa pela lista, segue aqui. Eu vou mostrando jeitos de explicar o produto a partir do problema de quem compra.
 
 ## Base e dependências
 

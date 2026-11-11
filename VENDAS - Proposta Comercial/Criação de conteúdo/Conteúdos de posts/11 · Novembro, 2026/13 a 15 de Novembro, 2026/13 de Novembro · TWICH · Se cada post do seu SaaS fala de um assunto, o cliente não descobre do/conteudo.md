@@ -22,7 +22,13 @@ Segunda é dica de produtividade, quarta é data comemorativa, sexta é print de
 
 E quem tá pensando em comprar abre o perfil justamente pra descobrir isso.
 
-Se você quer que o feed do seu SaaS deixe claro do que vocês entendem, me acompanha por aqui. Eu falo sobre como escolher os assuntos que fazem o cliente lembrar de vocês.
+## Legenda
+
+Abre o perfil do seu SaaS e lê os últimos nove posts em sequência. Se não dá pra dizer em que vocês são especialistas, falta escolher os assuntos antes de postar mais. Esse é um dos temas que eu mais trago aqui. Se faz sentido pra você, me segue que vem mais.
+
+## Notas de produção
+
+Convite para seguir na legenda. A arte termina sem CTA de seguir; não acrescentar o texto de exemplo do Fechamento.
 
 ## Base e dependências
 

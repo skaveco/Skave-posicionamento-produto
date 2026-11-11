@@ -15,4 +15,4 @@ Os seis territórios abaixo conectam a visão de Ritter às situações vividas 
 
 Todo tema deve partir de uma dor atendida pelo produto Posicionamento de Marca e desenvolvê-la no conteúdo, conforme [04](04-dores-e-desejos.md). Os pilares oferecem ângulos diferentes para tratar essas dores. História pessoal, disciplina, networking e IA entram quando ajudam a explicar, por exemplo, a dependência do fundador, a comunicação incoerente ou a dificuldade de diferenciar o software. Uma ligação mencionada apenas no CTA não é suficiente.
 
-O conteúdo pode trabalhar a dor sem apresentar o serviço diretamente, conforme a etapa do funil. Todos os conteúdos terminam com uma chamada explícita para seguir o perfil. Casos reais e história pessoal devem respeitar autorização e limites de exposição.
+O conteúdo pode trabalhar a dor sem apresentar o serviço diretamente, conforme a etapa do funil. Todos os conteúdos terminam com uma chamada explícita para seguir o perfil, na peça ou na legenda. Casos reais e história pessoal devem respeitar autorização e limites de exposição.

@@ -31,7 +31,7 @@ Aí ele acha que o problema é falar em público. Só que, se a mensagem da empr
 Antes do próximo evento, escreve em duas frases pra quem é o seu SaaS e o que muda pra quem usa. Lê em voz alta até sair natural. Com isso pronto, a conversa fica bem mais leve.
 
 ### Take 6
-Se você quer apresentar o seu SaaS com segurança em qualquer conversa, me acompanha por aqui. Eu falo sobre como decidir a mensagem antes de precisar dela.
+Se você também trava na hora de explicar o que a sua empresa faz, me segue. Eu vou trazendo aqui como chegar nessa mensagem antes do próximo evento.
 
 ## Notas de produção
 

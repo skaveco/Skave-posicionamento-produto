@@ -31,7 +31,7 @@ Agora abre o seu site e procura essas palavras. Se o site fala de “plataforma 
 Com três respostas você já tem por onde começar. O que se repete entre elas merece aparecer no topo do site e na fala do comercial.
 
 ### Take 6
-Se você quer que o seu site diga o que faz os clientes escolherem vocês, me acompanha por aqui. Eu falo sobre como transformar a fala do cliente na mensagem da empresa.
+Faz o teste e me conta nos comentários o que apareceu. E segue o perfil, que eu vou continuar trazendo exercícios pra deixar a sua mensagem mais perto do que o cliente compra.
 
 ## Notas de produção
 

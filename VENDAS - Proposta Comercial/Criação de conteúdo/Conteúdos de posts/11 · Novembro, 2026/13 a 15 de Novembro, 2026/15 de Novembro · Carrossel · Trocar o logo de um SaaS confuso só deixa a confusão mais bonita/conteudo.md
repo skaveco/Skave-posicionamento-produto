@@ -42,7 +42,7 @@ Aí a marca nova chega com algo novo pra dizer.
 ### Slide 5
 **Título:** Estratégia primeiro, design depois.
 
-**Subtítulo:** Se você já investiu em marca e sentiu que mudou só a aparência, me acompanha por aqui. Eu falo sobre o que precisa estar decidido antes de qualquer logo novo.
+**Subtítulo:** Já investiu em marca e sentiu que mudou só a aparência? Segue aqui que eu vou mostrar o que precisa estar decidido antes de qualquer logo novo.
 
 ## Visual
 

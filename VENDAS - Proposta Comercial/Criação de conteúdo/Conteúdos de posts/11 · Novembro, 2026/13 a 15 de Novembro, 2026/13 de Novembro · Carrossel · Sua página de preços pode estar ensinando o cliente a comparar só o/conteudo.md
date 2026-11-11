@@ -42,7 +42,7 @@ Se nada nela explica pra quem é cada plano, o preço vai ser a única diferenç
 ### Slide 5
 **Título:** O cliente compara do jeito que a sua página ensina.
 
-**Subtítulo:** Se você quer que a sua página de preços ajude a mostrar o valor do seu SaaS, me acompanha por aqui. Eu falo sobre como apresentar planos sem virar uma tabela de comparação.
+**Subtítulo:** Salva esse post pra revisar a sua página com calma.
 
 ## Visual
 
@@ -51,6 +51,14 @@ Se nada nela explica pra quem é cada plano, o preço vai ser a única diferenç
 - Slide 3: diagrama A · Comparação
 - Slide 4: ícone `diagnóstico`
 - Slide 5: nenhum
+
+## Legenda
+
+Quando a página de preços nasce copiando a do concorrente, todo mundo ensina o cliente a comparar do mesmo jeito. Se você quer ver mais sobre como mostrar o valor do seu SaaS antes da conversa de preço, segue o perfil. É disso que eu falo por aqui.
+
+## Notas de produção
+
+Convite para seguir na legenda. A arte termina sem CTA de seguir; não acrescentar o texto de exemplo do Fechamento.
 
 ## Base e dependências
 

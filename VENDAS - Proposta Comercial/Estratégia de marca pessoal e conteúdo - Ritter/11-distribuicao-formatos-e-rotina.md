@@ -10,11 +10,11 @@
 
 As proporções são referência para o conjunto da produção. Temas podem mudar quando aparecer um fato real relevante, preservando o foco no público.
 
-Em todas as etapas, o conteúdo deve desenvolver uma dor atendida pelo produto Posicionamento de Marca. **Toda peça termina com uma chamada explícita para seguir o perfil de Ritter.** Essa chamada deve conectar o benefício de acompanhar o perfil à dor tratada. Outros pedidos de interação ou convites comerciais não substituem esse fechamento.
+Em todas as etapas, o conteúdo deve desenvolver uma dor atendida pelo produto Posicionamento de Marca. **Toda peça termina com uma chamada explícita para seguir o perfil de Ritter.** Essa chamada deve conectar o benefício de acompanhar o perfil à dor tratada. Outros pedidos de interação ou convites comerciais não substituem esse fechamento. O convite pode ficar no fim da peça ou, em parte dos posts, na legenda, para os fechamentos não ficarem sempre iguais (decisão de Ritter em 11 de novembro de 2026). Nesses casos, a arte termina com a conclusão ou com outra ação ligada ao conteúdo, e a legenda traz o convite. Reels mantêm o convite na fala.
 
 ## Formatos
 
-- **Texto curto em arte estática:** texto final com uma opinião direta sobre a dor e chamada para seguir ao final da peça.
+- **Texto curto em arte estática:** texto final com uma opinião direta sobre a dor e chamada para seguir ao final da peça ou na legenda.
 - Respostas sobre as caixinhas de perguntas, baixar os stories e publicar como reels (fazer isso apenas com perguntas relevantes ao publico alvo).
 - Takes aleatórios (tomando café, palestrando, etc) + frase ou frase com conteúdo na legenda
 - **Reels com Ritter falando:** roteiro completo take a take, numerado, com o que Ritter deve falar em cada trecho. Começar pelo gancho, desenvolver a dor e a orientação, e encerrar a última fala com a chamada para seguir. Texto de tela e indicações visuais entram quando ajudarem a gravação.

@@ -41,7 +41,7 @@ O trabalho começa justamente aí: juntar essas pistas até a resposta caber num
 ### Slide 5
 **Título:** Responde as cinco antes de pensar no logo.
 
-**Subtítulo:** Se você quer ver como essas respostas viram o posicionamento do seu SaaS, me acompanha por aqui. Eu mostro o que acontece em cada etapa antes do design.
+**Subtítulo:** Manda pro seu sócio e vê se vocês respondem igual.
 
 ## Visual
 
@@ -51,7 +51,13 @@ O trabalho começa justamente aí: juntar essas pistas até a resposta caber num
 - Slide 4: ícone `mensagem`
 - Slide 5: nenhum
 
+## Legenda
+
+Essas perguntas abrem a Escavação, a primeira etapa de um projeto de posicionamento aqui na Skave. Nos próximos posts eu vou mostrando o que vem depois delas. Se quiser acompanhar o processo por dentro, me segue.
+
 ## Notas de produção
+
+Convite para seguir na legenda. A arte termina sem CTA de seguir; não acrescentar o texto de exemplo do Fechamento.
 
 As perguntas do Slide 3 são uma síntese da Escavação para o conteúdo, sem dados de cliente.
 
