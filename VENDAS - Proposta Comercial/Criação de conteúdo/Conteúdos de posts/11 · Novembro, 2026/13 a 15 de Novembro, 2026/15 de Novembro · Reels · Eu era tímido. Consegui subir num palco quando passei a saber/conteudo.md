@@ -6,7 +6,7 @@ formato: Reels
 funil: Topo
 pilar: Networking e parcerias
 dor: É difícil explicar o valor do software em poucas palavras (documento 04, dores práticas)
-status: rascunho
+status: aprovado
 producao:
 template:
 modo_cor:

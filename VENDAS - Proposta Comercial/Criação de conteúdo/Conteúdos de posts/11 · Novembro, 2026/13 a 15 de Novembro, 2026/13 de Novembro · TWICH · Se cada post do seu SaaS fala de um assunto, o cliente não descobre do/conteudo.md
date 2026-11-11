@@ -6,7 +6,7 @@ formato: TWICH
 funil: Topo
 pilar: Marca que vende
 dor: Publicações saem isoladamente, sem critérios de tema, linguagem ou direção visual (documento 04, dores práticas)
-status: rascunho
+status: aprovado
 producao:
 template:
 modo_cor:

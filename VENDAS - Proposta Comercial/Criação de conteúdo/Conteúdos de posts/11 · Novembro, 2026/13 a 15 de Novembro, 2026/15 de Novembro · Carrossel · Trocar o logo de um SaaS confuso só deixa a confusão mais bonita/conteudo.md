@@ -6,7 +6,7 @@ formato: Carrossel
 funil: Topo
 pilar: Marca que vende
 dor: Receio de investir em marca e receber apenas uma mudança estética (documento 04, dores emocionais)
-status: rascunho
+status: aprovado
 producao:
 template:
 modo_cor:

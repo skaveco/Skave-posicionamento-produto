@@ -6,7 +6,7 @@ formato: TWICH
 funil: Topo
 pilar: Anti-manada e disciplina
 dor: Site, proposta, redes e apresentação comercial descrevem o produto de maneiras diferentes (documento 04, dores práticas)
-status: rascunho
+status: aprovado
 producao:
 template:
 modo_cor:

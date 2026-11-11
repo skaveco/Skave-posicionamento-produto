@@ -6,7 +6,7 @@ formato: Carrossel
 funil: Fundo
 pilar: Marca que vende
 dor: É difícil explicar o valor do software em poucas palavras (documento 04, dores práticas)
-status: rascunho
+status: aprovado
 producao:
 template:
 modo_cor:
