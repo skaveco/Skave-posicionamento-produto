@@ -6,11 +6,11 @@ formato: Carrossel
 funil: Fundo
 pilar: Marca que vende
 dor: É difícil explicar o valor do software em poucas palavras (documento 04, dores práticas)
-status: aprovado
-producao:
-template:
-modo_cor:
-link_arte:
+status: em produção
+producao: Claude Design
+template: Capa com ícone + Conteúdo com ilustração + Conteúdo com diagrama (D) + Conteúdo com ícone + Fechamento
+modo_cor: Claro (Fechamento escuro, padrão do template)
+link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw
 ---
 
 ## Texto publicável
