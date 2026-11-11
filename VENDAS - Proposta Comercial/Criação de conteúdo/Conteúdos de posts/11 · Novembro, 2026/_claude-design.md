@@ -16,4 +16,3 @@
 | --- | --- |
 | 13 a 15 de Novembro, 2026 | `s13-15` |
 | 16 a 22 de Novembro, 2026 | `s16-22` |
-| 23 a 29 de Novembro, 2026 | `s23-29` |
