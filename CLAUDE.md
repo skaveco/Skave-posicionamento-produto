@@ -38,5 +38,6 @@ Status: `rascunho` → `aprovado` → `em produção` → `arte pronta` → `pub
 
 ## Trabalho a dois
 
-- Antes de começar, atualize o repositório (`git pull`). Ao terminar, faça commit e push para o outro ver.
+- Antes de começar, atualize o repositório (`git pull origin main`). Ao terminar, faça commit e push para o outro ver.
+- Tudo vai direto para o `main`, sem branch nem pull request, inclusive em sessões na nuvem que abram em outro branch. Antes do push, `git pull --rebase origin main` para trazer o que o outro enviou.
 - Uma pessoa por vez no mesmo post. O `_semana.md` da semana é o lugar de combinar quem está com o quê.
