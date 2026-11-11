@@ -33,6 +33,10 @@ Com três respostas você já tem por onde começar. O que se repete entre elas 
 ### Take 6
 Faz o teste e me conta nos comentários o que apareceu. E segue o perfil, que eu vou continuar trazendo exercícios pra deixar a sua mensagem mais perto do que o cliente compra.
 
+## Legenda
+
+Uma mensagem, uma pergunta: o que fez você fechar com a gente e não com outra empresa? Às vezes a resposta traz palavras que não aparecem em lugar nenhum do seu site. Faz o teste e me conta aqui o que apareceu.
+
 ## Notas de produção
 
 Variação do Take 5 do reels de 25 de Novembro, aqui desenvolvida como exercício completo. Os exemplos de resposta são ilustrativos, não relatos de clientes.

@@ -33,6 +33,10 @@ Faz um teste com o seu último lançamento. Tenta explicar por que ele importa s
 ### Take 6
 Eu vou continuar falando aqui sobre como um SaaS se diferencia quando a funcionalidade deixa de ser exclusiva. Se isso te preocupa, me segue pra não perder.
 
+## Legenda
+
+Funcionalidade nova ajuda a vender, só que sozinha ela tem prazo de validade. O que segura o cliente é ele entender por que vocês resolvem o problema dele melhor que o resto. Faz o teste do vídeo com o seu último lançamento: dá pra explicar por que ele importa sem dizer o nome dele? Se esse assunto te pega, me segue que eu volto nele.
+
 ## Notas de produção
 
 Texto de tela sugerido no Take 1: “Funcionalidade nova se copia.”

@@ -81,7 +81,7 @@ link_arte:
 - **`producao`, `template`, `modo_cor` e `link_arte`:** ficam vazios até a produção; a skill de produção os preenche.
 - **Texto publicável:** reels em `### Take 1`, `### Take 2`...; carrosséis em `### Slide 1`, `### Slide 2`...; estáticos e TWICH em `### Arte`; stories em `### Quadro 1`... Notas de produção, imagem sugerida e classificações ficam fora do texto publicável.
 - **`## Visual`** (somente carrosséis): uma linha por slide indicando o elemento visual, conforme a seção [Elementos visuais nos carrosséis](#elementos-visuais-nos-carrosséis). Fica fora do texto publicável.
-- Inclua `## Legenda` quando a legenda fizer parte do pedido ou quando o convite para seguir estiver nela; caso contrário, omita a seção.
+- **Todo post tem `## Legenda`** (decisão de Ritter em 11 de Novembro, 2026), em todos os formatos: de duas a quatro frases que acrescentam algo à peça (um teste, um contexto, um bastidor), sem repetir o texto da arte, seguindo os vícios proibidos e a variedade de CTA. Quando o convite para seguir estiver na legenda, ela termina com ele. A legenda aparece no calendário, com botão de copiar.
 
 ### Sincronize o calendário
 

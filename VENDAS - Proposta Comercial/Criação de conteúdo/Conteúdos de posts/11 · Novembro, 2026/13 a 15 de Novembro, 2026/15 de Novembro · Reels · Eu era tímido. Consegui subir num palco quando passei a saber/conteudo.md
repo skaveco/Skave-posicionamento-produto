@@ -33,6 +33,10 @@ Antes do próximo evento, escreve em duas frases pra quem é o seu SaaS e o que 
 ### Take 6
 Me conta aqui nos comentários a frase que você usa hoje pra apresentar a sua empresa. Eu leio e respondo. E me segue, que eu vou trazendo aqui como chegar nessa mensagem antes do próximo evento.
 
+## Legenda
+
+Falar em público fica bem mais fácil quando a mensagem já tá decidida antes. Escreve aqui nos comentários a frase que você usa hoje pra apresentar a sua empresa, que eu leio e respondo.
+
 ## Notas de produção
 
 O Take 6 promete resposta: Ritter responde os comentários com a frase de cada um.

@@ -60,6 +60,8 @@ def ler(md, raiz):
     doc["data"] = data_iso(meta.get("data", ""))
     doc["status"] = (doc["status"] or "rascunho").lower()
     doc["texto"] = texto.group(1).strip() if texto else ""
+    legenda = re.search(r"^## Legenda\s*\n(.*?)(?=^## |\Z)", corpo, re.S | re.M)
+    doc["legenda"] = legenda.group(1).strip() if legenda else ""
     pasta = md.parent
     arte = pasta / "arte"
     doc["artes"] = len(list(arte.glob("*.png"))) if arte.is_dir() else 0

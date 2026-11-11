@@ -33,6 +33,10 @@ Faz um teste agora. Pega a primeira frase do seu site e vê se ela fala de funci
 ### Take 6
 Se a sua apresentação também começa pela lista, segue aqui. Eu vou mostrando jeitos de explicar o produto a partir do problema de quem compra.
 
+## Legenda
+
+Diploma nunca foi o que fez alguém confiar no meu trabalho. Com software é igual: a lista de funcionalidades diz o que o produto tem, mas não mostra se vocês entendem o problema de quem compra. Olha a primeira frase do seu site hoje e vê de que lado ela tá. Segue aqui que eu vou mostrando como apresentar o seu SaaS a partir do problema do cliente.
+
 ## Base e dependências
 
 - Base biográfica: passagem por sete faculdades sem concluir diploma (documento 08).

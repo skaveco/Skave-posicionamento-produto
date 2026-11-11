@@ -35,6 +35,10 @@ Quem não entendeu antes compara você pelo que dá para ver de fora: preço e l
 
 **Subtítulo:** Se você quer que o cliente chegue na demo já sabendo por que escolher você, me acompanha por aqui. Eu falo sobre como levar essa clareza para cada canal.
 
+## Legenda
+
+Antes da demo, o cliente já passou pelo seu site, pelo seu perfil e talvez por uma proposta. Se nenhum desses lugares explica pra quem é o produto, ele chega na call ainda tentando entender o básico, isso quando chega. Abre o seu site e lê só o topo: dá pra entender sem ninguém explicar? Me segue que eu falo mais sobre como levar essa clareza pra antes da call.
+
 ## Notas de produção
 
 - Piloto técnico do fluxo Claude Design (10 de Novembro, 2026). Texto e arte aprovados pelo usuário em 10 de Novembro, 2026.
