@@ -21,8 +21,8 @@ Transforme o conteúdo aprovado em artboards editáveis no Claude Design, usando
 | Carrossel · Conteúdo | `project/Conteudo.dc.html` | Desenvolvimento textual, até dois blocos de 44 px |
 | Carrossel · Conteúdo com foto | `project/ConteudoFoto.dc.html` | Imagem e comentário de 35 px |
 | Carrossel · Fechamento | `project/Fechamento.dc.html` | Conclusão e CTA contextual (padrão escuro) |
-| Estático · TWICH | `project/Twich.dc.html` | Texto curto com assinatura |
-| Estático · TWICH com foto | `project/TwichFoto.dc.html` | Texto com imagem |
+| Estático · Tweet | `project/Twich.dc.html` | Texto curto com assinatura |
+| Estático · Tweet com foto | `project/TwichFoto.dc.html` | Texto com imagem |
 | Imagem de fundo | `project/Imagem.dc.html` | Fotografia de fundo com título |
 | Carrossel · Conteúdo com ícone | `project/ConteudoIcone.dc.html` | Ícone em círculo `soft` acima de dois blocos de 44 px |
 | Carrossel · Conteúdo com ilustração | `project/ConteudoIlustracao.dc.html` | Ilustração de 690 × 460 acima de dois blocos de 40 px |
@@ -44,11 +44,11 @@ Produza apenas arquivos com `status: aprovado`. Se o status for `rascunho` mas o
 
 - **Carrossel:** `### Slide 1` usa a Capa; o último slide usa o Fechamento. Nos slides do meio, a linha do slide em `## Visual` define o template: `nenhum` → Conteúdo; `ícone` → Conteúdo com ícone; `ilustração` → Conteúdo com ilustração; `diagrama` → Conteúdo com diagrama; `foto` → Conteúdo com foto. Sem a seção `## Visual` (posts antigos), use Conteúdo, ou Conteúdo com foto quando houver imagem indicada para o slide.
 - **Ícone na Capa ou no Fechamento:** quando `## Visual` pedir, mantenha o template e acrescente o ícone pequeno (48–56 px, traço `{{txt}}`) acima do título, sem reduzir o texto. Na Capa, nunca use ilustração, diagrama ou foto, mesmo que `## Visual` indique; nesse caso, avise e mantenha só o texto.
-- **TWICH:** usa o TWICH textual. Use TWICH com foto apenas quando o `conteudo.md` indicar uma imagem para a peça.
-- **Estático:** usa Imagem de fundo quando o `conteudo.md` indicar uma fotografia como base da peça; caso contrário, TWICH textual.
+- **Tweet** (formato que antes se chamava TWICH; os templates do brand kit ainda usam esse nome: `Twich.dc.html` e `TwichFoto.dc.html`): usa o Tweet textual, **sempre no template branco**, com `mode` `light` (fundo `#F8F8F6`), mesmo quando o lote alterna o modo por dia. O modo de cor não é perguntado para tweets. Use Tweet com foto apenas quando o `conteudo.md` indicar uma imagem para a peça.
+- **Estático:** usa Imagem de fundo quando o `conteudo.md` indicar uma fotografia como base da peça; caso contrário, Tweet textual.
 - Se o texto de um slide não couber no template escolhido sem reduzir a fonte, não troque de template por conta própria: proponha o corte ou a divisão do texto para validação.
 
-**Modo de cor:** pergunte apenas o modo, claro ou escuro, quando ainda não tiver sido informado para a peça ou o lote. Nos carrosséis, o Fechamento segue o padrão escuro do brand kit, salvo se o usuário pedir o mesmo modo do restante. Em lotes semanais, faça uma única pergunta de modo para o lote, aceitando exceções por dia ou título. Uma preferência informada como recorrente vale para as semanas seguintes.
+**Modo de cor:** tweets são sempre brancos (modo claro). Para as outras peças, pergunte apenas o modo, claro ou escuro, quando ainda não tiver sido informado para a peça ou o lote. Nos carrosséis, o Fechamento segue o padrão escuro do brand kit, salvo se o usuário pedir o mesmo modo do restante. Em lotes semanais, faça uma única pergunta de modo para o lote, aceitando exceções por dia ou título. Uma preferência informada como recorrente vale para as semanas seguintes.
 
 **Foto:** use o arquivo indicado em `## Visual`, sem perguntar. As fotos de Ritter ficam no [catálogo do ensaio](../../../VENDAS%20-%20Proposta%20Comercial/Criação%20de%20conteúdo/Ensaio%20Fotogáfico%20Ritter/_catalogo.md), em PNG original, sem compressão: envie o arquivo como está como asset do canvas de produção (`publish` com `asset: true`). Nunca converta para JPEG nem comprima. O limite de asset é 15 MB: quando houver uma cópia da foto em `Ensaio Fotogáfico Ritter/claude-design/` (mesmo nome, PNG em 2160 px), envie a cópia; senão, envie o original. Reutilize o `/_blob/<id>` se a mesma foto já tiver sido enviada ao canvas do mês (registre o mapeamento em `_claude-design.md`). Ajuste o enquadramento com `object-fit: cover` e `object-position` para manter olhos e boca inteiros na área de 856 × 508, e aplique os cuidados de recorte do catálogo (pessoas de terceiros e banners fora do quadro). Só pergunte quando `## Visual` pedir foto sem arquivo e nenhuma do catálogo servir; nesse caso, ofereça trocar para o template sem foto. **Nunca gere imagem com o rosto ou o corpo de Ritter.** Imagem gerada só para cenas sem pessoas reconhecíveis, informando que foi gerada. Não deixe placeholder.
 
@@ -72,7 +72,7 @@ Para cada slide ou estático, leia o template correspondente do brand kit e grav
 
 - Preserve estrutura, fontes (`<link>` do Google Fonts), tamanhos, margens, cabeçalho, assinatura, selo, seta e o bloco `data-dc-script`. Mude o `default` de `mode` para o modo escolhido.
 - Substitua somente os textos de exemplo pelo texto aprovado, distribuído entre título, subtítulo e blocos conforme o slide. Remova o subtítulo quando não houver. Escape `&`, `<` e `>` no texto.
-- **TWICH textual: mantenha o layout padrão e preencha apenas o texto**, sem ícones, blocos ou destaques fora do padrão.
+- **Tweet textual: mantenha o layout padrão e preencha apenas o texto**, sem ícones, blocos ou destaques fora do padrão.
 - **Elementos visuais:** leia o artboard da biblioteca correspondente no brand kit e copie o `<svg>` do item indicado em `## Visual`.
   - **Ícone:** copie os `<path>`, `<rect>` e `<circle>` do ícone para o `<svg>` do template Conteúdo com ícone, no lugar do ícone de exemplo; mantenha `stroke="{{txt}}"` e stroke 1,75.
   - **Ilustração:** substitua o `<svg>` de exemplo do template pelo da biblioteca, mantendo `width="690" height="460"` e o `viewBox="0 0 240 160"`. Troque as cores fixas: `#252F25` → `{{txt}}`, `#667266` → `{{sup}}`, `#E4E4D2` → `{{soft}}`. Nenhum hex da biblioteca pode sobrar na peça.

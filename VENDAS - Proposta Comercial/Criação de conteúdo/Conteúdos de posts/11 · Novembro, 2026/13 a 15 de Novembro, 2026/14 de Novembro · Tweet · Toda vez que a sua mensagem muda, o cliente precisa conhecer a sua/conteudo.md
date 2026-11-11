@@ -2,13 +2,13 @@
 titulo: Toda vez que a sua mensagem muda, o cliente precisa conhecer a sua empresa do zero.
 data: 14 de Novembro, 2026
 rede: Instagram
-formato: TWICH
+formato: Tweet
 funil: Topo
 pilar: Anti-manada e disciplina
 dor: Site, proposta, redes e apresentação comercial descrevem o produto de maneiras diferentes (documento 04, dores práticas)
 status: arte pronta
 producao: Claude Design
-template: Estático · TWICH
+template: Estático · Tweet (template branco)
 modo_cor: Claro
 link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw
 ---

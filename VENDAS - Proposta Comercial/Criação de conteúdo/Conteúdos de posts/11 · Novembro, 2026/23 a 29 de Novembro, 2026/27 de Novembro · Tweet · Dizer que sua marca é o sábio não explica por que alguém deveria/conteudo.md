@@ -2,7 +2,7 @@
 titulo: Dizer que sua marca é "o sábio" não explica por que alguém deveria escolher você.
 data: 27 de Novembro, 2026
 rede: Instagram
-formato: TWICH
+formato: Tweet
 funil: Topo
 pilar: Anti-manada e disciplina
 dor: O comprador compara preço ou lista de funcionalidades porque não percebe a diferença relevante (documento 04, dores práticas)

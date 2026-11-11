@@ -2,7 +2,7 @@
 titulo: Seu produto pode ser melhor do que a sua marca faz parecer. E o cliente conhece a marca primeiro.
 data: 26 de Novembro, 2026
 rede: Instagram
-formato: TWICH
+formato: Tweet
 funil: Topo
 pilar: Vida de fundador de SaaS
 dor: Sensação de que o produto é melhor do que a marca faz parecer (documento 04, dores emocionais)

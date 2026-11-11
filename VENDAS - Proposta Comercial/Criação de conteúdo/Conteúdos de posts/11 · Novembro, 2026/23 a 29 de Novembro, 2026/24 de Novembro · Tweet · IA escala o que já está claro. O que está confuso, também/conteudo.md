@@ -2,7 +2,7 @@
 titulo: IA escala o que já está claro. O que está confuso, também.
 data: 24 de Novembro, 2026
 rede: Instagram
-formato: TWICH
+formato: Tweet
 funil: Topo
 pilar: Humano na era da IA
 dor: É difícil explicar o valor do software em poucas palavras (documento 04, dores práticas)

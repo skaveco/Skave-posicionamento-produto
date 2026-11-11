@@ -142,6 +142,7 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
 .path { display: flex; gap: 8px; align-items: center; background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; }
 .path code { font-family: var(--font-mono); font-size: 12.5px; overflow-wrap: anywhere; flex: 1; min-width: 0; user-select: all; }
 .text { border-top: 1px solid var(--line); padding-top: 14px; display: flex; flex-direction: column; gap: 8px; }
+.text .hrow { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
 .text h3 { margin: 0; font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
 .text h4 { margin: 8px 0 0; font-size: 13px; font-weight: 600; color: var(--muted); }
 .text p, .text li { margin: 0; max-width: 65ch; }
@@ -212,7 +213,7 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
     { key: "publicado", label: "Publicado", cls: "--st-publicado" }
   ];
   var FORMATS = [
-    { key: "Carrossel", abbr: "CAR" }, { key: "Reels", abbr: "REE" }, { key: "TWICH", abbr: "TWI" },
+    { key: "Carrossel", abbr: "CAR" }, { key: "Reels", abbr: "REE" }, { key: "Tweet", abbr: "TWE" },
     { key: "Estático", abbr: "EST" }, { key: "Stories", abbr: "STO" }
   ];
   var MONTHS = ["Janeiro","Fevereiro","Março","Abril","Maio","Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"];
@@ -399,9 +400,19 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
     foot.appendChild(el("span", null, "Somente visualização. Os status mudam pelas skills de conteúdo."));
   }
 
-  function mdBlock(text) {
+  function mdBlock(text, heading, copiable) {
     var wrap = el("div", "text");
-    wrap.appendChild(el("h3", null, "Texto publicável"));
+    var hrow = el("div", "hrow");
+    hrow.appendChild(el("h3", null, heading || "Texto publicável"));
+    if (copiable) {
+      var cb = el("button", "textbtn", "Copiar"); cb.type = "button";
+      cb.addEventListener("click", function () {
+        var done = function () { cb.textContent = "Copiado"; setTimeout(function () { cb.textContent = "Copiar"; }, 1500); };
+        try { navigator.clipboard.writeText(String(text || "")).then(done, function () {}); } catch (e) {}
+      });
+      hrow.appendChild(cb);
+    }
+    wrap.appendChild(hrow);
     var list = null;
     String(text || "").split(/\r?\n/).forEach(function (line) {
       var t = line.trim();
@@ -446,7 +457,9 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
       });
       pw.appendChild(cb); body.appendChild(pw);
     }
-    if (p.texto) body.appendChild(mdBlock(p.texto));
+    if (p.legenda) body.appendChild(mdBlock(p.legenda, "Legenda", true));
+    else body.appendChild(mdBlock("Ainda sem legenda no conteudo.md.", "Legenda"));
+    if (p.texto) body.appendChild(mdBlock(p.texto, "Texto publicável"));
     var dlg = $("dlg");
     if (typeof dlg.showModal === "function") dlg.showModal(); else dlg.setAttribute("open", "");
   }
@@ -484,3 +497,4 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
   }, function () { st.db = "off"; render(); });
 })();
 </script>
+

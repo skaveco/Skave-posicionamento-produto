@@ -2,7 +2,7 @@
 titulo: Seu parceiro quer indicar você. Ele só não sabe o que dizer.
 data: 28 de Novembro, 2026
 rede: Instagram
-formato: TWICH
+formato: Tweet
 funil: Topo
 pilar: Networking e parcerias
 dor: Equipe e parceiros dependem do fundador para decidir o que dizer (documento 04, dores na operação)

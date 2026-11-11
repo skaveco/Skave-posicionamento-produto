@@ -2,7 +2,7 @@
 titulo: "Marca é só estética." Se o seu último projeto entregou só um logo novo, eu entendo.
 data: 29 de Novembro, 2026
 rede: Instagram
-formato: TWICH
+formato: Tweet
 funil: Fundo
 pilar: Marca que vende
 dor: Receio de investir em marca e receber apenas uma mudança estética (documento 04, dores emocionais)

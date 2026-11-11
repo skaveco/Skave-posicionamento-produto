@@ -7,7 +7,7 @@ Fonte principal de fotos reais do Ritter para posts. Os arquivos são os **origi
 **Como escolher:**
 - **Modo de cor:** fotos de estúdio escuro combinam com o modo escuro; estúdio claro ou cinza com o modo claro. Fotos de ambiente (restaurante, palestra) funcionam nos dois.
 - **Tom da pauta:** sério/opinião → olhando para a câmera ou braços cruzados; reflexão/dúvida → pensativo, mão no queixo; leveza/conquista → sorrindo; bastidor/autoridade → restaurante e palestra; Skave/fundador → colete Skave.
-- **Recorte horizontal** (área de 856 × 508 do Conteúdo com foto, TWICH com foto): use o terço superior da foto, mantendo olhos e boca inteiros. Fotos de corpo inteiro (sentado, apontando, andando) rendem pouco nesse recorte; prefira-as no template Imagem de fundo.
+- **Recorte horizontal** (área de 856 × 508 do Conteúdo com foto, Tweet com foto): use o terço superior da foto, mantendo olhos e boca inteiros. Fotos de corpo inteiro (sentado, apontando, andando) rendem pouco nesse recorte; prefira-as no template Imagem de fundo.
 - **Rotação:** confira no `_semana.md` das últimas quatro semanas e evite repetir a mesma foto nesse intervalo.
 
 | Arquivo | Cenário · fundo | Tom | Modo | Usos sugeridos | Cuidados |

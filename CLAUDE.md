@@ -32,7 +32,7 @@ Status: `rascunho` → `aprovado` → `em produção` → `arte pronta` → `pub
 
 ## Regras visuais que valem sempre
 
-- TWICH é só texto.
+- Tweet (antigo TWICH) é só texto e usa sempre o template branco (modo claro), sem perguntar o modo.
 - Capa de carrossel: no máximo um ícone; nunca ilustração, diagrama ou foto.
 - Slides de desenvolvimento levam um elemento visual com contexto sempre que houver espaço.
 - Fotos vêm do catálogo do ensaio, sem perguntar. Nunca gerar imagem com o rosto ou o corpo do Ritter.

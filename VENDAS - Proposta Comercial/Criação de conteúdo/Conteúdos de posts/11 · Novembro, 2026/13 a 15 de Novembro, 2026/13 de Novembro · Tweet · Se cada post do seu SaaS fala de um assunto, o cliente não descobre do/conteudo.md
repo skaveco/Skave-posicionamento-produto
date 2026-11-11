@@ -2,13 +2,13 @@
 titulo: Se cada post do seu SaaS fala de um assunto, o cliente não descobre do que vocês entendem.
 data: 13 de Novembro, 2026
 rede: Instagram
-formato: TWICH
+formato: Tweet
 funil: Topo
 pilar: Marca que vende
 dor: Publicações saem isoladamente, sem critérios de tema, linguagem ou direção visual (documento 04, dores práticas)
 status: arte pronta
 producao: Claude Design
-template: Estático · TWICH
+template: Estático · Tweet (template branco)
 modo_cor: Claro
 link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw
 ---

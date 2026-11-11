@@ -2,13 +2,13 @@
 titulo: Seu chatbot também apresenta a sua empresa. Se ele explica o produto de um jeito e o vendedor de outro, o cliente percebe.
 data: 16 de Novembro, 2026
 rede: Instagram
-formato: TWICH
+formato: Tweet
 funil: Topo
 pilar: Humano na era da IA
 dor: Site, proposta, redes e apresentação comercial descrevem o produto de maneiras diferentes (documento 04, dores práticas)
 status: arte pronta
 producao: Claude Design
-template: Estático · TWICH
+template: Estático · Tweet (template branco)
 modo_cor: Claro
 link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw
 ---

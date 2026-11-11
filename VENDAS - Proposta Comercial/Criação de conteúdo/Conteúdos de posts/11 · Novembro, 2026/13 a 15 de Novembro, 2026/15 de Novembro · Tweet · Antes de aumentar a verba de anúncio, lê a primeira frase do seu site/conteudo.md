@@ -2,13 +2,13 @@
 titulo: Antes de aumentar a verba de anúncio, lê a primeira frase do seu site em voz alta.
 data: 15 de Novembro, 2026
 rede: Instagram
-formato: TWICH
+formato: Tweet
 funil: Topo
 pilar: Vida de fundador de SaaS
 dor: Investimento em tráfego pode ser prejudicado por uma mensagem pouco clara (documento 04, dores na operação)
 status: arte pronta
 producao: Claude Design
-template: Estático · TWICH
+template: Estático · Tweet (template branco)
 modo_cor: Claro
 link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw
 ---

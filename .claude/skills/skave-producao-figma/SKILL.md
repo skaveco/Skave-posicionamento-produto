@@ -22,8 +22,8 @@ Leia o [brand kit atual](../../../VENDAS%20-%20Proposta%20Comercial/Criação%20
 **O template não é perguntado: a skill escolhe a partir do conteúdo aprovado** e informa a escolha ao entregar. O usuário pode pedir outro template depois, como ajuste.
 
 - **Carrossel:** `### Slide 1` usa a Capa; o último slide usa o Fechamento; os slides do meio usam Conteúdo. Use Conteúdo com foto quando `## Visual` indicar `foto` para o slide. Quando indicar ícone, ilustração ou diagrama, use o modelo Conteúdo e acrescente o elemento conforme as regras de elementos visuais abaixo.
-- **TWICH:** usa o TWICH textual. Use TWICH COM FOTO apenas quando o `conteudo.md` indicar uma imagem para a peça.
-- **Estático:** usa IMAGEM quando o `conteudo.md` indicar uma fotografia como base da peça; caso contrário, TWICH textual.
+- **Tweet** (formato que antes se chamava TWICH; no Figma os modelos continuam com o nome TWICH): usa o Tweet textual, **sempre no modo claro (template branco)**, sem perguntar o modo. Use Tweet com foto apenas quando o `conteudo.md` indicar uma imagem para a peça.
+- **Estático:** usa IMAGEM quando o `conteudo.md` indicar uma fotografia como base da peça; caso contrário, Tweet textual.
 - Se o texto de um slide não couber no template escolhido sem reduzir a fonte, não troque de template por conta própria: proponha o corte ou a divisão do texto para validação.
 
 **Modo de cor:** pergunte apenas o modo, claro ou escuro, quando ainda não tiver sido informado para a peça ou o lote. Nos carrosséis, o Fechamento segue o padrão escuro do brand kit, salvo se o usuário pedir o mesmo modo do restante. Em lotes semanais, faça uma única pergunta de modo para o lote, aceitando exceções por dia ou título. Uma preferência informada como recorrente vale para as semanas seguintes.
@@ -36,7 +36,7 @@ Com conteúdo aprovado, template escolhido e modo de cor definido, registre no f
 
 ## 3. Prepare a composição
 
-**TWICH textual, nos modos claro e escuro: mantenha o layout padrão e preencha apenas o campo de texto do template.** Preserve a tipografia, a hierarquia, as cores e a assinatura originais. O conteúdo é somente texto, sem adicionar ícones, gráficos, ilustrações, blocos visuais ou destaques tipográficos fora do padrão. Esta regra se aplica ao modelo `TWICH` textual. Os carrosséis seguem as orientações de composição flexível abaixo.
+**Tweet textual, sempre no modo claro (template branco): mantenha o layout padrão e preencha apenas o campo de texto do template.** Preserve a tipografia, a hierarquia, as cores e a assinatura originais. O conteúdo é somente texto, sem adicionar ícones, gráficos, ilustrações, blocos visuais ou destaques tipográficos fora do padrão. Esta regra se aplica ao modelo `Tweet` textual. Os carrosséis seguem as orientações de composição flexível abaixo.
 
 - Para cada slide, associe o texto aprovado à função visual: capa, conteúdo, conteúdo com foto ou fechamento. Não use a capa em todos os slides se a biblioteca fornecer modelos específicos.
 - **Quando o modelo tiver foto, use o arquivo do catálogo indicado em `## Visual`.** Envie o PNG original como está (`upload_assets`) e aplique-o como preenchimento da área de imagem com modo de recorte (`FILL`), ajustando a posição para manter olhos e boca inteiros e para tirar do quadro pessoas de terceiros ou banners, conforme a coluna "Cuidados" do catálogo. Não substitua o arquivo indicado por outra imagem.
@@ -61,7 +61,7 @@ Use o plugin oficial do Figma. Antes de executar código, carregue as skills dis
 
 1. Abra uma sessão de trabalho no arquivo indicado no brand kit, ou reutilize a sessão da mesma produção, e inspecione os nós escolhidos. Se o usuário indicar outro destino, respeite-o.
 2. Duplique os templates escolhidos em uma área livre do arquivo, agrupados e nomeados pelo tema. Numere os frames na ordem do carrossel. Preserve os modelos originais.
-3. Mantenha dimensões, fontes, componentes, vínculos com variáveis e modo de cor. Reutilize o Badge e os assets do modelo. No TWICH textual, mantenha a estrutura padrão. Nos modelos flexíveis, adapte os blocos de conteúdo na cópia conforme a composição definida.
+3. Mantenha dimensões, fontes, componentes, vínculos com variáveis e modo de cor. Reutilize o Badge e os assets do modelo. No Tweet textual, mantenha a estrutura padrão. Nos modelos flexíveis, adapte os blocos de conteúdo na cópia conforme a composição definida.
 4. Carregue as fontes utilizadas antes de editar texto. Substitua os placeholders e remova subtítulos opcionais sem uso. Ajuste a posição dos blocos que crescerem para preservar margens, respiro e distância do rodapé.
 5. Quando houver foto (do catálogo ou gerada), aplique-a à área de imagem do slide ou post correspondente e confira o recorte no layout final. Preserve camadas de texto e imagens editáveis. Não entregue um print da composição como substituto das camadas.
 6. Retorne e mantenha os IDs criados. Em caso de erro ou retomada, inspecione o que já existe e continue a produção correspondente, evitando duplicar a peça inteira novamente.

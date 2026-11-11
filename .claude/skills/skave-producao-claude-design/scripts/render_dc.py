@@ -15,8 +15,8 @@ def convert(src, blobs, mode_override=None):
     props = json.loads(_html.unescape(m.group(1)))
     mode = mode_override or props.get("mode", {}).get("default", "light")
     vals = dict(PALETTE[mode])
-    # TWICH usa fundo primário
-    if "Twich" in src.name or "twich" in src.name.lower():
+    # Tweet (antigo TWICH) usa fundo primário
+    if any(k in src.name.lower() for k in ("twich", "tweet")):
         vals["bg"] = "#252F25" if mode == "dark" else "#F8F8F6"
     for k, v in vals.items():
         body = re.sub(r"\{\{\s*%s\s*\}\}" % k, v, body)

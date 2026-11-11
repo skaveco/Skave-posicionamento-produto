@@ -2,13 +2,13 @@
 titulo: Se só você sabe explicar o seu SaaS, isso não é discurso de vendas. É gargalo.
 data: 23 de Novembro, 2026
 rede: Instagram
-formato: TWICH
+formato: Tweet
 funil: Topo
 pilar: Vida de fundador de SaaS
 dor: Cansaço do fundador por ser a única pessoa que sabe explicar a empresa (documento 04, dores emocionais)
 status: em produção
 producao: Claude Design
-template: TWICH textual
+template: Tweet textual
 modo_cor: Escuro
 link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw
 ---

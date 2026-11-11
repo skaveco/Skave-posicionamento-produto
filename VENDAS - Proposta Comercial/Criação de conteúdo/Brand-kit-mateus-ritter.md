@@ -21,7 +21,7 @@ O Figma possui uma coleção de variáveis com os modos **Light** e **Dark**. Os
 
 | Variável no Figma | Light | Dark | Aplicação observada |
 | --- | --- | --- | --- |
-| `Color/Divider/Background/Primary` | `#F8F8F6` | `#252F25` | Fundo dos estáticos “TWICH”. |
+| `Color/Divider/Background/Primary` | `#F8F8F6` | `#252F25` | Fundo dos estáticos “Tweet”. |
 | `Color/Divider/Background/Secondary` | `#F3F3E7` | `#2F3B2F` | Fundo dos slides de carrossel. |
 | `Color/Divider/Text/Primary` | `#252F25` | `#F8F8F6` | Títulos e nome da assinatura. |
 | `Color/Divider/Text/Support` | `#667266` | `#ABB9AB` | Corpo, subtítulos, descritor e informações de apoio. |
@@ -58,7 +58,7 @@ Esses valores são aproximações calculadas com os HEX documentados, em fundos 
 | Subtítulo de capa ou fechamento | Instrument Sans Medium 500 | 32 px | 130% | 0% |
 | Corpo do carrossel textual | Instrument Sans Medium 500 | 44 px | 110% | 0% |
 | Corpo do carrossel com foto | Instrument Sans Medium 500 | 35 px | 110% | 0% |
-| Texto dos estáticos “TWICH” | Instrument Sans Medium 500 | 40 px | 130% | 0% |
+| Texto dos estáticos “Tweet” | Instrument Sans Medium 500 | 40 px | 130% | 0% |
 | Nome “Mateus Ritter” | Instrument Sans SemiBold 600 | 32 px | Automática | 0% |
 | Descritor da assinatura | Instrument Sans Regular 400 | 26 px | Automática | 0% |
 | Categoria do cabeçalho | Courier Prime Bold 700 | 16 px | Automática | 0% |
@@ -77,7 +77,7 @@ Os tamanhos correspondem às pranchetas de **1080 × 1350 px**. Não há estilos
 
 ## 4. Composição e assinatura
 
-Todos os **13 templates** atuais têm proporção **4:5**, com **1080 × 1350 px**. São oito modelos de carrossel, quatro estáticos “TWICH” e um modelo de imagem de fundo.
+Todos os **13 templates** atuais têm proporção **4:5**, com **1080 × 1350 px**. São oito modelos de carrossel, quatro estáticos “Tweet” e um modelo de imagem de fundo.
 
 ### Carrosséis
 
@@ -103,7 +103,7 @@ No modelo de imagem de fundo, preservar o degradê escuro que ajuda a leitura e 
 
 ## 5. Biblioteca de templates
 
-Os nomes “TWICH” abaixo preservam a identificação usada no Figma; são composições de postagem textual para o feed, sem implicar uma publicação na plataforma Twitch.
+Os nomes “TWICH” abaixo preservam a identificação usada no Figma e no Brand Kit do Claude Design; no conteúdo, esse formato se chama **Tweet** e usa sempre o template branco (modo claro); são composições de postagem textual para o feed, sem implicar uma publicação na plataforma Twitch.
 
 | Família e função | Modelo claro | Modelo escuro |
 | --- | --- | --- |
@@ -132,7 +132,7 @@ Registrados na página **Elementos visuais** do [Brand Kit no Claude Design](htt
 
 - **Um elemento visual por slide**: um ícone, uma ilustração ou um diagrama.
 - **Onde usar:** slides de desenvolvimento do carrossel. Capa e Fechamento priorizam gancho e CTA, com no máximo um ícone discreto.
-- **TWICH continua só texto.**
+- **Tweet continua só texto, sempre no template branco (modo claro).**
 - Não reduzir a fonte do texto para caber o elemento. Se não couber, cortar texto ou dispensar o elemento.
 - Diagramas usam o texto aprovado do slide e nunca números sem fonte verificável.
 
