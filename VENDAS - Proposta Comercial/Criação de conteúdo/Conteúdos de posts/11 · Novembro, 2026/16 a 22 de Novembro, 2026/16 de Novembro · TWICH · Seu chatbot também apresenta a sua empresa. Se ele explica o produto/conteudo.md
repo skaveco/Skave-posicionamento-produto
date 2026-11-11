@@ -6,7 +6,7 @@ formato: TWICH
 funil: Topo
 pilar: Humano na era da IA
 dor: Site, proposta, redes e apresentação comercial descrevem o produto de maneiras diferentes (documento 04, dores práticas)
-status: em produção
+status: arte pronta
 producao: Claude Design
 template: Estático · TWICH
 modo_cor: Claro

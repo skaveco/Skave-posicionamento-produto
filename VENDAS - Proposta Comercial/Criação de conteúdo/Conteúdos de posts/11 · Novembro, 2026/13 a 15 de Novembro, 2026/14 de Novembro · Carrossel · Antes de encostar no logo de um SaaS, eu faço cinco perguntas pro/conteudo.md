@@ -6,9 +6,9 @@ formato: Carrossel
 funil: Fundo
 pilar: Marca que vende
 dor: É difícil explicar o valor do software em poucas palavras (documento 04, dores práticas)
-status: em produção
+status: arte pronta
 producao: Claude Design
-template: Capa com ícone + Conteúdo com ilustração + Conteúdo com diagrama (D) + Conteúdo com ícone + Fechamento
+template: Capa + Conteúdo com ilustração + Conteúdo com diagrama (D) + Conteúdo com ícone + Fechamento
 modo_cor: Claro (Fechamento escuro, padrão do template)
 link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw
 ---
@@ -45,7 +45,7 @@ O trabalho começa justamente aí: juntar essas pistas até a resposta caber num
 
 ## Visual
 
-- Slide 1: ícone `diagnóstico`
+- Slide 1: nenhum (ícone retirado por Ritter na revisão do canvas)
 - Slide 2: ilustração `fundador`
 - Slide 3: diagrama D · Checklist
 - Slide 4: ícone `mensagem`

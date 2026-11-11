@@ -1,6 +1,7 @@
 """Converte artboards .dc.html (templates estáticos do brand kit Ritter) em HTML puro e PNG via Chrome headless."""
-import json, re, subprocess, sys, pathlib
-CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+import html as _html, json, os, re, shutil, subprocess, sys, pathlib
+# Chrome: variável CHROME, depois o do PATH (Linux, sessões na nuvem), depois o do Mac.
+CHROME = os.environ.get("CHROME") or shutil.which("google-chrome") or shutil.which("chromium") or "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 PALETTE = {
     "dark":  {"bg": "#2F3B2F", "txt": "#F8F8F6", "sup": "#ABB9AB", "line": "#445644", "soft": "#3A4A3A"},
     "light": {"bg": "#F3F3E7", "txt": "#252F25", "sup": "#667266", "line": "#D7D7C9", "soft": "#E4E4D2"},
@@ -9,7 +10,9 @@ def convert(src, blobs, mode_override=None):
     s = src.read_text(encoding="utf-8")
     helmet = re.search(r"<helmet>(.*?)</helmet>", s, re.S).group(1)
     body = re.search(r"</helmet>(.*?)</x-dc>", s, re.S).group(1)
-    props = json.loads(re.search(r"data-props='(.*?)'", s, re.S).group(1).replace("&amp;", "&"))
+    # O editor do canvas pode salvar data-props entre aspas duplas, com &quot;.
+    m = re.search(r"data-props='(.*?)'", s, re.S) or re.search(r'data-props="(.*?)"', s, re.S)
+    props = json.loads(_html.unescape(m.group(1)))
     mode = mode_override or props.get("mode", {}).get("default", "light")
     vals = dict(PALETTE[mode])
     # TWICH usa fundo primário

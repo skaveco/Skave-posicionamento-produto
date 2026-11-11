@@ -6,7 +6,7 @@ formato: Carrossel
 funil: Topo
 pilar: Marca que vende
 dor: Receio de investir em marca e receber apenas uma mudança estética (documento 04, dores emocionais)
-status: em produção
+status: arte pronta
 producao: Claude Design
 template: Capa + Conteúdo com ilustração + Conteúdo com diagrama (B) + Conteúdo com ícone + Fechamento
 modo_cor: Escuro
@@ -35,7 +35,9 @@ Logo novo e a mesma frase.
 Mudou o que o cliente vê. O que ele entende ficou igual.
 
 ### Slide 4
-A ordem que funciona é a contrária. Primeiro você decide pra quem é o produto, que problema resolve e por que escolher vocês. Depois o visual traduz essas decisões.
+A ordem que funciona é a contrária.
+
+Primeiro você decide pra quem é o produto, que problema resolve e por que escolher vocês. Depois o visual traduz essas decisões.
 
 Aí a marca nova chega com algo novo pra dizer.
 

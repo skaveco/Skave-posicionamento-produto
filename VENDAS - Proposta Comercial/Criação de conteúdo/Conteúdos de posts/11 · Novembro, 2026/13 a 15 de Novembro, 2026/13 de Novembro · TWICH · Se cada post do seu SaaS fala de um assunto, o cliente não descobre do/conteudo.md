@@ -6,10 +6,10 @@ formato: TWICH
 funil: Topo
 pilar: Marca que vende
 dor: Publicações saem isoladamente, sem critérios de tema, linguagem ou direção visual (documento 04, dores práticas)
-status: em produção
+status: arte pronta
 producao: Claude Design
 template: Estático · TWICH
-modo_cor: Escuro
+modo_cor: Claro
 link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw
 ---
 

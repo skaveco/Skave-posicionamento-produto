@@ -6,10 +6,10 @@ formato: TWICH
 funil: Topo
 pilar: Vida de fundador de SaaS
 dor: Investimento em tráfego pode ser prejudicado por uma mensagem pouco clara (documento 04, dores na operação)
-status: em produção
+status: arte pronta
 producao: Claude Design
 template: Estático · TWICH
-modo_cor: Escuro
+modo_cor: Claro
 link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw
 ---
 
