@@ -42,7 +42,7 @@ Aí a marca nova chega com algo novo pra dizer.
 ### Slide 5
 **Título:** Estratégia primeiro, design depois.
 
-**Subtítulo:** Já investiu em marca e sentiu que mudou só a aparência? Segue aqui que eu vou mostrar o que precisa estar decidido antes de qualquer logo novo.
+**Subtítulo:** Manda pra quem tá pensando em trocar o logo da empresa.
 
 ## Visual
 
@@ -51,6 +51,14 @@ Aí a marca nova chega com algo novo pra dizer.
 - Slide 3: diagrama B · Antes e depois
 - Slide 4: ícone `direção`
 - Slide 5: nenhum
+
+## Legenda
+
+Quando a marca nova chega sem decisão nenhuma por trás, fica a sensação de dinheiro gasto em aparência. Já investiu em marca e sentiu isso? Segue o perfil, que eu vou mostrar o que precisa estar decidido antes de qualquer logo novo.
+
+## Notas de produção
+
+Convite para seguir na legenda. A arte termina com o convite para compartilhar; não acrescentar o texto de exemplo do Fechamento.
 
 ## Base e dependências
 

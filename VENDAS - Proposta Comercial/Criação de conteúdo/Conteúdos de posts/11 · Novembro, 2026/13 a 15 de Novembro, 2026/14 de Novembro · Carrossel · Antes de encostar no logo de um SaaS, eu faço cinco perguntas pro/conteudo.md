@@ -3,7 +3,7 @@ titulo: Antes de encostar no logo de um SaaS, eu faço cinco perguntas pro dono.
 data: 14 de Novembro, 2026
 rede: Instagram
 formato: Carrossel
-funil: Meio
+funil: Fundo
 pilar: Marca que vende
 dor: É difícil explicar o valor do software em poucas palavras (documento 04, dores práticas)
 status: rascunho
@@ -41,7 +41,7 @@ O trabalho começa justamente aí: juntar essas pistas até a resposta caber num
 ### Slide 5
 **Título:** Responde as cinco antes de pensar no logo.
 
-**Subtítulo:** Manda pro seu sócio e vê se vocês respondem igual.
+**Subtítulo:** Travou em mais de uma? Me manda “PERGUNTAS” no direct que a gente conversa sobre o seu caso.
 
 ## Visual
 
@@ -57,7 +57,7 @@ Essas perguntas abrem a Escavação, a primeira etapa de um projeto de posiciona
 
 ## Notas de produção
 
-Convite para seguir na legenda. A arte termina sem CTA de seguir; não acrescentar o texto de exemplo do Fechamento.
+Convite para seguir na legenda. A arte termina com o convite para conversa no direct (palavra-chave PERGUNTAS); não acrescentar o texto de exemplo do Fechamento. Quem mandar a palavra entra na abordagem do doc 10: entender o caso antes de convidar para a call.
 
 As perguntas do Slide 3 são uma síntese da Escavação para o conteúdo, sem dados de cliente.
 

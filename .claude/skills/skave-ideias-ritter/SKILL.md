@@ -202,6 +202,12 @@ Ritter pediu (11 de Novembro, 2026) que os CTAs não sejam sempre iguais. Um lot
 
 - **Onde fica o convite.** Em cerca de um terço a metade dos estáticos, TWICH e carrosséis do lote, leve o convite para seguir à **legenda**. A arte termina então com o próprio argumento ou com outra ação ligada ao conteúdo (salvar pra revisar, mandar pro sócio, fazer o teste), e a legenda, de duas a quatro frases, acrescenta algo ao post (um teste, um contexto, um bastidor) e termina com o convite. Registre em `## Notas de produção`: “Convite para seguir na legenda.” Reels mantêm o convite na última fala, porque o vídeo circula sem a legenda; neles a variedade fica na redação.
 - **Como o convite é dito.** Alterne estruturas, por exemplo: convite direto (“me segue”), “segue aqui que eu vou…”, “fica por perto”, convite ligado a uma série (“nos próximos posts eu mostro…”), desafio ou pedido de comentário seguido do convite. São referências de estrutura, não frases prontas.
+- **Tipo de CTA principal.** Além do convite para seguir, a peça pode ter outra ação como CTA principal, desde que ligada ao conteúdo. Misture no lote:
+  - **comentário:** opinião, número, resultado de um teste ou a frase do próprio leitor. Se o CTA prometer resposta (“eu leio e respondo”), registre em `## Notas de produção` que Ritter responde. Os comentários alimentam a abordagem do [documento 10](../../../VENDAS%20-%20Proposta%20Comercial/Estratégia%20de%20marca%20pessoal%20e%20conteúdo%20-%20Ritter/10-funil-e-geracao-de-demanda.md);
+  - **salvar ou compartilhar:** “salva pra revisar”, “manda pro sócio”, “manda pro parceiro”, quando houver exercício, checklist ou alguém a quem o post serve;
+  - **conversa no direct:** só em fundo, uma ou duas por semana, com palavra-chave (“me manda PERGUNTAS no direct”). Marque a peça como `funil: Fundo`. Não chame de “diagnóstico” enquanto essa oferta não estiver definida nos documentos comerciais, e não prometa proposta no direct;
+  - **palavra-chave com material** (“comenta X que eu te mando…”): só quando o material existir.
+  O convite para seguir continua em toda peça, logo depois da ação principal ou na legenda. Em um mesmo dia, não repita o tipo de CTA.
 - **Limites no lote.** Dois posts seguidos não fecham com a mesma estrutura, e “me acompanha por aqui” aparece no máximo uma ou duas vezes por semana. Confira também os posts já gravados nos mesmos dias.
 
 ## Fatos, notícias e provas

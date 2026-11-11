@@ -24,7 +24,7 @@ E quem tá pensando em comprar abre o perfil justamente pra descobrir isso.
 
 ## Legenda
 
-Abre o perfil do seu SaaS e lê os últimos nove posts em sequência. Se não dá pra dizer em que vocês são especialistas, falta escolher os assuntos antes de postar mais. Esse é um dos temas que eu mais trago aqui. Se faz sentido pra você, me segue que vem mais.
+Abre o perfil do seu SaaS, lê os últimos nove posts em sequência e comenta aqui o assunto que mais apareceu. Se ficou difícil escolher um, falta definir os temas antes de postar mais. Esse é um dos assuntos que eu mais trago por aqui, então me segue que vem mais.
 
 ## Notas de produção
 

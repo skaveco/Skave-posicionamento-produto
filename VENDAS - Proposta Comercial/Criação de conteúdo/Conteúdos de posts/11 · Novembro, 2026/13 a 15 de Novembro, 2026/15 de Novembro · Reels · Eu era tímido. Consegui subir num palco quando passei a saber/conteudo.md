@@ -31,9 +31,11 @@ Aí ele acha que o problema é falar em público. Só que, se a mensagem da empr
 Antes do próximo evento, escreve em duas frases pra quem é o seu SaaS e o que muda pra quem usa. Lê em voz alta até sair natural. Com isso pronto, a conversa fica bem mais leve.
 
 ### Take 6
-Se você também trava na hora de explicar o que a sua empresa faz, me segue. Eu vou trazendo aqui como chegar nessa mensagem antes do próximo evento.
+Me conta aqui nos comentários a frase que você usa hoje pra apresentar a sua empresa. Eu leio e respondo. E me segue, que eu vou trazendo aqui como chegar nessa mensagem antes do próximo evento.
 
 ## Notas de produção
+
+O Take 6 promete resposta: Ritter responde os comentários com a frase de cada um.
 
 Variação de ângulo do carrossel de 27 de Novembro (evento em 30 segundos): aqui o foco é a mensagem decidida antes, a partir da experiência de palco.
 
