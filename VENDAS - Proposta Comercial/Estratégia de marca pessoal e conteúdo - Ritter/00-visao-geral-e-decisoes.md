@@ -27,6 +27,7 @@ Cada tema tem um Markdown próprio. O PDF *Estratégia de Marca e Conteúdo — 
 | [13](13-provas-e-medicao.md) | Evidências, cases e métricas |
 | [14](14-primeiros-30-dias-e-pendencias.md) | Sequência inicial e decisões pendentes |
 | [15](15%20-%20ganchos-de-conteúdos.md) | Referências para criar ganchos de abertura variados |
+| [16](16-perfis-youtube-tiktok-linkedin.md) | Bio, capa e descrição sugeridas para YouTube, TikTok e LinkedIn |
 | [Brand kit](../Criação%20de%20conteúdo/Brand-kit-mateus-ritter.md) | Cores, tipografias, templates e regras visuais da marca pessoal de Ritter |
 | [Linguagem do Ritter](../Criação%20de%20conteúdo/Linguagem-do-Ritter.md) | Expressões, trocas registradas e o que Ritter não fala; guia vivo da voz das copies |
 
