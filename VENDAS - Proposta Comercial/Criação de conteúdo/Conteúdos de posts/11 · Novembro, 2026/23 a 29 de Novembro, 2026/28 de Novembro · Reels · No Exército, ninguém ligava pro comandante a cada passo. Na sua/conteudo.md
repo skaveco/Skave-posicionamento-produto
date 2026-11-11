@@ -25,10 +25,10 @@ Lá, antes de qualquer missão, todo mundo sabia qual era o objetivo e o que nã
 Agora olha pra comunicação do seu SaaS. O marketing te manda o post pra aprovar. O comercial pergunta se pode falar tal coisa na proposta. O parceiro quer saber como apresentar a empresa.
 
 ### Take 4
-Isso não é equipe insegura. É equipe sem direção escrita. Ninguém sabe qual é a mensagem central, então o único jeito de acertar é perguntar pra você.
+O time pergunta tudo porque ninguém escreveu qual é a mensagem central. Sem isso, o único jeito de acertar é perguntar pra você.
 
 ### Take 5
-O que resolve não é você aprovar mais rápido. É dar ao time o que a tropa tinha: o objetivo e os limites. Pra quem a gente fala, o que a gente promete, o que a gente não diz. Com isso, cada um decide sozinho e todo mundo segue na mesma direção.
+O que resolve é dar ao time o que a tropa tinha: o objetivo e os limites. Pra quem a gente fala, o que a gente promete, o que a gente não diz. Com isso, cada um decide sozinho e todo mundo segue na mesma direção.
 
 ### Take 6
 Se você quer que o time comunique a empresa sem depender da sua aprovação em cada peça, me acompanha por aqui. Eu falo sobre como dar essa direção.

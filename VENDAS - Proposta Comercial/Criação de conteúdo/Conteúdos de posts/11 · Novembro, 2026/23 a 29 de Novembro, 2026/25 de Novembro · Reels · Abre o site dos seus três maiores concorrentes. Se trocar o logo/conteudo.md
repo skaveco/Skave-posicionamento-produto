@@ -19,7 +19,7 @@ link_arte:
 Abre agora o seu site e o dos seus três maiores concorrentes. Se eu trocar os logos de lugar, alguém percebe?
 
 ### Take 2
-É comum ninguém perceber. A mesma promessa de “simplificar a gestão”, a mesma tela de dashboard, o mesmo botão de “agende uma demonstração”. E não é coincidência: todo mundo olhou pro lado na hora de escrever.
+É comum ninguém perceber. A mesma promessa de “simplificar a gestão”, a mesma tela de dashboard, o mesmo botão de “agende uma demonstração”. E isso tem explicação: todo mundo olhou pro lado na hora de escrever.
 
 ### Take 3
 Eu entendo o motivo. Copiar quem tá na frente parece seguro. Se funciona pra eles, deve funcionar pra mim.

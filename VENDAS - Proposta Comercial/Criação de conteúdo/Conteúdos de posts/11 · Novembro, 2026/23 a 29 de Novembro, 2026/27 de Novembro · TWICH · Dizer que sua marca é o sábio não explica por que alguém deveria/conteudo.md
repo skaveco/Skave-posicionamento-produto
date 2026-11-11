@@ -22,7 +22,7 @@ Arquétipo ajuda a definir um tom. Mas o cliente não compra tom. Ele quer saber
 
 E o seu concorrente pode ser “o sábio” também. A fórmula é a mesma pra todo mundo.
 
-Se você quer um posicionamento que saia do seu negócio, e não de um modelo pronto, me acompanha por aqui. Eu falo sobre como chegar numa diferença que só a sua empresa consegue sustentar.
+Se você quer um posicionamento tirado do que o seu negócio realmente faz, me acompanha por aqui. Eu falo sobre como chegar numa diferença que só a sua empresa consegue sustentar.
 
 ## Base e dependências
 

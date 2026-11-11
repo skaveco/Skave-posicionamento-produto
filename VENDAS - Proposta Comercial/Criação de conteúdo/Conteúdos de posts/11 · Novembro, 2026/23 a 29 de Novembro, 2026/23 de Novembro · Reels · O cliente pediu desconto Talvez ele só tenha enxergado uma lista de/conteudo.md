@@ -19,13 +19,13 @@ link_arte:
 Quando o cliente pede desconto logo de cara, nem sempre ele tá achando caro. Muitas vezes ele só não viu diferença entre você e o outro.
 
 ### Take 2
-Pensa no que ele tem na mão na hora de decidir: duas propostas, duas listas de funcionalidades bem parecidas e dois preços. Se as listas parecem iguais, sobra o quê pra comparar? O preço.
+Pensa no que ele tem na mão na hora de decidir: duas propostas, duas listas de funcionalidades bem parecidas e dois preços. Se as listas parecem iguais, a única coisa que sobra pra comparar é o preço.
 
 ### Take 3
 Aí você entra na negociação explicando tudo o que o seu produto tem de diferente. Só que essa explicação chegou depois de ele já ter feito a conta.
 
 ### Take 4
-Então, antes de mexer no preço, faz um teste. Pega a sua proposta e tira o seu logo. Dá pra saber que é a sua empresa? Dá pra entender pra quem é e o que muda na rotina de quem compra? Se não dá, o cliente tá comparando do único jeito que você deixou.
+Então, antes de mexer no preço, faz um teste. Pega a sua proposta e tira o seu logo. Se ainda dá pra saber que é a sua empresa, pra quem ela é e o que muda na rotina de quem compra, ótimo. Se não dá, o cliente tá comparando do único jeito que você deixou.
 
 ### Take 5
 Isso não garante que ninguém mais vai pedir desconto. Mas muda a conversa: ele passa a negociar sabendo o que perde se escolher o outro.

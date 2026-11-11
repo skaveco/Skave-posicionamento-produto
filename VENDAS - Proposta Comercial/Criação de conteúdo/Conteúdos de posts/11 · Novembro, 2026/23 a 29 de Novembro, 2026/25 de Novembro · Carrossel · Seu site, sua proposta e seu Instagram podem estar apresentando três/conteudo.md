@@ -29,14 +29,14 @@ link_arte:
 4. Leia como um cliente que nunca ouviu falar de vocês.
 
 ### Slide 3
-O que observar: as três frases falam com o mesmo cliente? Prometem a mesma mudança? Usam o mesmo nome pro produto?
+O que observar: se as três frases falam com o mesmo cliente, prometem a mesma mudança e usam o mesmo nome pro produto.
 
 Se uma diz “plataforma”, outra “sistema” e outra “solução”, o cliente pode achar que são três coisas.
 
 ### Slide 4
 Se deu diferença, não saia reescrevendo tudo.
 
-Primeiro escolha qual das três frases representa melhor a empresa hoje. Depois ajuste os outros canais a partir dela. Coerência começa por uma decisão, não por um texto novo.
+Primeiro escolha qual das três frases representa melhor a empresa hoje. Depois ajuste os outros canais a partir dela. Coerência começa quando alguém decide qual é a frase certa. O texto novo vem depois.
 
 ### Slide 5
 **Título:** O cliente passa por mais de um canal antes de falar com você. Ele precisa encontrar a mesma empresa em todos.

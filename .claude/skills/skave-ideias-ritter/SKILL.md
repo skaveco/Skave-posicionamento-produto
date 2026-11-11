@@ -136,7 +136,7 @@ Considere os materiais realmente disponíveis. As fotos reais de Ritter estão n
 
 ## Crie o gancho de abertura
 
-Use o repertório do arquivo de ganchos para explorar perguntas, identificação com uma dificuldade, curiosidade, descoberta, contraste, listas e outros caminhos adequados à pauta. Crie uma redação própria, na voz de Ritter, que apresente a situação **e já revele uma tensão, consequência ou descoberta**. O público deve perceber, na própria abertura, por que vale continuar. Uma pergunta que apenas nomeia a dor não basta; não deixe o motivo para seguir só para o segundo slide ou take. Varie a estrutura entre os conteúdos do lote e considere o histórico disponível; não repita a mesma fórmula apenas trocando o assunto.
+Use o repertório do arquivo de ganchos para explorar perguntas, identificação com uma dificuldade, curiosidade, descoberta, contraste entre duas situações reais (nunca o “não é X, é Y” da seção [Vícios de linguagem proibidos](#vícios-de-linguagem-proibidos)), listas e outros caminhos adequados à pauta. Crie uma redação própria, na voz de Ritter, que apresente a situação **e já revele uma tensão, consequência ou descoberta**. O público deve perceber, na própria abertura, por que vale continuar. Uma pergunta que apenas nomeia a dor não basta; não deixe o motivo para seguir só para o segundo slide ou take. Varie a estrutura entre os conteúdos do lote e considere o histórico disponível; não repita a mesma fórmula apenas trocando o assunto.
 
 **Referência de gancho fornecida pelo usuário:** “Seu SaaS só fica fácil de entender quando entra na call?” identifica uma situação, mas não dá motivo suficiente para passar para o lado. Para um carrossel, a direção é: **“Se o seu produto só fica fácil de entender quando você entra na call, você tem um problema.”** Subtítulo possível: **“Não entendeu? Vem comigo.”** A frase principal traz a consequência; a continuação abre espaço para explicar o problema. Use essa lógica para criar ganchos próprios, sem repetir “você tem um problema” ou o subtítulo em todas as peças.
 
@@ -154,13 +154,28 @@ O texto publicável deve soar como Ritter conversando com um dono de SaaS: próx
 - Troque o vocabulário de apresentação institucional por explicações concretas. Por exemplo, “seu cliente não entendeu por que escolher você” costuma comunicar melhor do que “existe uma lacuna de percepção da diferenciação”. Use termos técnicos apenas quando ajudarem o público a entender a ideia.
 - Faça a curiosidade nascer da situação e da consequência para o empresário. Não dependa sempre de suspense, pergunta retórica ou da mesma expressão no fim da frase.
 
-**Referência de tom fornecida pelo usuário:**
+### A linguagem do próprio Ritter
 
-> Frase que soou fria: “Na planilha do cliente, seu diferencial pode ter virado só mais um ‘sim’.”
->
-> Direção preferida: “Na planilha do cliente, seu diferencial pode ter virado só mais um detalhe, e você nem sabia disso.”
+O jeito real de Ritter falar está registrado na [Linguagem do Ritter](../../../VENDAS%20-%20Proposta%20Comercial/Criação%20de%20conteúdo/Linguagem-do-Ritter.md): expressões que ele usa, trocas que já fez nos textos e o que ele não fala. **Leia esse arquivo antes de cada geração ou revisão** e escreva a partir dele. Ele vale mais que qualquer referência genérica de tom, porque as pessoas percebem quando o texto não é de quem assina. Use as expressões dele com naturalidade, sem transformar nenhuma em bordão repetido no lote.
 
-O exemplo orienta a naturalidade e a proximidade: o público entende a situação sem precisar interpretar o que significa aquele “sim”. Não transforme “e você nem sabia disso”, a planilha ou essa estrutura em fórmula recorrente. Crie a frase que funcionar melhor para cada dor, sem inventar experiências pessoais ou resultados para parecer humano.
+O arquivo cresce com o uso. Mantenha-o assim:
+
+- **Correção no chat:** quando Ritter reescrever uma frase, trocar uma palavra ou disser que não falaria de um jeito, registre na seção de trocas o antes e o depois, a data, o post de origem e o **padrão** que a troca revela (não só a frase). Se a correção mostrar uma expressão que ele usa ou evita, registre também na seção correspondente.
+- **Edição direta nos arquivos:** antes de gerar ou revisar, confira com `git log -p --since=<data do último registro> -- "VENDAS - Proposta Comercial/Criação de conteúdo/Conteúdos de posts"` se alguém editou o texto publicável de algum `conteudo.md` depois que esta skill o gravou. Compare a versão gravada com a editada e registre os padrões das mudanças feitas por Ritter. Ajustes de status, frontmatter ou produção não contam.
+- Atualize a data de "Último registro" no topo do arquivo e inclua o arquivo no commit da etapa.
+- Registre padrões, não cópias. Se uma troca contradisser outra anterior, mantenha a mais recente e anote a mudança.
+
+## Vícios de linguagem proibidos
+
+Estes vícios deixam o texto com cara de IA e de copy genérica. Não use em nenhum texto publicável, legenda ou CTA, e corrija quando aparecerem em revisões:
+
+1. **Contraste artificial.** “Não é sobre X, é sobre Y”, “Não é só A, é B” e a versão em duas frases, “Isso não é X. É Y.” Diga diretamente o que é. Em vez de “Isso não é equipe insegura. É equipe sem direção escrita”, prefira “A equipe pergunta tudo pra você porque ninguém escreveu qual é a mensagem”. Comparar duas coisas reais continua permitido (antes e depois, site e proposta, dois concorrentes); o que fica fora é negar uma ideia que ninguém defendeu só para dar peso à outra.
+2. **Pergunta retórica de efeito.** “A verdade? Mudou tudo.”, “O segredo? Diversificar.”, “O resultado?” Faça a frase inteira. Pergunta só entra quando é uma pergunta de verdade para o leitor, e nunca em sequência (“Dá pra saber…? Dá pra entender…?”); se precisar de várias, transforme em uma frase só.
+3. **Vocabulário robótico e adjetivos vazios.** Não use: crucial, fundamental, essencial, vital, revolucionário, inspirador, mergulhar, navegar, jornada, ecossistema. Evite também sinônimos pomposos do mesmo tipo. Troque por uma palavra comum ou pelo fato concreto.
+4. **Transições repetitivas.** Nada de “É importante lembrar que…”, “É fundamental ressaltar…”. Evite empilhar “além disso”, “por outro lado”, “portanto”, “dessa forma”; numa conversa, a ligação vem de “aí”, “e”, “só que”, “então” ou simplesmente da ordem das frases.
+5. **Lista onde cabia conversa.** Não transforme uma explicação em itens verticais. Em reels, legendas e TWICH, escreva em frases corridas. Nos carrosséis, os diagramas de passos ou checklist da biblioteca continuam valendo quando o argumento é de fato uma sequência ou uma lista.
+6. **Pontuação engessada.** Não use travessão como respiro (prefira vírgula, ponto ou parênteses), nem ponto e vírgula fora de contexto. Depois de dois-pontos, use minúscula, salvo nome próprio ou citação.
+7. **“Sem X. Sem Y. Só Z.”** Ex.: “Sem dicas milagrosas. Sem enrolação. Só estratégia.” Não use essa fórmula nem variações com três frases curtas em série.
 
 ## Critérios editoriais
 
@@ -240,3 +255,11 @@ Revise também a especificidade e a voz do CTA: **ele poderia ser usado sem alte
 Faça essa revisão internamente. Na resposta, relate apenas dependências e conflitos que afetem a escolha do usuário. Não declare conformidade de 100% quando alguma fonte necessária não tiver sido lida ou houver uma divergência em aberto.
 
 Faça também uma revisão de oralidade: leia o texto como se Ritter estivesse falando com uma pessoa. Reescreva trechos que soem como relatório, anúncio genérico, sequência de slogans ou frase que exige releitura para fazer sentido. Confira se o gancho, o desenvolvimento e o convite para seguir mantêm a mesma voz próxima. A naturalidade deve vir da clareza e do ritmo, não da adição automática de gírias.
+
+Por último, passe o texto pela lista de [vícios de linguagem proibidos](#vícios-de-linguagem-proibidos) e compare com a [Linguagem do Ritter](../../../VENDAS%20-%20Proposta%20Comercial/Criação%20de%20conteúdo/Linguagem-do-Ritter.md). Além da leitura, faça uma busca textual nos arquivos gravados, por exemplo:
+
+```bash
+grep -niE "não é (sobre|só)|não é [^.]*\. é |crucial|fundamental|essencial|vital|revolucion|inspirador|mergulh|naveg|jornada|ecossistema|é importante (lembrar|ressaltar)|além disso|por outro lado|portanto|dessa forma|—|;|\b(sem [^.]+\. ){2}" <conteudo.md>
+```
+
+Cada ocorrência no texto publicável precisa ser reescrita ou ter um motivo claro para ficar (por exemplo, “vital” dentro de uma citação). Também confira à mão perguntas retóricas seguidas de resposta curta, que a busca não pega bem.
