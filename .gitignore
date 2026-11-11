@@ -1,0 +1,6 @@
+# Sistema
+.DS_Store
+
+# Arquivos temporários e configurações locais de cada máquina
+tmp/
+.claude/settings.local.json

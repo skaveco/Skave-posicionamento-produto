@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ideias de conteúdo — Ritter"
+  short_description: "Pautas no chat e roteiros completos em Markdown, por mês e semana"
+  default_prompt: "Use $skave-ideias-ritter para propor pautas, gravar as selecionadas em Conteúdos de posts com os textos completos e pedir minha conferência."
