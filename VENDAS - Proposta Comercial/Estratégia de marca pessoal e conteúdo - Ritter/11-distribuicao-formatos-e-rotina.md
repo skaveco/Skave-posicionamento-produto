@@ -28,6 +28,8 @@ Análises de caso seguem a estrutura do formato escolhido. Legendas, quando prod
 
 O PDF estabelece como meta **três publicações por dia** — texto curto, reels e carrossel —, com análise de caso duas vezes por semana, além dos stories. Isso é um salto grande sobre a frequência registrada no diagnóstico. Tratar como **meta experimental**, com produção em bloco e revisão semanal da qualidade, da aderência do público e da capacidade real de execução. O bloco sugerido para gravar reels é de uma a duas horas por semana.
 
+**Horários do feed (decisão de Ritter em 12 de novembro de 2026):** Tweet às 8h, reels às 12h e carrossel às 18h, todos os dias. Os stories do dia são planejados em torno desses horários: logo depois de cada post para levar a audiência até ele, antes do carrossel para preparar o assunto e à noite para caixinhas e interações que pedem mais tempo de resposta.
+
 ## Canais e reaproveitamento
 
 Instagram é o canal principal do perfil. O PDF sugere reaproveitar vídeos no TikTok e YouTube e levar as melhores ideias ao LinkedIn, onde também há donos de SaaS. Adaptar título, legenda e chamada ao contexto de cada canal; medir se o reaproveitamento traz público aderente.
