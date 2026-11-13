@@ -249,7 +249,10 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
   function visible(p) { return !st.hideStatus[p.status] && !st.hideFormat[p.formato]; }
   function postsOn(dayIso) {
     return st.posts.filter(function (p) { return p.data === dayIso && visible(p); })
-      .sort(function (a, b) { return FORMATS.indexOf(fmtOf(a.formato)) - FORMATS.indexOf(fmtOf(b.formato)); });
+      .sort(function (a, b) {
+        var oa = parseInt(a.ordem, 10) || 99, ob = parseInt(b.ordem, 10) || 99;
+        return oa !== ob ? oa - ob : FORMATS.indexOf(fmtOf(a.formato)) - FORMATS.indexOf(fmtOf(b.formato));
+      });
   }
   function range() {
     if (st.view === "semana") return [st.cursor, addDays(st.cursor, 6)];
@@ -443,7 +446,7 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
       if (href) { var a = el("a", null, v); a.href = href; a.target = "_blank"; a.rel = "noopener"; dd.appendChild(a); } else dd.textContent = v;
       w.appendChild(dd); dl.appendChild(w);
     }
-    fact("Funil", p.funil); fact("Pilar", p.pilar); fact("Dor", p.dor); fact("Rede", p.rede);
+    fact("Ordem no dia", p.ordem ? p.ordem + "º post" : ""); fact("Funil", p.funil); fact("Pilar", p.pilar); fact("Dor", p.dor); fact("Rede", p.rede);
     fact("Produção", p.producao); fact("Template", p.template); fact("Modo de cor", p.modo_cor);
     if (p.link_arte && /^https:\/\//.test(p.link_arte)) fact("Arte", "Abrir no " + (p.producao || "editor"), p.link_arte);
     fact("PNGs na pasta arte/", p.artes ? String(p.artes) : "");

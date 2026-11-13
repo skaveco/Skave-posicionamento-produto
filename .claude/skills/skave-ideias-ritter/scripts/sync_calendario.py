@@ -19,7 +19,7 @@ MESES = {m: i for i, m in enumerate(
     ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho",
      "agosto", "setembro", "outubro", "novembro", "dezembro"], 1)}
 CAMPOS = ["titulo", "data", "rede", "formato", "funil", "pilar", "dor", "status",
-          "producao", "template", "modo_cor", "link_arte"]
+          "producao", "template", "modo_cor", "link_arte", "ordem"]
 
 
 def nfc(s):

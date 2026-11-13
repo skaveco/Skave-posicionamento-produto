@@ -36,7 +36,7 @@ Conteúdos de posts/
 - **Semana:** o intervalo do lote, que começa na data do pedido e não necessariamente numa segunda-feira: `17 a 23 de Novembro, 2026`. Se cruzar meses, `28 de Novembro a 4 de Dezembro, 2026`; se cruzar anos, `29 de Dezembro, 2026 a 4 de Janeiro, 2027`. A semana fica dentro do mês da **data inicial**. Pautas avulsas entram na semana que contém a data de publicação; se não houver pasta para ela, crie a semana de sete dias começando na data de publicação mais cedo do pedido.
 - **Publicação:** `<dia> de <Mês> · <Formato> · <título>`. Formatos: `Carrossel`, `Reels`, `Tweet`, `Estático`, `Stories`. Use o título selecionado, removendo os caracteres `/ \ : * ? " < > |` e encurtando para cerca de 70 caracteres sem cortar palavras.
 - **`arte/`:** criada apenas pela skill de produção, quando houver arte aprovada.
-- **`_semana.md`:** grade da semana em tabela (data, formato, título com link relativo para a pasta, funil, pilar, status). Atualize a cada criação ou mudança de status.
+- **`_semana.md`:** grade da semana em tabela (data, ordem, formato, título com link relativo para a pasta, funil, pilar, status), com as linhas de cada dia na ordem de publicação. Atualize a cada criação ou mudança de status.
 - **`_calendario.md`:** lista das semanas do mês com links e totais por status. Atualize junto com `_semana.md`.
 - **`_claude-design.md`:** link do canvas de produção do mês no Claude Design e assets copiados. É criado e mantido pela [skave-producao-claude-design](../skave-producao-claude-design/SKILL.md); esta skill não o altera.
 
@@ -51,6 +51,7 @@ formato: Carrossel
 funil: Topo
 pilar: <pilar do documento 09>
 dor: <dor principal> (documento 04)
+ordem: <1, 2 ou 3: posição da publicação no dia>
 status: rascunho
 producao:
 template:
@@ -104,7 +105,17 @@ O banco só aceita escrita do dono do artifact; quem recebe o link compartilhado
 
 Ao receber **“Planejar a semana”** ou um pedido pelos conteúdos da semana, trabalhe no período indicado pelo usuário. Sem período explícito, planeje **os próximos sete dias consecutivos, começando na data da chamada e terminando seis dias depois**, no fuso do usuário. Identifique as sete datas no chat para que o usuário selecione as pautas e ajuste o intervalo antes da criação dos arquivos. A skill só é acionada quando o usuário chamar, sem dia fixo. A grade semanal completa tem **21 conteúdos para Instagram: três por dia, sendo um Tweet textual, um reel e um carrossel em cada uma das sete datas**. Use o [documento 11](../../../VENDAS%20-%20Proposta%20Comercial/Estratégia%20de%20marca%20pessoal%20e%20conteúdo%20-%20Ritter/11-distribuicao-formatos-e-rotina.md) e o [documento 09](../../../VENDAS%20-%20Proposta%20Comercial/Estratégia%20de%20marca%20pessoal%20e%20conteúdo%20-%20Ritter/09-pilares-de-comunicacao.md) como fontes das proporções. Calcule as quantidades inteiras de cada eixo para o lote e distribua as etapas ao longo dos dias. As duas análises de caso previstas na estratégia ocupam vagas de reel ou carrossel, com fonte verificável. Stories ficam fora dos três posts diários.
 
-Consulte as pastas de semana que cobrem o período para identificar o que já existe pelas datas e evitar duplicatas. Entregue a grade no chat com data, título da pauta, formato, etapa do funil e pilar de cada publicação. Confira **sete datas e três formatos em cada data**, mostre o total de 21 conteúdos e indique as pautas que dependem de material ou fonte. Aguarde o usuário selecionar as pautas. Depois, crie a pasta da semana, grave os conteúdos completos **nos `conteudo.md` de cada publicação**, atualize `_semana.md` e `_calendario.md` e peça a conferência, conforme o fluxo acima. Não produza carrosséis ou Tweet automaticamente após criar os arquivos.
+### Ordem das publicações no dia
+
+Ritter pediu (13 de Novembro, 2026) que a ordem dos três posts do dia mude ao longo da semana, para o feed não formar padrões repetidos. No grid do Instagram, de três colunas, publicar todo dia na mesma sequência (por exemplo Tweet, Reels, Carrossel) empilha o mesmo formato na mesma coluna, e os tweets, sempre brancos, viram uma faixa clara.
+
+- Defina a ordem de cada dia ao montar a grade e registre no `conteudo.md` (`ordem: 1`, `2` ou `3`) e no `_semana.md`.
+- O mesmo formato não ocupa a mesma posição em dois dias seguidos.
+- O último post de um dia e o primeiro do dia seguinte não podem ser do mesmo formato. Considere também o último dia já gravado antes do lote.
+- Ao longo da semana, cada formato passa por cada posição pelo menos duas vezes. Fora isso, a ordem é livre; varie sem repetir a mesma sequência de três em dias seguidos.
+- Vale também para lotes de poucos dias e para dias que já tenham posts gravados: complete a ordem a partir do que existe.
+
+Consulte as pastas de semana que cobrem o período para identificar o que já existe pelas datas e evitar duplicatas. Entregue a grade no chat com data, título da pauta, ordem no dia, formato, etapa do funil e pilar de cada publicação, já na ordem de publicação. Confira **sete datas e três formatos em cada data**, mostre o total de 21 conteúdos e indique as pautas que dependem de material ou fonte. Aguarde o usuário selecionar as pautas. Depois, crie a pasta da semana, grave os conteúdos completos **nos `conteudo.md` de cada publicação**, atualize `_semana.md` e `_calendario.md` e peça a conferência, conforme o fluxo acima. Não produza carrosséis ou Tweet automaticamente após criar os arquivos.
 
 ## Leia a estratégia atual antes de gerar
 
