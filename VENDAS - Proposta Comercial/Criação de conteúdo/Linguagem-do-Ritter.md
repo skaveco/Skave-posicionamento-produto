@@ -8,7 +8,7 @@ Registre padrões, não só frases soltas. O objetivo é que o texto soe como o 
 
 ## Expressões e construções que ele usa
 
-- Fala direto com a pessoa: “você”, “seu cliente”, “seu produto”. Troca “o cliente” por “o seu cliente” quando quer aproximar.
+- Fala direto com a pessoa: “você”, “seu cliente”, “seu produto”. Troca “o cliente” por “o seu cliente” quando quer aproximar. Fala com um dono de SaaS por vez, sempre no singular: “você”, “a sua empresa”, “o seu time”.
 - Formas de conversa como “pra”, “tá” e “a gente” aparecem naturalmente, sem virar obrigação.
 - No convite para acompanhar, fala em primeira pessoa: “me acompanha por aqui”, “me acompanhe por aqui”. Nunca “siga @mateusritter”.
 - Apresenta o problema pela consequência, de forma clara: “Se o seu produto só fica fácil de entender quando você entra na call, você tem um problema.” E continua puxando a pessoa: “Não entendeu? Vem comigo.” (11 de Novembro, 2026, gancho do carrossel de 16 de Novembro.)
@@ -30,6 +30,7 @@ Registre padrões, não só frases soltas. O objetivo é que o texto soe como o 
 ## O que ele não fala
 
 - O mesmo fechamento em todos os posts. Ele percebe a repetição e não quer.
+- “Vocês” para falar com o público ou com a empresa de quem lê (pedido de 13 de Novembro, 2026, depois de ver o uso frequente nos reels). Em vez de “pra quem vocês fazem”, “pra quem você faz”.
 - Os vícios listados na seção [Vícios de linguagem proibidos](../../.claude/skills/skave-ideias-ritter/SKILL.md#vícios-de-linguagem-proibidos) da skill: contraste artificial (“não é X, é Y”), pergunta retórica de efeito, palavras como crucial, fundamental, essencial, vital, revolucionário, inspirador, mergulhar, navegar, jornada e ecossistema, transições de redação escolar, listas onde cabia conversa, pontuação engessada e a fórmula “Sem X. Sem Y. Só Z.”.
 - Vocabulário de apresentação institucional, como “lacuna de percepção da diferenciação”. No lugar, diz a situação: “seu cliente não entendeu por que escolher você”.
 - Gírias ou intimidade forçadas.

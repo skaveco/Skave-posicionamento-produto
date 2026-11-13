@@ -161,7 +161,7 @@ O texto publicável deve soar como Ritter conversando com um dono de SaaS: próx
 
 - Use palavras comuns, situações reconhecíveis e frases que alguém diria em voz alta. Quando uma expressão estratégica ficar abstrata, mostre como ela aparece na conversa com o cliente, no site ou na rotina do comercial.
 - Preserve o raciocínio entre as frases. Não encurte tanto que o público precise decifrar uma metáfora, nem monte uma sequência de frases de efeito desconectadas. Varie o ritmo e use transições de conversa quando ajudarem.
-- Fale diretamente com a pessoa, usando “você”, “seu cliente” e “seu produto” quando couber. Formas como “pra”, “tá” e “a gente” podem aparecer naturalmente, sem virar obrigação ou caricatura. Mantenha a ortografia correta e evite intimidade, gírias ou bordões forçados.
+- Fale diretamente com a pessoa, usando “você”, “seu cliente” e “seu produto” quando couber. **Fale sempre com um dono de SaaS por vez, no singular** (pedido de Ritter, 13 de Novembro, 2026): nunca use “vocês” para se dirigir ao público nem para falar da empresa de quem lê. Troque “pra quem vocês fazem” por “pra quem você faz”, “os clientes escolheram vocês” por “os clientes escolheram você” ou “a sua empresa”, e “o time de vocês” por “o seu time”. Vale para falas de reels, slides, tweets, legendas e CTAs; nos reels, que soam como conversa, a atenção é maior. Formas como “pra”, “tá” e “a gente” podem aparecer naturalmente, sem virar obrigação ou caricatura. Mantenha a ortografia correta e evite intimidade, gírias ou bordões forçados.
 - Troque o vocabulário de apresentação institucional por explicações concretas. Por exemplo, “seu cliente não entendeu por que escolher você” costuma comunicar melhor do que “existe uma lacuna de percepção da diferenciação”. Use termos técnicos apenas quando ajudarem o público a entender a ideia.
 - Faça a curiosidade nascer da situação e da consequência para o empresário. Não dependa sempre de suspense, pergunta retórica ou da mesma expressão no fim da frase.
 
@@ -284,7 +284,7 @@ Faça também uma revisão de oralidade: leia o texto como se Ritter estivesse f
 Por último, passe o texto pela lista de [vícios de linguagem proibidos](#vícios-de-linguagem-proibidos) e compare com a [Linguagem do Ritter](../../../VENDAS%20-%20Proposta%20Comercial/Criação%20de%20conteúdo/Linguagem-do-Ritter.md). Além da leitura, faça uma busca textual nos arquivos gravados, por exemplo:
 
 ```bash
-grep -niE "não é (sobre|só)|não é [^.]*\. é |crucial|fundamental|essencial|vital|revolucion|inspirador|mergulh|naveg|jornada|ecossistema|é importante (lembrar|ressaltar)|além disso|por outro lado|portanto|dessa forma|—|;|\b(sem [^.]+\. ){2}" <conteudo.md>
+grep -niE "não é (sobre|só)|não é [^.]*\. é |crucial|fundamental|essencial|vital|revolucion|inspirador|mergulh|naveg|jornada|ecossistema|é importante (lembrar|ressaltar)|além disso|por outro lado|portanto|dessa forma|—|;|\bvocês\b|\b(sem [^.]+\. ){2}" <conteudo.md>
 ```
 
-Cada ocorrência no texto publicável precisa ser reescrita ou ter um motivo claro para ficar (por exemplo, “vital” dentro de uma citação). Também confira à mão perguntas retóricas seguidas de resposta curta, que a busca não pega bem.
+Cada ocorrência no texto publicável precisa ser reescrita ou ter um motivo claro para ficar (por exemplo, “vital” dentro de uma citação). Todo “vocês” no texto publicável ou na legenda vira “você” ou “a sua empresa”. Também confira à mão perguntas retóricas seguidas de resposta curta, que a busca não pega bem.
