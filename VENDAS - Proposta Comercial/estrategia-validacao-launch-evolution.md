@@ -29,13 +29,14 @@ Os primeiros projetos não servem só para faturar. Cada um responde a perguntas
 
 ## 3. A estratégia em uma frase
 
-**Vender de três a quatro projetos como "Clientes Fundadores", com condição de lançamento declarada em troca de case, depoimento e dados, puxando primeiro da rede quente e usando o perfil do Ritter como reforço, e só então fixar a tabela cheia.**
+**Vender três projetos como "Clientes Fundadores", com condição de lançamento declarada em troca de case, depoimento e dados, puxando primeiro da rede quente e usando o perfil do Ritter como reforço, e só então fixar a tabela cheia.**
 
 ## 4. Programa Clientes Fundadores
 
 ### Formato
 
-- **Vagas:** 3 a 4 no total. Sugestão: 2 a 3 de Brand Launch e 1 de Brand Evolution. O Evolution é mais longo e mais caro, e o primeiro tende a sair da rede quente (seção 5).
+- **Vagas:** 3 no total, entre Launch e Evolution (decisão dos sócios, 13 de novembro de 2026). A escassez das vagas é o gatilho da oferta. O ideal é que ao menos uma seja de Evolution, para validar os dois produtos; o primeiro tende a sair da rede quente (seção 5).
+- **Prazo de decisão:** 3 dias a partir da apresentação da oferta na call, ou até as vagas acabarem. A vaga só é garantida com contrato assinado e pagamento confirmado. Scripts: [captação](script-captacao-clientes-fundadores.md) e [oferta](script-oferta-clientes-fundadores.md).
 - **Condição:** **12x no cartão pelo preço à vista**, sem acréscimo: Launch em 12x de R$ 958,33 e Evolution em 12x de R$ 1.125,00. Equivale a 12% a 15% de vantagem sem mexer no preço publicado. Desconto direto no à vista é desaconselhado: 25% sobre o Launch daria cerca de R$ 8.600, praticamente o preço do Start, e esvaziaria o downsell. Se for preciso desconto, no máximo 10% sobre o à vista. A condição aparece na proposta como condição de lançamento, com vagas e prazo, e não vira negociação caso a caso.
 - **Escopo:** o mesmo dos documentos de produto. Fundador não ganha escopo maior nem rodada extra.
 
@@ -117,14 +118,14 @@ O que validar e ajustar nos primeiros projetos:
 
 Com esse ticket, as metas do PDF da Voss (4 a 5 vendas e R$ 50 a 60 mil por mês) são coerentes no papel: 4 a 5 projetos dariam R$ 46 mil a R$ 67 mil. Continuam **não adotadas** até a capacidade de entrega ser confirmada: com projetos de 11 a 14 semanas, 4 vendas por mês significam 12 ou mais projetos simultâneos.
 
-Com 3 a 4 fundadores na condição de 12x sem acréscimo, a validação fatura entre R$ 36,5 mil (2 Launch + 1 Evolution) e R$ 48 mil (3 Launch + 1 Evolution).
+Com as 3 vagas preenchidas na condição de 12x sem acréscimo, a validação fatura entre R$ 34,5 mil (3 Launch) e R$ 40,5 mil (3 Evolution); com 2 Launch e 1 Evolution, R$ 36,5 mil.
 
 ## 8. Cronograma da validação
 
 | Semanas | Foco | Pronto quando |
 | --- | --- | --- |
 | **1–2** | Preparar a venda | Condição de fundador aprovada; inconsistências dos modelos de proposta corrigidas; apresentação da call de Launch e de Evolution; modelo de proposta e de contrato com as cláusulas de fundador; planilha de CRM; lista da rede quente triada. |
-| **2–8** | Vender os fundadores | Calls de diagnóstico rodando; propostas enviadas em até 48 h após a call; meta de 3 a 4 contratos. Em paralelo, fechar os questionários do Diagnóstico do Evolution. |
+| **2–8** | Vender os fundadores | Calls de diagnóstico rodando; propostas enviadas em até 48 h após a call; meta de 3 contratos. Em paralelo, fechar os questionários do Diagnóstico do Evolution. |
 | **4–20** | Entregar e medir | Horas lançadas por etapa, devolutivas do cliente medidas contra os 3 dias úteis, feedback de cada marco, antes/depois guardado. |
 | **9–10** | Primeira revisão | Revisar mensagem, fronteira Launch × Evolution e preço com os dados das calls (seção 10). |
 | **Fim do 1º projeto** | Preço cheio | Encerrar a condição de fundador, rever o ticket com as horas reais, publicar o primeiro case autorizado e definir a cadência de prospecção com a conversão real. |
@@ -166,7 +167,7 @@ Além do registro do [roteiro](roteiro-abordagem-seguidores.md#registro-no-crm):
 ## 12. Decisões que dependem dos sócios
 
 1. Condição de fundador: 12x pelo preço à vista (recomendado) ou desconto de até 10%.
-2. Número de vagas de fundador e a divisão entre Launch e Evolution.
+2. Vagas: decidido em 3, com 3 dias para decidir após a apresentação da oferta.
 3. Se o Diagnóstico de Marca será vendido como porta de entrada do Evolution.
 4. Quem conduz as calls e quem prepara as propostas.
 5. Capacidade de entrega: quantos projetos simultâneos a Skave aguenta com qualidade (isso limita as vagas).

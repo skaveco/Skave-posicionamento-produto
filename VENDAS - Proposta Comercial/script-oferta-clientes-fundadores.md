@@ -1,17 +1,17 @@
 # Script da oferta Clientes Fundadores
 
-*Mensagens e roteiro de call para vender os primeiros projetos de Brand Launch e Brand Evolution com a condição de fundador. Aplica a seção 4 da [estratégia de validação](estrategia-validacao-launch-evolution.md). Preços e entregáveis vêm dos [modelos de proposta](Modelos%20de%20proposta/_modelos-de-proposta.md). As falas seguem a [Linguagem do Ritter](Criação%20de%20conteúdo/Linguagem-do-Ritter.md): uma pessoa por vez, no singular, sem os vícios proibidos.*
+*Roteiro de call, proposta e follow-up para vender os primeiros projetos de Brand Launch e Brand Evolution com a condição de fundador. Aplica a seção 4 da [estratégia de validação](estrategia-validacao-launch-evolution.md). Preços e entregáveis vêm dos [modelos de proposta](Modelos%20de%20proposta/_modelos-de-proposta.md). As falas seguem a [Linguagem do Ritter](Criação%20de%20conteúdo/Linguagem-do-Ritter.md): uma pessoa por vez, no singular, sem os vícios proibidos.*
 
 ## A oferta em uma linha
 
-Os primeiros 3 a 4 projetos de Brand Launch e Brand Evolution saem em **12x no cartão pelo preço à vista**, sem acréscimo, para quem assinar até **[data limite]**. Em troca, o cliente autoriza o case, grava depoimento, compartilha os indicadores que já mede e dá feedback em cada etapa.
+**3 vagas**, no total, entre Brand Launch e Brand Evolution, saem em **12x no cartão pelo preço à vista**, sem acréscimo. Depois que a oferta é apresentada na call, o cliente tem **3 dias** para decidir, ou menos, se as vagas acabarem antes. A vaga só é garantida com contrato assinado e pagamento confirmado. Em troca, o cliente autoriza o case, grava depoimento, compartilha os indicadores que já mede e dá feedback em cada etapa.
 
 | | Preço normal no cartão | Condição de fundador | À vista |
 | --- | ---: | ---: | ---: |
 | Brand Launch | 12x de R$ 1.091,66 | **12x de R$ 958,33** | R$ 11.500,00 |
 | Brand Evolution | 12x de R$ 1.328,89 | **12x de R$ 1.125,00** | R$ 13.500,00 |
 
-**Antes de usar este script, definir:** a data limite (sugestão: 30 dias após o primeiro envio), o número exato de vagas e a quantidade já preenchida. A escassez precisa ser verdadeira. Quando as vagas acabarem, a condição acaba e o script diz isso.
+**Antes de cada call, conferir quantas vagas ainda estão abertas.** A escassez precisa ser verdadeira. Quando as 3 vagas acabarem, a condição acaba e o script diz isso. As mensagens para chegar até a call estão no [script de captação](script-captacao-clientes-fundadores.md).
 
 ## Regras
 
@@ -21,38 +21,9 @@ Os primeiros 3 a 4 projetos de Brand Launch e Brand Evolution saem em **12x no c
 4. **Contrapartidas ditas em voz alta na call**, antes da proposta. Ninguém pode ser surpreendido pelo contrato.
 5. **Start só depois que a oferta principal não avançar**, como em [como apresentar](../PRODUTO%20-%20Posicionamento%20de%20marca/como-apresentar.md). O Start não tem condição de fundador.
 
-## 1. Primeira mensagem para a rede quente (WhatsApp ou LinkedIn)
+## 1 e 2. Captação e lembrete
 
-Mandar do número ou perfil de quem tem a relação com a pessoa. Personalizar sempre a frase do meio.
-
-### Ex-cliente da Skave (caminho natural para o Evolution)
-
-> Oi, [nome], tudo bem? Aqui é o Ritter, da Skave.
-> Tô acompanhando a [empresa] de longe e vi que [observação concreta: lançou um produto novo, mudou de público, cresceu o time].
-> A gente acabou de lançar um projeto pra empresa que cresceu e sente que a marca ficou pra trás, e os primeiros clientes entram com uma condição especial. Lembrei de você na hora.
-> Topa uma conversa de 30 minutos pra eu entender como tá a marca hoje?
-
-### Contato pessoal dos sócios
-
-> Oi, [nome]! Faz tempo, hein. Vi que o [produto] tá [observação concreta].
-> Tô com um projeto novo na Skave, focado em dono de SaaS que já vende, mas sente que a marca não explica direito o valor do produto. Os primeiros projetos vão sair com uma condição de fundador.
-> Fiquei curioso pra saber como você tá vendo isso aí. Bora marcar 30 minutos essa semana?
-
-### Pedido de indicação (clientes e parceiros satisfeitos)
-
-> Oi, [nome]! Uma ajuda rápida: tô abrindo as primeiras vagas de um projeto de posicionamento pra SaaS, com condição especial pra quem entrar agora.
-> Procuro dono de SaaS B2B que já vende, mas sente que precisa explicar demais o produto ou que a marca parece menor que a empresa.
-> Se vier alguém na sua cabeça, me apresenta? Eu cuido do resto e te conto como foi.
-
-### Lead que veio do perfil ou do direct
-
-Seguir o [roteiro de abordagem](roteiro-abordagem-seguidores.md) até o convite para o diagnóstico. A condição de fundador entra só na call.
-
-## 2. Lembrete (uma vez só, 4 a 5 dias depois)
-
-> [nome], voltando aqui rapidinho. Ainda tenho [número] vagas na condição de fundador até [data]. Se fizer sentido conversar, me fala um dia bom pra você. Se não for o momento, fica tranquilo.
-
-Sem resposta, encerrar. Registrar no CRM.
+Movidos para o [script de captação](script-captacao-clientes-fundadores.md): clientes antigos pelo WhatsApp e gente nova pelo Instagram.
 
 ## 3. Roteiro da call de diagnóstico (30 a 40 minutos)
 
@@ -126,7 +97,7 @@ Depois de qualquer um dos dois:
 > O investimento do [Launch / Evolution] é R$ [11.500 / 13.500] à vista, ou em 12x de R$ [1.091,66 / 1.328,89] no cartão.
 > Só que eu tô nos primeiros projetos desse formato e abri [número] vagas de fundador. Quem entra agora paga em 12x pelo preço à vista, ou seja, 12x de R$ [958,33 / 1.125,00], sem acréscimo.
 > Em troca eu te peço quatro coisas, que vão no contrato: autorização pra mostrar o projeto como case, um depoimento em vídeo no fim, acesso aos números que você já acompanha, como conversão e ciclo de venda, pra gente medir o antes e o depois, e uns 15 minutos de feedback em cada etapa. Se a experiência for boa, eu também vou te pedir duas indicações.
-> Hoje tenho [número] vagas abertas, e a condição vale até [data].
+> São 3 vagas no total e hoje tenho [número] abertas. Você tem 3 dias, até [data], pra decidir. Se as vagas fecharem antes disso, a condição acaba antes, e eu te aviso.
 
 Parar e esperar a resposta.
 
@@ -134,7 +105,7 @@ Parar e esperar a resposta.
 
 Se o lead topar ou mostrar interesse:
 
-> Então vou te mandar a proposta hoje até o fim do dia, com tudo que a gente conversou. Você consegue ver com calma até [dia, no máximo dois dias depois]? Aí a gente já marca 15 minutos pra fechar os detalhes.
+> Então vou te mandar a proposta hoje até o fim do dia, com tudo que a gente conversou. Vamos marcar 15 minutos [dia, dentro dos 3 dias] pra tirar as dúvidas e fechar?
 
 Marcar a próxima conversa antes de desligar. Nunca terminar a call com "me avisa".
 
@@ -142,18 +113,19 @@ Marcar a próxima conversa antes de desligar. Nunca terminar a call com "me avis
 
 > [nome], segue a proposta do [Brand Launch / Brand Evolution] que a gente conversou.
 > Coloquei ali o que você me contou sobre [dor nas palavras dele], que é o ponto de partida do projeto.
-> A condição de fundador tá na última página: 12x de R$ [valor] pelo preço à vista, até [data].
+> A condição de fundador tá na última página: 12x de R$ [valor] pelo preço à vista, válida até [data, 3 dias depois da call] ou até as vagas fecharem.
 > Nossa conversa tá marcada pra [dia e hora]. Qualquer dúvida antes disso, me chama.
 
-**Na proposta:** usar o PDF do produto com cliente, data e validade preenchidos (validade = data limite da condição) e conferir as correções listadas em `_modelos-de-proposta.md`, principalmente o preço errado na tabela de alternativa do Evolution.
+**Na proposta:** usar o PDF do produto com cliente, data e validade preenchidos (validade = 3 dias depois da call) e conferir as correções listadas em `_modelos-de-proposta.md`, principalmente o preço errado na tabela de alternativa do Evolution.
 
 ## 5. Follow-up da proposta
 
 - **Na conversa marcada:** "Conseguiu olhar a proposta? O que ficou de dúvida?" Responder às objeções e propor a assinatura.
-- **Se ele faltar ou adiar, 2 dias depois:**
+- **Se ele faltar ou adiar, no dia seguinte (dia 2):**
   > [nome], conseguiu dar uma olhada? Se ajudar, a gente resolve as dúvidas em 15 minutos por aqui mesmo.
-- **5 dias depois, última mensagem:**
-  > [nome], vou fechar as vagas de fundador em [data]. Se quiser garantir a sua, me fala até lá. Se não for o momento, sem problema, a proposta normal continua valendo depois.
+- **No último dia (dia 3), última mensagem:**
+  > [nome], a condição de fundador vale até hoje. Se quiser garantir a sua vaga, me fala que eu te mando o contrato agora. Se não for o momento, sem problema, a proposta continua valendo no valor normal.
+- **Se uma vaga for preenchida durante o prazo**, avisar na hora, como na [parte 3 do script de captação](script-captacao-clientes-fundadores.md#parte-3--contagem-das-vagas).
 
 Depois disso, encerrar e registrar o motivo no CRM.
 
