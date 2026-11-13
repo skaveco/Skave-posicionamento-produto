@@ -51,4 +51,4 @@ Ao final do projeto, o cliente terá uma proposta de valor clara, uma identidade
 
 ## Investimento
 
-**Valores e condições de pagamento finais: não definidos.** Devem ser confirmados antes de compor uma proposta ao cliente.
+**R$ 7.500,00 à vista ou 12x de R$ 716,66 no cartão de crédito**, prazo de 6 semanas, conforme a tabela de alternativa de escopo dos [modelos de proposta](../../VENDAS%20-%20Proposta%20Comercial/Modelos%20de%20proposta/_modelos-de-proposta.md). Os modelos indicam o Start sem pós-projeto, em conflito com os 60 dias descritos acima; confirmar qual vale.

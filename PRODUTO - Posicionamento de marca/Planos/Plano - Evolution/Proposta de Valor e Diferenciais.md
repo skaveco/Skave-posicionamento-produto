@@ -54,7 +54,7 @@ Nosso objetivo não é descartar o que funciona. O diagnóstico ajuda a identifi
 
 ### 5.5. Por que o Brand Evolution exige uma etapa de diagnóstico adicional?
 
-Porque investiga uma marca já estabelecida, com pesquisas envolvendo liderança, clientes e colaboradores. Esse diagnóstico exige mais tempo de análise antes da construção estratégica e visual. Os investimentos finais de cada oferta ainda não estão definidos.
+Porque investiga uma marca já estabelecida, com pesquisas envolvendo liderança, clientes e colaboradores. Esse diagnóstico exige mais tempo de análise antes da construção estratégica e visual. Por isso o investimento é maior que o do Brand Launch: R$ 13.500,00 à vista contra R$ 11.500,00.
 
 ### 5.6. O projeto inclui implementação e gestão dos canais digitais?
 

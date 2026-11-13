@@ -7,6 +7,7 @@ Documentação da Skave (posicionamento, produto, vendas) e operação de conte�
 - `SKAVE - Posicionamento/`: posicionamento da própria Skave.
 - `PRODUTO - Posicionamento de marca/`: o produto Posicionamento de Marca.
 - `VENDAS - Proposta Comercial/`
+  - `Modelos de proposta/`: PDFs das propostas de Brand Launch e Brand Evolution e o resumo `_modelos-de-proposta.md` (estrutura, entregáveis, ticket e inconsistências a corrigir). Fonte do preço vigente.
   - `Estratégia de marca pessoal e conteúdo - Ritter/`: estratégia editorial (dores, pilares, narrativa, banco de temas, provas).
   - `Criação de conteúdo/`: operação de conteúdo.
     - `Brand-kit-mateus-ritter.md`: brand kit em texto.

@@ -35,4 +35,10 @@ O **Brand Evolution** é destinado à evolução ou ao reposicionamento de uma *
 
 **Regra comercial:** o Start não deve ser apresentado como opção equivalente às ofertas principais no início da venda. Quando a demanda exigir o diagnóstico e a revisão estratégica de uma marca existente, a redução para Start precisa ser explicitamente reavaliada com o cliente, pois essas entregas ficam fora de seu escopo.
 
-**Investimentos:** valores e condições de pagamento finais dos planos ainda não definidos.
+**Investimentos** (fonte: [modelos de proposta](../../VENDAS%20-%20Proposta%20Comercial/Modelos%20de%20proposta/_modelos-de-proposta.md)):
+
+| Plano | À vista | Cartão de crédito |
+| --- | ---: | ---: |
+| Brand Launch | R$ 11.500,00 | 12x de R$ 1.091,66 |
+| Brand Evolution | R$ 13.500,00 | 12x de R$ 1.328,89 |
+| Start | R$ 7.500,00 | 12x de R$ 716,66 |

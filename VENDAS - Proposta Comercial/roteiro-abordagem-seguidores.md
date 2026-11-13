@@ -104,7 +104,7 @@ Sem resposta depois disso, encerrar. Pode voltar a falar só se a pessoa interag
 Registrar no CRM com a data e o motivo. Retomar só se a pessoa voltar a interagir ou mudar de fase de forma visível (lançamento, rodada, nova oferta), e mesmo assim puxando pelo assunto, não pelo "e aí, agora dá?".
 
 **"Quanto custa?" logo de cara**
-Os valores ainda não estão definidos e dependem do caso. Responder com transparência e devolver para o diagnóstico:
+O preço depende da oferta indicada (Launch ou Evolution) e só aparece na proposta, depois do diagnóstico. Responder com transparência e devolver para a conversa:
 
 > Depende bastante do momento da empresa, porque tem caso de primeira marca e caso de revisar uma marca que já existe. Por isso eu prefiro entender a sua situação antes de te passar qualquer número. Topa uns 30 minutos essa semana?
 

@@ -1,6 +1,6 @@
 # Cronograma de Execução — Brand Evolution
 
-**Status:** cronograma e estimativa de horas aprovados; valores finais em definição e premissas de custos sujeitas à validação nos primeiros projetos.
+**Status:** cronograma e estimativa de horas aprovados; investimento de R$ 13.500,00 à vista ou 12x de R$ 1.328,89, conforme o [modelo de proposta](../../../VENDAS%20-%20Proposta%20Comercial/Modelos%20de%20proposta/_modelos-de-proposta.md); premissas de custos sujeitas à validação nos primeiros projetos.
 
 ## 1. Cronograma aprovado
 

@@ -33,7 +33,7 @@ Cada tema tem um Markdown próprio. O PDF *Estratégia de Marca e Conteúdo — 
 
 ## Regras vigentes e propostas não adotadas
 
-1. **Preço:** valores finais ainda não estão definidos na [estratégia comercial vigente](../proposta-comercial.md) e no [comparativo de planos](../../PRODUTO%20-%20Posicionamento%20de%20marca/Planos/posicionamento-comparativo.md). Os números do PDF não são preços da Skave e não entram em conteúdo, abordagem ou proposta.
+1. **Preço:** os valores vigentes estão nos [modelos de proposta](../Modelos%20de%20proposta/_modelos-de-proposta.md) e no [comparativo de planos](../../PRODUTO%20-%20Posicionamento%20de%20marca/Planos/posicionamento-comparativo.md). Os números do PDF da Voss não são preços da Skave. Preço não entra em conteúdo nem no direct; aparece só na proposta.
 2. **Prazo:** usar o prazo da oferta indicada: Brand Launch documentado em 11 semanas e dois meses de acompanhamento; Evolution em 14 semanas e dois meses. A estimativa genérica de dez semanas do PDF não é aplicável.
 3. **Ativação digital:** o Launch inclui Instagram e mais um canal; o Evolution, um canal prioritário. A sugestão genérica de até três canais do PDF não integra o escopo.
 4. **ICP e triagem:** priorizar donos e sócios de SaaS B2B com produto no mercado. Não há piso de faturamento. Produto lançado sem prova pública de clientes pode ser abordado quando há necessidade visível; clientes e receita são confirmados na conversa. “Dono ou líder”, piso de R$ 30 mil/mês e clientes ativos como filtro público obrigatório não foram adotados.

@@ -28,8 +28,8 @@ Explicar o valor da **ativação digital e do acompanhamento**: a direção estr
 
 | Item | Direção para a venda |
 | --- | --- |
-| Preço e parcelamento | Ainda não definidos. Confirmar internamente antes de preparar proposta. |
+| Preço e parcelamento | Brand Launch R$ 11.500,00 e Brand Evolution R$ 13.500,00 à vista, ou em 12x no cartão; Start R$ 7.500,00. Detalhes nos [modelos de proposta](../Modelos%20de%20proposta/_modelos-de-proposta.md). Preço só na proposta, depois do diagnóstico. |
 | Prazo | Brand Launch: 11 semanas; Brand Evolution: 14 semanas. Ambos têm dois meses de acompanhamento pós-projeto. |
 | Ativação | Launch: Instagram e mais um canal de conteúdo escolhido com o cliente; Evolution: um canal digital prioritário. |
 
-Os valores, o prazo genérico de dez semanas e a ativação em até três canais sugeridos no PDF **não foram incorporados** às ofertas. Consultar a [estratégia comercial vigente](../proposta-comercial.md) e o [comparativo de planos](../../PRODUTO%20-%20Posicionamento%20de%20marca/Planos/posicionamento-comparativo.md) antes de cada proposta.
+Os valores do PDF da Voss, o prazo genérico de dez semanas e a ativação em até três canais sugeridos no PDF **não foram incorporados** às ofertas. Consultar a [estratégia comercial vigente](../proposta-comercial.md) e o [comparativo de planos](../../PRODUTO%20-%20Posicionamento%20de%20marca/Planos/posicionamento-comparativo.md) antes de cada proposta.

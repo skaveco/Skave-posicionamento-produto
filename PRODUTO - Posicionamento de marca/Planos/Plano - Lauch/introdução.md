@@ -87,4 +87,4 @@ Ao final do projeto, o cliente terá um primeiro posicionamento definido, identi
 
 ## Investimento
 
-**Valores e condições de pagamento finais: não definidos.** Devem ser confirmados antes de compor uma proposta ao cliente.
+**R$ 11.500,00 à vista ou 12x de R$ 1.091,66 no cartão de crédito**, conforme o [modelo de proposta do Brand Launch](../../../VENDAS%20-%20Proposta%20Comercial/Modelos%20de%20proposta/_modelos-de-proposta.md).

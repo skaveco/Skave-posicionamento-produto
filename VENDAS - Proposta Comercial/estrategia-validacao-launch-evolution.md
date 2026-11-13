@@ -12,9 +12,8 @@ Como validar e vender os **primeiros projetos** dos dois produtos novos. Complem
 
 | Lacuna | Por que trava |
 | --- | --- |
-| Preço e condições de pagamento | Sem número não há proposta. É a lacuna mais urgente. |
-| Nenhum case de Launch ou Evolution | O comprador paga por um processo que ninguém viu funcionar. Trabalhos antigos de identidade visual não podem ser apresentados como case do produto. |
-| Material de venda | Falta a apresentação da call por oferta e o modelo de proposta com preço. |
+| Nenhum case de Launch ou Evolution | Os [modelos de proposta](Modelos%20de%20proposta/_modelos-de-proposta.md) trazem projetos antigos (Normedic, Leads2b, Voris), que provam qualidade, mas não o processo completo do produto. O comprador ainda paga por um método que ninguém viu funcionar de ponta a ponta. |
+| Material de venda | Os modelos de proposta e o preço existem (Launch R$ 11.500, Evolution R$ 13.500, Start R$ 7.500 à vista). Faltam corrigir as inconsistências listadas no resumo dos modelos e preparar a apresentação da call. |
 | Ferramentas do Diagnóstico (Evolution) | Questionários, critério de entrevistas e procedimento para bases pequenas ainda estão em aberto no [Guia Operacional](../PRODUTO%20-%20Posicionamento%20de%20marca/Planos/Plano%20-%20Evolution/Guia%20Operacional.md). Dá para vender antes, mas não para começar o projeto. |
 | Funil do perfil ainda novo | O conteúdo forma audiência devagar; sozinho, não traz os primeiros clientes no prazo de que a Skave precisa. |
 
@@ -24,7 +23,7 @@ Os primeiros projetos não servem só para faturar. Cada um responde a perguntas
 
 1. **Dor e ICP:** dono de SaaS B2B reconhece a dor de clareza, diferenciação e coerência como prioridade a ponto de pagar por ela?
 2. **Divisão das ofertas:** a fronteira "primeiro posicionamento × marca estabelecida" faz sentido na call, ou o lead fica no meio?
-3. **Preço:** em que faixa o lead fecha sem cair para o Start, e quanto custa de fato entregar (horas reais × horas estimadas)?
+3. **Preço:** os tickets atuais (R$ 11.500 e R$ 13.500) fecham sem o lead cair para o Start (R$ 7.500), e cobrem as horas reais de entrega?
 4. **Entrega:** os cronogramas de 11 e 14 semanas se sustentam com cliente real e prazo de 3 dias úteis de devolutiva?
 5. **Canal:** de onde vêm as calls que fecham: rede da Skave, perfil do Ritter ou prospecção ativa?
 
@@ -37,7 +36,7 @@ Os primeiros projetos não servem só para faturar. Cada um responde a perguntas
 ### Formato
 
 - **Vagas:** 3 a 4 no total. Sugestão: 2 a 3 de Brand Launch e 1 de Brand Evolution. O Evolution é mais longo e mais caro, e o primeiro tende a sair da rede quente (seção 5).
-- **Condição:** preço de fundador com desconto fixo sobre a **tabela cheia já definida** (sugestão: 25% a 30%). A tabela aparece na proposta; o desconto aparece como condição de lançamento com vagas e prazo. Assim o preço cheio já fica ancorado e o desconto não vira negociação caso a caso.
+- **Condição:** **12x no cartão pelo preço à vista**, sem acréscimo: Launch em 12x de R$ 958,33 e Evolution em 12x de R$ 1.125,00. Equivale a 12% a 15% de vantagem sem mexer no preço publicado. Desconto direto no à vista é desaconselhado: 25% sobre o Launch daria cerca de R$ 8.600, praticamente o preço do Start, e esvaziaria o downsell. Se for preciso desconto, no máximo 10% sobre o à vista. A condição aparece na proposta como condição de lançamento, com vagas e prazo, e não vira negociação caso a caso.
 - **Escopo:** o mesmo dos documentos de produto. Fundador não ganha escopo maior nem rodada extra.
 
 ### Contrapartidas do cliente (no contrato)
@@ -98,27 +97,37 @@ Anúncios e closer só depois de haver preço validado, cases e taxa de convers�
 
 **Proposta a decidir: Diagnóstico de Marca como porta de entrada do Evolution.** Para o lead que hesita no projeto inteiro, vender só a etapa 1 (3 semanas) com preço próprio, **abatido integralmente do Evolution** se ele fechar em até 30 dias após a apresentação do diagnóstico. Reduz o risco para o cliente, testa as ferramentas do diagnóstico antes do primeiro Evolution completo e gera receita cedo. Não muda o escopo do produto: o Evolution continua um processo único. Precisa da aprovação dos dois sócios antes de ser oferecido.
 
-## 7. Preço: como chegar no número
+## 7. Preço
 
-Sem definir valores aqui, o caminho sugerido:
+Ticket vigente, segundo os [modelos de proposta](Modelos%20de%20proposta/_modelos-de-proposta.md):
 
-1. **Piso por custo:** horas estimadas de cada produto (a do Evolution já está aprovada) × custo-hora real dos sócios e de terceiros × margem mínima. Nenhuma proposta abaixo desse piso, nem a de fundador.
-2. **Teto por valor:** comparar com estúdios de branding que atendem tecnologia no Brasil e com o custo de um profissional de marca interno por três meses. Serve de referência para o lead, não como cópia.
-3. **Relação entre os produtos:** Evolution acima do Launch (três semanas a mais, pesquisa com dois públicos, um marco de aprovação extra). Start bem abaixo do Launch, para funcionar como downsell e não como atalho.
-4. **Pagamento atrelado aos marcos:** entrada na assinatura, parcela na aprovação da estratégia, parcela na aprovação da identidade e saldo na entrega final. Protege o caixa e reforça a política de aprovação.
+| Oferta | À vista | Cartão |
+| --- | ---: | ---: |
+| Brand Launch | R$ 11.500,00 | 12x de R$ 1.091,66 |
+| Brand Evolution | R$ 13.500,00 | 12x de R$ 1.328,89 |
+| Start | R$ 7.500,00 | 12x de R$ 716,66 |
+
+O que validar e ajustar nos primeiros projetos:
+
+1. **Piso por custo:** conferir horas reais × custo-hora dos sócios e de terceiros. Nenhuma proposta abaixo desse piso, nem a de fundador.
+2. **Distância entre Launch e Evolution:** hoje é de R$ 2.000 (17%) por três semanas a mais, pesquisa com dois públicos e um marco extra. Se as horas do diagnóstico passarem do previsto, é o primeiro preço a subir.
+3. **Distância para o Start:** R$ 4.000 abaixo do Launch. É ela que mantém o Start como downsell e não como atalho; nenhum desconto pode encurtá-la.
+4. **Pagamento atrelado aos marcos (proposta):** hoje só há à vista ou 12x no cartão. Avaliar uma terceira opção, por boleto ou Pix: entrada na assinatura, parcela na aprovação da estratégia, parcela na aprovação da identidade e saldo na entrega final. Protege o caixa e reforça a política de aprovação.
 5. **Teste nas primeiras propostas:** se três propostas seguidas fecharem sem nenhuma objeção de preço, o preço está baixo. Se mais da metade cair por preço com a dor confirmada, rever ancoragem, parcelamento ou a apresentação de valor antes de mexer no número.
 
-As metas do PDF da Voss (4 a 5 vendas e R$ 50 a 60 mil por mês) continuam **não adotadas**; só fazem sentido depois de confrontadas com o preço final e a capacidade de entrega.
+Com esse ticket, as metas do PDF da Voss (4 a 5 vendas e R$ 50 a 60 mil por mês) são coerentes no papel: 4 a 5 projetos dariam R$ 46 mil a R$ 67 mil. Continuam **não adotadas** até a capacidade de entrega ser confirmada: com projetos de 11 a 14 semanas, 4 vendas por mês significam 12 ou mais projetos simultâneos.
+
+Com 3 a 4 fundadores na condição de 12x sem acréscimo, a validação fatura entre R$ 36,5 mil (2 Launch + 1 Evolution) e R$ 48 mil (3 Launch + 1 Evolution).
 
 ## 8. Cronograma da validação
 
 | Semanas | Foco | Pronto quando |
 | --- | --- | --- |
-| **1–2** | Preparar a venda | Tabela e condição de fundador aprovadas; apresentação da call de Launch e de Evolution; modelo de proposta e de contrato com as cláusulas de fundador; planilha de CRM; lista da rede quente triada. |
+| **1–2** | Preparar a venda | Condição de fundador aprovada; inconsistências dos modelos de proposta corrigidas; apresentação da call de Launch e de Evolution; modelo de proposta e de contrato com as cláusulas de fundador; planilha de CRM; lista da rede quente triada. |
 | **2–8** | Vender os fundadores | Calls de diagnóstico rodando; propostas enviadas em até 48 h após a call; meta de 3 a 4 contratos. Em paralelo, fechar os questionários do Diagnóstico do Evolution. |
 | **4–20** | Entregar e medir | Horas lançadas por etapa, devolutivas do cliente medidas contra os 3 dias úteis, feedback de cada marco, antes/depois guardado. |
 | **9–10** | Primeira revisão | Revisar mensagem, fronteira Launch × Evolution e preço com os dados das calls (seção 10). |
-| **Fim do 1º projeto** | Tabela cheia | Encerrar a condição de fundador, publicar o primeiro case autorizado e definir a cadência de prospecção com a conversão real. |
+| **Fim do 1º projeto** | Preço cheio | Encerrar a condição de fundador, rever o ticket com as horas reais, publicar o primeiro case autorizado e definir a cadência de prospecção com a conversão real. |
 
 ## 9. Funil de referência para os fundadores
 
@@ -152,11 +161,11 @@ Além do registro do [roteiro](roteiro-abordagem-seguidores.md#registro-no-crm):
 | Mais da metade das propostas cai por preço | Valor mal apresentado ou preço acima do momento | Rever a apresentação, a ancoragem e o parcelamento; depois o número. |
 | Leads ficam no meio entre Launch e Evolution | Fronteira confusa | Usar uma única pergunta na call ("existe uma direção de marca anterior que vocês precisam rever?") e decidir por ela. |
 | Muitos caem para o Start | Start barato demais ou oferta principal pesada | Rever a distância de preço e o momento de apresentar o Start. |
-| Horas reais acima da estimativa em mais de 20% | Preço ou escopo subdimensionados | Ajustar a tabela cheia antes de encerrar os fundadores. |
+| Horas reais acima da estimativa em mais de 20% | Preço ou escopo subdimensionados | Ajustar o ticket antes de encerrar os fundadores. |
 
 ## 12. Decisões que dependem dos sócios
 
-1. Tabela cheia de Launch, Evolution e Start, e o percentual da condição de fundador.
+1. Condição de fundador: 12x pelo preço à vista (recomendado) ou desconto de até 10%.
 2. Número de vagas de fundador e a divisão entre Launch e Evolution.
 3. Se o Diagnóstico de Marca será vendido como porta de entrada do Evolution.
 4. Quem conduz as calls e quem prepara as propostas.
