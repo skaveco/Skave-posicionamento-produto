@@ -1,5 +1,5 @@
 ---
-titulo: 5 perguntas que o seu cliente faz na reunião e o que seu site deveria responder antes
+titulo: 5 perguntas que o seu cliente faz na reunião e que o seu site deveria responder antes
 data: 19 de Novembro, 2026
 rede: Instagram
 formato: Carrossel
@@ -17,7 +17,7 @@ link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw
 ## Texto publicável
 
 ### Slide 1
-**Título:** 5 perguntas que o seu cliente faz na reunião e o que seu site deveria responder antes.
+**Título:** 5 perguntas que o seu cliente faz na reunião e que o seu site deveria responder antes.
 
 ### Slide 2
 **1. "É pra uma empresa como a minha?"**

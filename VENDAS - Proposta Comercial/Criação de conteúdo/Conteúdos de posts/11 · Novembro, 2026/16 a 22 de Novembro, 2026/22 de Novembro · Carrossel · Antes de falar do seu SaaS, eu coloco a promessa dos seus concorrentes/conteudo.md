@@ -36,7 +36,7 @@ O espaço que sobra, e que pode ser seu se a sua empresa realmente entrega aquil
 ### Slide 4
 Aí eu volto pro dono com uma pergunta: daquilo que ninguém diz, o que a sua empresa realmente entrega?
 
-Diferença inventada tambén não é sustentada. Ela tem que sair do que já acontece no dia a dia do cliente.
+Diferença inventada também não é sustentada. Ela tem que sair do que já acontece no dia a dia do cliente.
 
 ### Slide 5
 **Título:** Você só descobre o que dizer depois de ver o que todo mundo já disse.
