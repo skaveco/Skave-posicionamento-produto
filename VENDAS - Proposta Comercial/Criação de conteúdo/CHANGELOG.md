@@ -4,7 +4,7 @@ Registro simples das mudanças nas regras de conteúdo. A mais recente fica em c
 
 ## 16 de Novembro, 2026 · Teste de fotos nos carrosséis
 
-- Três carrosséis da semana (18, 21 e 22 de Novembro) ganharam uma versão com foto do ensaio na capa, no template Imagem, ao lado da versão original. A primeira tentativa, com foto num slide do meio, foi descartada por Ritter. Capa com foto de fundo passa a ser permitida; foto no meio do carrossel, não. Os outros quatro ficam sem foto, para comparar no Insights: chegada ao último slide, salvamentos, compartilhamentos e alcance.
+- Três carrosséis da semana (18, 21 e 22 de Novembro) ganharam uma versão com foto do ensaio na capa, no template Imagem, ao lado da versão original. A primeira tentativa, com foto num slide do meio, foi descartada por Ritter. Capa com foto de fundo passa a ser permitida; foto no meio do carrossel, não. Os outros quatro ficam sem foto, para comparar no Insights: chegada ao último slide, salvamentos, compartilhamentos e alcance. Depois de testar duas fotos em cada um, Ritter descartou as versões com foto de 18 e 21; o teste segue só com o carrossel de 22, comparado com os outros seis.
 
 ## 16 de Novembro, 2026 · Horários e fontes
 
