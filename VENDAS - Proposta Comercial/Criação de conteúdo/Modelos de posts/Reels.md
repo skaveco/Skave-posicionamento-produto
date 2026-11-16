@@ -10,6 +10,8 @@ Novos exemplos entram aqui quando Ritter reescrever uma abertura ou apontar uma 
 
 Orientação de Ritter (16 de Novembro, 2026): os primeiros 3 a 5 segundos são os mais importantes para a performance de um reel no Instagram. Cerca de 80% do sucesso do conteúdo está no título e nas primeiras palavras que o Ritter diz. O objetivo da abertura é fazer a pessoa assistir mais tempo do vídeo.
 
+A mesma lógica vale para a capa dos carrosséis (pedido do mesmo dia): o gancho precisa causar curiosidade e fazer a pessoa puxar para as próximas telas.
+
 ## Exemplo 1 · Gancho que abre uma pergunta na cabeça de quem assiste (16 de Novembro, 2026)
 
 Exemplo dado por Ritter:
