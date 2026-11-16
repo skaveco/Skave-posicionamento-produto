@@ -12,6 +12,7 @@ Documentação da Skave (posicionamento, produto, vendas) e operação de conte�
   - `Criação de conteúdo/`: operação de conteúdo.
     - `Brand-kit-mateus-ritter.md`: brand kit em texto.
     - `Ganchos-de-conteúdos.md`: repertório de ganchos.
+    - `CHANGELOG.md`: registro simples das mudanças nas regras de conteúdo. Acrescente uma entrada a cada mudança de regra.
     - `Modelos de posts/`: exemplos de referência por formato (hoje, `Tweet.md`, `Reels.md` e `Carrossel.md`). Servem para calibrar tamanho e tom; não são textos para publicar nem copiar.
     - `Linguagem-do-Ritter.md`: jeito real de o Ritter falar, atualizado a cada correção dele. Lido antes de escrever qualquer copy; os vícios de linguagem proibidos estão na skill `skave-ideias-ritter`.
     - `Conteúdos de posts/<NN · Mês, ano>/<intervalo da semana>/<dia · Formato · título>/conteudo.md` (+ `arte/`): fonte oficial de cada post.
