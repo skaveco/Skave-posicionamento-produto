@@ -59,7 +59,7 @@ Desses quatro, o mais rápido de trocar é o botão do fim da página. Começa p
 
 ## Notas de produção
 
-**Teste de foto (16 de Novembro, 2026):** há uma segunda versão deste carrossel no canvas, nas linhas "versão com foto (teste)", com `foto ritter_estudio-escuro_polo-branca_bracos-cruzados.png` no Slide 4 (template Conteúdo com foto, texto a 35 px). A versão original continua no canvas; Ritter escolhe qual publicar. Comparar com os carrosséis sem foto da semana: chegada ao último slide, salvamentos, compartilhamentos e alcance.
+**Teste de foto (16 de Novembro, 2026):** há uma segunda versão deste carrossel no canvas, nas linhas "versão com foto (teste)", com a capa no template Imagem e `foto ritter_estudio-escuro_polo-branca_bracos-cruzados.png` de fundo. O resto dos slides é igual ao original. A versão original continua no canvas; Ritter escolhe qual publicar. Comparar com os carrosséis sem foto da semana: chegada ao último slide, salvamentos, compartilhamentos e alcance.
 
 Carrossel de lista. CTA principal: salvar.
 

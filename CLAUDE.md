@@ -38,7 +38,7 @@ Status: `rascunho` → `aprovado` → `em produção` → `arte pronta` → `pub
 - Reels têm dois tipos, mesclados na semana: `Falado` (Ritter fala para a câmera) e `Frase` (vídeo real de fundo, frase na tela e o conteúdo na legenda). O tipo fica em `tipo_reels` no `conteudo.md`.
 - Carrosséis mesclam dois tipos: texto corrido e lista (passos, dicas, quantidade), cerca de metade de cada na semana.
 - Tweet (antigo TWICH) é só texto e usa sempre o template branco (modo claro), sem perguntar o modo. É curto: de uma a três frases, sem convite para seguir na arte.
-- Capa de carrossel: no máximo um ícone; nunca ilustração, diagrama ou foto.
+- Capa de carrossel: no máximo um ícone; nunca ilustração nem diagrama. Foto na capa só como fundo inteiro, no template Imagem (decisão de 16 de Novembro, 2026); foto não entra no meio do carrossel.
 - Slides de desenvolvimento levam um elemento visual com contexto sempre que houver espaço.
 - Fotos vêm do catálogo do ensaio, sem perguntar. Nunca gerar imagem com o rosto ou o corpo do Ritter.
 

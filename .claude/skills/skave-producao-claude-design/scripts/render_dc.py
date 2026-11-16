@@ -18,6 +18,9 @@ def convert(src, blobs, mode_override=None):
     # Tweet (antigo TWICH) usa fundo primário
     if any(k in src.name.lower() for k in ("twich", "tweet")):
         vals["bg"] = "#252F25" if mode == "dark" else "#F8F8F6"
+    # Template Imagem: <sc-if value="{{showArrow}}"> mostra a seta conforme o tweak "seta".
+    mostra = bool(props.get("seta", {}).get("default", True))
+    body = re.sub(r'<sc-if value="\{\{showArrow\}\}"[^>]*>(.*?)</sc-if>', lambda m: m.group(1) if mostra else "", body, flags=re.S)
     for k, v in vals.items():
         body = re.sub(r"\{\{\s*%s\s*\}\}" % k, v, body)
     left = re.findall(r"\{\{[^}]*\}\}", body)

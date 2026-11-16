@@ -131,7 +131,7 @@ Registrados na página **Elementos visuais** do [Brand Kit no Claude Design](htt
 ### Regras de uso
 
 - **Um elemento visual por slide**: um ícone, uma ilustração ou um diagrama.
-- **Onde usar:** slides de desenvolvimento do carrossel. Capa e Fechamento priorizam gancho e CTA, com no máximo um ícone discreto.
+- **Onde usar:** slides de desenvolvimento do carrossel. Capa e Fechamento priorizam gancho e CTA, com no máximo um ícone discreto. A capa pode usar foto de fundo no template Imagem (decisão de 16 de Novembro, 2026).
 - **Tweet continua só texto, sempre no template branco (modo claro).**
 - Não reduzir a fonte do texto para caber o elemento. Se não couber, cortar texto ou dispensar o elemento.
 - Diagramas usam o texto aprovado do slide e nunca números sem fonte verificável.

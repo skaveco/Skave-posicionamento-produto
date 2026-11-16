@@ -57,7 +57,7 @@ Dá pra fazer uma versão rápida hoje: abre o site dos seus três principais co
 
 ## Notas de produção
 
-**Teste de foto (16 de Novembro, 2026):** há uma segunda versão deste carrossel no canvas, nas linhas "versão com foto (teste)", com `foto ritter_restaurante_blazer-verde-gola-alta_sorrindo-frente.png` no Slide 4 (template Conteúdo com foto, texto a 35 px). A versão original continua no canvas; Ritter escolhe qual publicar. Comparar com os carrosséis sem foto da semana: chegada ao último slide, salvamentos, compartilhamentos e alcance.
+**Teste de foto (16 de Novembro, 2026):** há uma segunda versão deste carrossel no canvas, nas linhas "versão com foto (teste)", com a capa no template Imagem e `foto ritter_estudio-escuro_jaqueta-oliva_perfil-lateral.png` de fundo. O resto dos slides é igual ao original. A versão original continua no canvas; Ritter escolhe qual publicar. Comparar com os carrosséis sem foto da semana: chegada ao último slide, salvamentos, compartilhamentos e alcance.
 
 Texto publicável atualizado em 16 de Novembro, 2026 com as edições do Ritter no canvas.
 

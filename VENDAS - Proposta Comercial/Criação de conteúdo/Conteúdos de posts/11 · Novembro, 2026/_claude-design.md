@@ -12,6 +12,7 @@
 | Foto `ritter_estudio-claro_colete-skave_sentado.png` (cópia de `claude-design/`) | — | `/_blob/fc75bbd993e697261e6824a52df388ea` |
 | Foto `ritter_estudio-escuro_polo-branca_bracos-cruzados.png` (original) | — | `/_blob/551ca91587ed44116bbff1db2f08e0d9` |
 | Foto `ritter_restaurante_blazer-verde-gola-alta_sorrindo-frente.png` (cópia de `claude-design/`) | — | `/_blob/cfaf368867c967bd9dd41d26da176368` |
+| Foto `ritter_estudio-escuro_jaqueta-oliva_perfil-lateral.png` (original) | — | `/_blob/da2df0ba7fb1f1cefdba0014dfd19509` |
 
 ## Páginas
 
