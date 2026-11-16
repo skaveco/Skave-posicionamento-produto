@@ -46,4 +46,4 @@ Fundo. CTA principal: conversa no direct com a palavra-chave ETAPAS. Quem mandar
 ## Base e dependências
 
 - Base: objeção "Preciso de tudo isso?" (documento 12, fundo), "Estratégia primeiro, design depois" (documento 06) e jornada do método (documento 07). Escopo citado sem preço, prazo ou número de canais.
-- **Dependência:** Ritter confirmar que a pergunta aparece com frequência nas conversas dele antes de gravar a abertura.
+- Ritter confirmou em 16 de Novembro, 2026, que a pergunta aparece com frequência nas conversas dele.

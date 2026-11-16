@@ -2,6 +2,11 @@
 
 Registro simples das mudanças nas regras de conteúdo. A mais recente fica em cima. As regras completas estão na skill `skave-ideias-ritter`; os exemplos, em `Modelos de posts/`.
 
+## 16 de Novembro, 2026 · Horários e fontes
+
+- **Horários:** 1º post às 8h, 2º às 12h e 3º às 18h, com a ordem dos formatos mudando a cada dia (doc 11).
+- **Análise de caso:** só vai para produção com a fonte confirmada na leitura da página original. Sem confirmação, a pauta é trocada.
+
 ## 16 de Novembro, 2026 · Status publicado automático
 
 - Post cuja data já passou conta como publicado. O script de sincronização do calendário marca sozinho e atualiza `_semana.md` e `_calendario.md`. Os posts de 13 a 15 de Novembro foram os primeiros marcados.

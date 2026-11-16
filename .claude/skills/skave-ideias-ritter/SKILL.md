@@ -111,7 +111,7 @@ Ao receber **“Planejar a semana”** ou um pedido pelos conteúdos da semana, 
 
 Ritter pediu (13 de Novembro, 2026) que a ordem dos três posts do dia mude ao longo da semana, para o feed não formar padrões repetidos. No grid do Instagram, de três colunas, publicar todo dia na mesma sequência (por exemplo Tweet, Reels, Carrossel) empilha o mesmo formato na mesma coluna, e os tweets, sempre brancos, viram uma faixa clara.
 
-- Defina a ordem de cada dia ao montar a grade e registre no `conteudo.md` (`ordem: 1`, `2` ou `3`) e no `_semana.md`.
+- Defina a ordem de cada dia ao montar a grade e registre no `conteudo.md` (`ordem: 1`, `2` ou `3`) e no `_semana.md`. O 1º post sai às 8h, o 2º às 12h e o 3º às 18h ([documento 11](../../../VENDAS%20-%20Proposta%20Comercial/Estratégia%20de%20marca%20pessoal%20e%20conteúdo%20-%20Ritter/11-distribuicao-formatos-e-rotina.md)).
 - O mesmo formato não ocupa a mesma posição em dois dias seguidos.
 - O último post de um dia e o primeiro do dia seguinte não podem ser do mesmo formato. Considere também o último dia já gravado antes do lote.
 - Ao longo da semana, cada formato passa por cada posição pelo menos duas vezes. Fora isso, a ordem é livre; varie sem repetir a mesma sequência de três em dias seguidos.
@@ -238,7 +238,7 @@ Ritter pediu (11 de Novembro, 2026) que os CTAs não sejam sempre iguais. Um lot
 
 Use a distinção de [13](../../../VENDAS%20-%20Proposta%20Comercial/Estratégia%20de%20marca%20pessoal%20e%20conteúdo%20-%20Ritter/13-provas-e-medicao.md) entre fatos, hipóteses, resultados observados e causalidade. Não invente depoimentos, métricas, clientes, eventos, autorizações ou resultados. Uma hipótese de dor não é um relato real de cliente. Dados datados de diagnóstico não descrevem automaticamente a situação atual.
 
-Ao usar notícia, caso público ou informação atual, pesquise e confira fonte e data antes de apoiar uma ideia nesse fato. Cite a página que o sustenta, preferindo a fonte original. Separe o ocorrido da interpretação de Ritter e da ação que ele sugeriria. Não atribua decisões internas ou perda de vendas a uma empresa com base apenas em seu site.
+Ao usar notícia, caso público ou informação atual, pesquise e confira fonte e data antes de apoiar uma ideia nesse fato. **Análise de caso só é desenvolvida com a fonte confirmada pela leitura da página original** (pedido de Ritter, 16 de Novembro, 2026); resultado de busca não basta. Se a página não puder ser aberta, proponha outra pauta. Cite a página que o sustenta, preferindo a fonte original. Separe o ocorrido da interpretação de Ritter e da ação que ele sugeriria. Não atribua decisões internas ou perda de vendas a uma empresa com base apenas em seu site.
 
 Sem verificação disponível, transforme o assunto em uma pauta geral ou indique claramente o fato que precisa ser confirmado. Para resultados e materiais de clientes, registre a fonte e a necessidade de autorização quando ela ainda não estiver comprovada. A ausência de case numérico não impede ideias de fundo sobre objeções, método e entregas verificadas.
 

@@ -30,4 +30,4 @@ Convite para seguir na legenda. CTA principal: compartilhar com o time.
 ## Base e dependências
 
 - Base biográfica: sete anos no Exército (documento 08).
-- **Dependência:** Ritter confirmar que a frase sobre a ordem repetida corresponde ao que ele viveu e ajustar a formulação.
+- Ritter confirmou a frase em 16 de Novembro, 2026.

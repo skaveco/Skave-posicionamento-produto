@@ -29,7 +29,7 @@ Análises de caso seguem a estrutura do formato escolhido. Legendas, quando prod
 
 O PDF estabelece como meta **três publicações por dia** — texto curto, reels e carrossel —, com análise de caso duas vezes por semana, além dos stories. Isso é um salto grande sobre a frequência registrada no diagnóstico. Tratar como **meta experimental**, com produção em bloco e revisão semanal da qualidade, da aderência do público e da capacidade real de execução. O bloco sugerido para gravar reels é de uma a duas horas por semana.
 
-**Horários do feed (decisão de Ritter em 12 de novembro de 2026):** Tweet às 8h, reels às 12h e carrossel às 18h, todos os dias. Recomendação de pautas de stories está suspensa por decisão de Ritter (12 de novembro de 2026); só retomar quando ele pedir.
+**Horários do feed:** o 1º post do dia sai às 8h, o 2º às 12h e o 3º às 18h. A ordem dos formatos muda de um dia para o outro, para o feed não formar padrões repetidos (decisão de Ritter em 13 de novembro de 2026, confirmada em 16 de novembro; substitui a regra de 12 de novembro, que fixava Tweet às 8h, reels às 12h e carrossel às 18h). Recomendação de pautas de stories está suspensa por decisão de Ritter (12 de novembro de 2026); só retomar quando ele pedir.
 
 ## Canais e reaproveitamento
 
