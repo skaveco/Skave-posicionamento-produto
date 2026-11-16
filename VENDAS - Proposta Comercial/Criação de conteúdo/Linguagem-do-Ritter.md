@@ -2,7 +2,7 @@
 
 Registro vivo do jeito de Mateus Ritter falar e escrever. A skill [skave-ideias-ritter](../../.claude/skills/skave-ideias-ritter/SKILL.md) lê este arquivo antes de cada geração ou revisão e o atualiza sempre que Ritter corrige uma frase no chat ou edita um `conteudo.md` diretamente.
 
-**Último registro:** 11 de Novembro, 2026
+**Último registro:** 16 de Novembro, 2026
 
 Registre padrões, não só frases soltas. O objetivo é que o texto soe como o Ritter, e não como uma copy genérica com expressões dele espalhadas.
 
@@ -25,7 +25,8 @@ Registre padrões, não só frases soltas. O objetivo é que o texto soe como o 
 | 11 de Novembro, 2026 | Edição no canvas, Tweet de 14 de Novembro | “…conhecer a sua empresa de novo.” | “…conhecer a sua empresa do zero.” | Escolhe a expressão que pesa mais na consequência. |
 | 11 de Novembro, 2026 | Edição no canvas, Tweet de 14 de Novembro | “Dá vontade de mudar, eu sei.” | “Dá vontade de mudar sim, eu sei.” | Concorda com o leitor do jeito falado, com o “sim” de reforço. |
 | 11 de Novembro, 2026 | Edição no canvas, Tweet de 14 de Novembro | “…todo dia e o cliente vê de vez em quando.” | “…todo dia, mas o seu cliente vê de vez em quando.” | Marca o contraste com “mas” e fala direto com o leitor (“o seu cliente”). |
-| 11 de Novembro, 2026 | Edição no canvas, Tweet de 14 de Novembro | Tweet terminando com o convite para seguir | Convite retirado da arte | A observar: pode preferir Tweet fechando no argumento, com o convite na legenda. Uma ocorrência só, ainda não é regra. |
+| 11 de Novembro, 2026 | Edição no canvas, Tweet de 14 de Novembro | Tweet terminando com o convite para seguir | Convite retirado da arte | Virou regra em 16 de Novembro, 2026: Tweet fecha no argumento e o convite vai sempre na legenda. |
+| 16 de Novembro, 2026 | Revisão do formato Tweet no chat, Tweet de 16 de Novembro (chatbot) | Tweet de quatro parágrafos e cerca de 90 palavras, explicando causa, cena e solução. | “Do que adianta você apresentar a sua empresa de um jeito e o seu chatbot de outro? Posicionamento e comunicação é base, se não tem, não vai evoluir.” | Tweet é curto e forte, “como se fosse um tapa na cara”: confronta o leitor e dá o veredito, sem explicar. A frase é exemplo de calibragem, guardada em [Modelos de posts](Modelos%20de%20posts/Tweet.md), e não deve ser publicada nem copiada. |
 
 ## O que ele não fala
 
