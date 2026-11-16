@@ -6,7 +6,7 @@ formato: Carrossel
 funil: Fundo
 pilar: Marca que vende
 dor: É difícil explicar o valor do software em poucas palavras (documento 04, dores práticas)
-status: arte pronta
+status: publicado
 producao: Claude Design
 template: Capa + Conteúdo com ilustração + Conteúdo com diagrama (D) + Conteúdo com ícone + Fechamento
 modo_cor: Claro (Fechamento escuro, padrão do template)

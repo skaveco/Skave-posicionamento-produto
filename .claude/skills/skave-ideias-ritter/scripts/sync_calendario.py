@@ -3,7 +3,9 @@
 Uso:
     python3 -I sync_calendario.py "<pasta Conteúdos de posts>" "<pasta de saída>"
 
-Lê todos os conteudo.md abaixo da pasta de posts e grava, na pasta de saída,
+Antes, marca como publicado todo post cuja data já passou (no fuso de São Paulo),
+atualizando o conteudo.md, o _semana.md e o _calendario.md. Depois lê todos os
+conteudo.md abaixo da pasta de posts e grava, na pasta de saída,
 um JSON por publicação (<doc_id>.json) e um manifest.json com a lista de
 doc_ids e caminhos. Os JSONs são enviados ao banco do calendário com a ação
 "batch" do ArtifactData (coleção "posts"), um "set" por arquivo.
@@ -72,11 +74,72 @@ def ler(md, raiz):
     return doc_id, doc
 
 
+STATUS = ["rascunho", "aprovado", "em produção", "arte pronta", "publicado"]
+
+
+def hoje_brasil():
+    try:
+        from zoneinfo import ZoneInfo
+        return dt.datetime.now(ZoneInfo("America/Sao_Paulo")).date()
+    except Exception:
+        return (dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=3)).date()
+
+
+def marcar_publicados(raiz, hoje):
+    """Regra de Ritter (16 de Novembro, 2026): post cuja data já passou conta como publicado.
+
+    Atualiza o status no conteudo.md, a linha correspondente no _semana.md e os totais do
+    _calendario.md do mês. Devolve a lista de pastas alteradas."""
+    alterados = []
+    for md in sorted(raiz.rglob("conteudo.md")):
+        s = md.read_text(encoding="utf-8")
+        m_data = re.search(r"^data:\s*(.*)$", s, re.M)
+        m_st = re.search(r"^status:\s*(.*)$", s, re.M)
+        if not m_data or not m_st or m_st.group(1).strip() == "publicado":
+            continue
+        try:
+            d = dt.date.fromisoformat(data_iso(m_data.group(1)))
+        except ValueError:
+            continue
+        if d >= hoje:
+            continue
+        md.write_text(s[:m_st.start()] + "status: publicado" + s[m_st.end():], encoding="utf-8")
+        pasta = md.parent
+        sem = pasta.parent / "_semana.md"
+        if sem.exists():
+            linhas = sem.read_text(encoding="utf-8").split("\n")
+            for i, l in enumerate(linhas):
+                if nfc(pasta.name) in nfc(l) and l.rstrip().endswith("|"):
+                    celulas = l.rstrip().rstrip("|").split("|")
+                    celulas[-1] = " publicado "
+                    linhas[i] = "|".join(celulas) + "|"
+            sem.write_text("\n".join(linhas), encoding="utf-8")
+        alterados.append(pasta)
+    for mes in sorted({p.parent.parent for p in alterados}):
+        cal = mes / "_calendario.md"
+        if not cal.exists():
+            continue
+        linhas = cal.read_text(encoding="utf-8").split("\n")
+        for i, l in enumerate(linhas):
+            m = re.match(r"^\| \[(.+?)\]\(<(.+?)/_semana\.md>\) \|", l)
+            if not m:
+                continue
+            c = {k: 0 for k in STATUS}
+            for md in (mes / m.group(2)).glob("*/conteudo.md"):
+                st = re.search(r"^status:\s*(.*)$", md.read_text(encoding="utf-8"), re.M)
+                if st and st.group(1).strip() in c:
+                    c[st.group(1).strip()] += 1
+            linhas[i] = f"| [{m.group(1)}](<{m.group(2)}/_semana.md>) | {sum(c.values())} | " + " | ".join(str(c[k]) for k in STATUS) + " |"
+        cal.write_text("\n".join(linhas), encoding="utf-8")
+    return alterados
+
+
 def main():
     raiz = pathlib.Path(sys.argv[1]).resolve()
     out = pathlib.Path(sys.argv[2]).resolve()
     out.mkdir(parents=True, exist_ok=True)
     manifest, erros = [], []
+    publicados = marcar_publicados(raiz, hoje_brasil())
     for md in sorted(raiz.rglob("conteudo.md")):
         try:
             doc_id, doc = ler(md, raiz)
@@ -90,7 +153,8 @@ def main():
         f.write_text(json.dumps(doc, ensure_ascii=False, indent=2), encoding="utf-8")
         manifest.append({"doc_id": doc_id, "file_path": str(f), "status": doc["status"], "data": doc["data"]})
     (out / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(json.dumps({"posts": len(manifest), "erros": erros, "manifest": str(out / "manifest.json")}, ensure_ascii=False, indent=2))
+    print(json.dumps({"posts": len(manifest), "erros": erros, "marcados_publicados": [p.name for p in publicados],
+                      "manifest": str(out / "manifest.json")}, ensure_ascii=False, indent=2))
     for m in manifest:
         print(m["doc_id"], m["status"], sep="\t")
 

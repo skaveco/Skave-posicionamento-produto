@@ -25,7 +25,7 @@ Documentação da Skave (posicionamento, produto, vendas) e operação de conte�
 2. **Arte:** `skave-producao-claude-design` (principal) ou `skave-producao-figma` (alternativa). O template é escolhido pela skill; só o modo de cor (claro ou escuro) é perguntado.
 3. **Calendário:** cada mudança de status é sincronizada no banco `posts` do calendário.
 
-Status: `rascunho` → `aprovado` → `em produção` → `arte pronta` → `publicado` (este só quando o usuário informar).
+Status: `rascunho` → `aprovado` → `em produção` → `arte pronta` → `publicado`. Post cuja data já passou conta como publicado (decisão de 16 de Novembro, 2026): o script de sincronização do calendário marca sozinho, no `conteudo.md`, no `_semana.md` e no `_calendario.md`.
 
 ## Links fixos (artifacts da conta)
 

@@ -6,7 +6,7 @@ formato: Tweet
 funil: Topo
 pilar: Marca que vende
 dor: Publicações saem isoladamente, sem critérios de tema, linguagem ou direção visual (documento 04, dores práticas)
-status: arte pronta
+status: publicado
 producao: Claude Design
 template: Estático · Tweet (template branco)
 modo_cor: Claro

@@ -79,7 +79,7 @@ link_arte:
 ## Base e dependências
 ```
 
-- **`status`:** `rascunho` → `aprovado` → `em produção` → `arte pronta` → `publicado`. Esta skill grava `rascunho` e muda para `aprovado` quando o usuário aprovar o texto. As skills de produção mudam para `em produção` e `arte pronta`. Marque `publicado` somente quando o usuário informar.
+- **`status`:** `rascunho` → `aprovado` → `em produção` → `arte pronta` → `publicado`. Esta skill grava `rascunho` e muda para `aprovado` quando o usuário aprovar o texto. As skills de produção mudam para `em produção` e `arte pronta`. Todo post cuja data já passou conta como `publicado` (decisão de Ritter em 16 de Novembro, 2026), mesmo que não tenha passado pelas outras etapas. O `sync_calendario.py` faz essa marcação sozinho a cada sincronização, no fuso de São Paulo, e atualiza o `_semana.md` e o `_calendario.md`. Um post do dia ainda não conta como publicado.
 - **`producao`, `template`, `modo_cor` e `link_arte`:** ficam vazios até a produção; a skill de produção os preenche.
 - **`tipo_reels`:** só existe em reels e vale `Falado` ou `Frase`, conforme a seção [Reels](#reels). Nos outros formatos, omita a linha.
 - **Texto publicável:** reels falados em `### Take 1`, `### Take 2`...; reels de frase em `### Frase`; carrosséis em `### Slide 1`, `### Slide 2`...; estáticos e Tweet em `### Arte`; stories em `### Quadro 1`... Notas de produção, imagem sugerida e classificações ficam fora do texto publicável.

@@ -6,7 +6,7 @@ formato: Carrossel
 funil: Topo
 pilar: Vida de fundador de SaaS
 dor: O comprador compara preço ou lista de funcionalidades porque não percebe a diferença relevante (documento 04, dores práticas)
-status: arte pronta
+status: publicado
 producao: Claude Design
 template: Capa + Conteúdo com ilustração + Conteúdo com diagrama (A) + Conteúdo com ícone + Fechamento
 modo_cor: Escuro

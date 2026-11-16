@@ -6,7 +6,7 @@ formato: Tweet
 funil: Topo
 pilar: Anti-manada e disciplina
 dor: Site, proposta, redes e apresentação comercial descrevem o produto de maneiras diferentes (documento 04, dores práticas)
-status: arte pronta
+status: publicado
 producao: Claude Design
 template: Estático · Tweet (template branco)
 modo_cor: Claro

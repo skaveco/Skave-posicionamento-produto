@@ -6,7 +6,7 @@ formato: Tweet
 funil: Topo
 pilar: Vida de fundador de SaaS
 dor: Investimento em tráfego pode ser prejudicado por uma mensagem pouco clara (documento 04, dores na operação)
-status: arte pronta
+status: publicado
 producao: Claude Design
 template: Estático · Tweet (template branco)
 modo_cor: Claro

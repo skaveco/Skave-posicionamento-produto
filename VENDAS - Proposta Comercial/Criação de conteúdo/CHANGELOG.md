@@ -2,6 +2,10 @@
 
 Registro simples das mudanças nas regras de conteúdo. A mais recente fica em cima. As regras completas estão na skill `skave-ideias-ritter`; os exemplos, em `Modelos de posts/`.
 
+## 16 de Novembro, 2026 · Status publicado automático
+
+- Post cuja data já passou conta como publicado. O script de sincronização do calendário marca sozinho e atualiza `_semana.md` e `_calendario.md`. Os posts de 13 a 15 de Novembro foram os primeiros marcados.
+
 ## 16 de Novembro, 2026 · Formatos dos conteúdos
 
 - **Tweet:** curto e forte, "como um tapa na cara". De uma a três frases, uma ideia só, sem explicação. O convite para seguir vai sempre na legenda.

@@ -6,7 +6,7 @@ formato: Reels
 funil: Topo
 pilar: Da farda à Skave
 dor: É difícil explicar o valor do software em poucas palavras (documento 04, dores práticas)
-status: aprovado
+status: publicado
 producao:
 template:
 modo_cor:

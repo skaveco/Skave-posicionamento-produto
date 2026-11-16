@@ -6,7 +6,7 @@ formato: Carrossel
 funil: Topo
 pilar: Marca que vende
 dor: Receio de investir em marca e receber apenas uma mudança estética (documento 04, dores emocionais)
-status: arte pronta
+status: publicado
 producao: Claude Design
 template: Capa + Conteúdo com ilustração + Conteúdo com diagrama (B) + Conteúdo com ícone + Fechamento
 modo_cor: Escuro
