@@ -48,6 +48,7 @@ titulo: Se o cliente só entende seu SaaS na demo, a explicação chegou tarde
 data: 17 de Novembro, 2026
 rede: Instagram
 formato: Carrossel
+tipo_reels: <somente em reels: Falado ou Frase>
 funil: Topo
 pilar: <pilar do documento 09>
 dor: <dor principal> (documento 04)
@@ -80,9 +81,10 @@ link_arte:
 
 - **`status`:** `rascunho` → `aprovado` → `em produção` → `arte pronta` → `publicado`. Esta skill grava `rascunho` e muda para `aprovado` quando o usuário aprovar o texto. As skills de produção mudam para `em produção` e `arte pronta`. Marque `publicado` somente quando o usuário informar.
 - **`producao`, `template`, `modo_cor` e `link_arte`:** ficam vazios até a produção; a skill de produção os preenche.
-- **Texto publicável:** reels em `### Take 1`, `### Take 2`...; carrosséis em `### Slide 1`, `### Slide 2`...; estáticos e Tweet em `### Arte`; stories em `### Quadro 1`... Notas de produção, imagem sugerida e classificações ficam fora do texto publicável.
+- **`tipo_reels`:** só existe em reels e vale `Falado` ou `Frase`, conforme a seção [Reels](#reels). Nos outros formatos, omita a linha.
+- **Texto publicável:** reels falados em `### Take 1`, `### Take 2`...; reels de frase em `### Frase`; carrosséis em `### Slide 1`, `### Slide 2`...; estáticos e Tweet em `### Arte`; stories em `### Quadro 1`... Notas de produção, imagem sugerida e classificações ficam fora do texto publicável.
 - **`## Visual`** (somente carrosséis): uma linha por slide indicando o elemento visual, conforme a seção [Elementos visuais nos carrosséis](#elementos-visuais-nos-carrosséis). Fica fora do texto publicável.
-- **Todo post tem `## Legenda`** (decisão de Ritter em 11 de Novembro, 2026), em todos os formatos: de duas a quatro frases que acrescentam algo à peça (um teste, um contexto, um bastidor), sem repetir o texto da arte, seguindo os vícios proibidos e a variedade de CTA. Quando o convite para seguir estiver na legenda, ela termina com ele. A legenda aparece no calendário, com botão de copiar.
+- **Todo post tem `## Legenda`** (decisão de Ritter em 11 de Novembro, 2026), em todos os formatos: de duas a quatro frases que acrescentam algo à peça (um teste, um contexto, um bastidor), sem repetir o texto da arte (no reel de frase a legenda é mais longa e carrega o conteúdo, ver [Reels de frase](#reels-de-frase)), seguindo os vícios proibidos e a variedade de CTA. Quando o convite para seguir estiver na legenda, ela termina com ele. A legenda aparece no calendário, com botão de copiar.
 
 ### Sincronize o calendário
 
@@ -103,7 +105,7 @@ O banco só aceita escrita do dono do artifact; quem recebe o link compartilhado
 
 ## Planejar a semana
 
-Ao receber **“Planejar a semana”** ou um pedido pelos conteúdos da semana, trabalhe no período indicado pelo usuário. Sem período explícito, planeje **os próximos sete dias consecutivos, começando na data da chamada e terminando seis dias depois**, no fuso do usuário. Identifique as sete datas no chat para que o usuário selecione as pautas e ajuste o intervalo antes da criação dos arquivos. A skill só é acionada quando o usuário chamar, sem dia fixo. A grade semanal completa tem **21 conteúdos para Instagram: três por dia, sendo um Tweet textual, um reel e um carrossel em cada uma das sete datas**. Use o [documento 11](../../../VENDAS%20-%20Proposta%20Comercial/Estratégia%20de%20marca%20pessoal%20e%20conteúdo%20-%20Ritter/11-distribuicao-formatos-e-rotina.md) e o [documento 09](../../../VENDAS%20-%20Proposta%20Comercial/Estratégia%20de%20marca%20pessoal%20e%20conteúdo%20-%20Ritter/09-pilares-de-comunicacao.md) como fontes das proporções. Calcule as quantidades inteiras de cada eixo para o lote e distribua as etapas ao longo dos dias. As duas análises de caso previstas na estratégia ocupam vagas de reel ou carrossel, com fonte verificável. Stories ficam fora dos três posts diários.
+Ao receber **“Planejar a semana”** ou um pedido pelos conteúdos da semana, trabalhe no período indicado pelo usuário. Sem período explícito, planeje **os próximos sete dias consecutivos, começando na data da chamada e terminando seis dias depois**, no fuso do usuário. Identifique as sete datas no chat para que o usuário selecione as pautas e ajuste o intervalo antes da criação dos arquivos. A skill só é acionada quando o usuário chamar, sem dia fixo. A grade semanal completa tem **21 conteúdos para Instagram: três por dia, sendo um Tweet textual, um reel e um carrossel em cada uma das sete datas**. Os sete reels se dividem entre os dois tipos, falado e de frase, conforme a seção [Reels](#reels). Use o [documento 11](../../../VENDAS%20-%20Proposta%20Comercial/Estratégia%20de%20marca%20pessoal%20e%20conteúdo%20-%20Ritter/11-distribuicao-formatos-e-rotina.md) e o [documento 09](../../../VENDAS%20-%20Proposta%20Comercial/Estratégia%20de%20marca%20pessoal%20e%20conteúdo%20-%20Ritter/09-pilares-de-comunicacao.md) como fontes das proporções. Calcule as quantidades inteiras de cada eixo para o lote e distribua as etapas ao longo dos dias. As duas análises de caso previstas na estratégia ocupam vagas de reel ou carrossel, com fonte verificável. Stories ficam fora dos três posts diários.
 
 ### Ordem das publicações no dia
 
@@ -133,7 +135,7 @@ Se houver conflito não resolvido pela precedência documentada, explicite o pon
 
 Use quantidade, formatos, canal, etapa do funil e restrições informadas. Não pergunte de novo por dados que já estão nos documentos ou na conversa.
 
-Em pedidos avulsos de ideias sem quantidade especificada, gere **12 ideias para Instagram**, distribuídas entre reels com Ritter falando, carrosséis pessoais e textos curtos em arte estática. Essa regra não se aplica ao pedido de conteúdos da semana, cuja grade padrão tem 21 publicações. Stories, análises de caso e outros canais entram conforme o pedido ou a adequação do assunto; análise de caso é uma abordagem que pode usar reels ou carrossel, não um formato que duplique a contagem.
+Em pedidos avulsos de ideias sem quantidade especificada, gere **12 ideias para Instagram**, distribuídas entre reels (falados e de frase), carrosséis pessoais e textos curtos em arte estática. Essa regra não se aplica ao pedido de conteúdos da semana, cuja grade padrão tem 21 publicações. Stories, análises de caso e outros canais entram conforme o pedido ou a adequação do assunto; análise de caso é uma abordagem que pode usar reels ou carrossel, não um formato que duplique a contagem.
 
 Considere os materiais realmente disponíveis. As fotos reais de Ritter estão no [catálogo do ensaio](../../../VENDAS%20-%20Proposta%20Comercial/Criação%20de%20conteúdo/Ensaio%20Fotogáfico%20Ritter/_catalogo.md): quando uma peça pedir foto, escolha ali o arquivo cujo tom e uso combinam com a pauta. Só indique uma foto nova como dependência quando a pauta exigir uma cena que o catálogo não tem (um cliente, um evento específico, um bastidor datado); não presuma que ela existe. Para bastidores, fatos pessoais ou provas de cliente, indique a dependência específica sem inventar uma cena ou um relato.
 
@@ -246,6 +248,15 @@ Abra a seleção no chat com uma frase sobre quantidade e composição. Apresent
 
 ### Reels
 
+Ritter definiu (16 de Novembro, 2026) que os reels passam a ter **dois tipos**, mesclados no lote:
+
+- **Falado:** Ritter fala para a câmera, com roteiro em takes.
+- **Frase:** vídeo de fundo com o Ritter em uma cena real (tomando café, dirigindo, palestrando), uma frase na tela e o conteúdo na legenda.
+
+Registre o tipo em `tipo_reels` no frontmatter e mostre-o na grade apresentada no chat (“Reels · Falado”, “Reels · Frase”). O nome da pasta continua `Reels`. **Divida os reels do lote mais ou menos pela metade entre os dois tipos e alterne ao longo dos dias**, sem dois dias seguidos do mesmo tipo quando der. Escolha o tipo pela pauta: história pessoal, opinião e raciocínio que dependem da voz dele vão para o falado; teste, checklist, passo a passo e constatação forte que cabe em uma frase vão para o de frase. Reels sem `tipo_reels`, gravados antes desta regra, são falados.
+
+#### Reels falados
+
 No `conteudo.md`, escreva o roteiro completo em takes numerados (`### Take 1`, `### Take 2`...), com uma fala curta e exata em cada take. A abertura segue [O gancho do reel](#o-gancho-do-reel). Os takes seguintes desenvolvem a dor, o raciocínio e uma orientação concreta; a última fala convida a seguir o perfil. Inclua texto de tela e indicação visual apenas quando ajudarem a execução. Não substitua as falas por instruções vagas como “explique a dor” ou “fale sobre o método”. Mantenha transições claras para que Ritter consiga gravar sem completar o argumento por conta própria.
 
 #### O gancho do reel
@@ -266,6 +277,16 @@ Organize os takes em unidades naturais de fala. A divisão ajuda a gravar, mas a
 ### Carrosséis
 
 No `conteudo.md`, organize os textos finais em **Slide 1, Slide 2...** (`### Slide 1`...), incluindo títulos e corpo quando necessários. **Limite cada carrossel a cinco slides no total, incluindo capa e fechamento.** Use menos slides quando o raciocínio couber. **O Slide 1 precisa dar um motivo concreto para passar para o lado:** o título traz a tensão, consequência ou descoberta, e um subtítulo curto pode convidar à explicação. Não use como gancho apenas uma pergunta diagnóstica que o leitor possa responder mentalmente e encerrar ali. A capa segue [O gancho do carrossel](#o-gancho-do-carrossel). Os slides seguintes cumprem a curiosidade aberta, desenvolvem a dor e o raciocínio, e o último encerra com a chamada para seguir o perfil. Use uma ideia principal por slide e texto que caiba em leitura rápida. Indique o elemento visual de cada slide na seção `## Visual`, conforme a subseção abaixo; uma foto sugerida também entra ali. Para caber no limite, recorte o argumento e elimine repetições; não comprima vários assuntos nem reduza a legibilidade. Se a pauta exigir mais espaço, proponha outro recorte ou outra peça em vez de acrescentar slides.
+
+#### Reels de frase
+
+O vídeo prende, a frase fisga e manda a pessoa para a legenda, onde ela passa mais tempo no post. A [fórmula da abertura](#crie-o-gancho-de-abertura) vale aqui assim: **a frase é o gancho, e o motivo para continuar é o que está na legenda**.
+
+- **`### Frase`:** o texto que aparece na tela, em uma a três linhas. Pode ser uma frase impactante, no tom da seção [Tweet](#tweet), ou um conteúdo curto que abre uma curiosidade (“3 sinais de que o seu site vende outra coisa”). Não entrega a explicação.
+- **Chamada para a legenda:** a última linha da tela manda ler a legenda dizendo o que há lá, como “te explico na legenda” ou “passo a passo na legenda”. Varie a redação no lote.
+- **`## Legenda`:** aqui ela é o conteúdo, e não segue o limite de duas a quatro frases. Abra retomando a frase, entregue a explicação ou o passo a passo completo e termine com o convite para seguir. Passo a passo numerado é permitido nessa legenda quando o conteúdo for de fato uma sequência; o resto continua em frases corridas, sem os [vícios proibidos](#vícios-de-linguagem-proibidos). A primeira linha da legenda precisa segurar quem acabou de chegar do vídeo, porque o Instagram corta o texto depois dela.
+- **`## Vídeo de fundo`:** uma linha com a cena sugerida, escolhida pelo tom da frase (por exemplo `café`, `dirigindo`, `palestra`, `escritório`). O vídeo é sempre gravação real do Ritter; **nunca gere vídeo ou imagem com o rosto ou o corpo dele**. Se a cena depender de material que ainda não existe, registre em `## Base e dependências`. Varie as cenas no lote.
+- Não há takes nem fala. Não use `## Visual`.
 
 #### O gancho do carrossel
 
@@ -319,7 +340,7 @@ Ao fim do lote, compartilhe links para a pasta da semana e para cada `conteudo.m
 
 Faça esta revisão antes de gravar cada `conteudo.md`. A conferência posterior do usuário pode gerar ajustes, mas a primeira versão do arquivo já deve estar completa e coerente.
 
-Confira o lote inteiro e corrija conteúdos que falhem em aderência ao ICP, voz, etapa, variedade, factualidade ou condição comercial. Verifique a quantidade pedida e a adequação real dos formatos. Em cada peça, confirme que a dor documentada orienta todo o desenvolvimento e que a última fala ou texto chama explicitamente para seguir o perfil. No Tweet, o convite está na legenda e a arte tem **no máximo três frases e cerca de 40 palavras**; se passou disso ou se ficou explicativo, corte até sobrar a contradição e o veredito. Reels precisam de falas completas por take; carrosséis, de textos completos por slide e **no máximo cinco slides, contando capa e fechamento**. Confirme a consulta ao arquivo de ganchos e teste a abertura isoladamente, conferindo os dois passos da fórmula em reels e carrosséis (gancho forte e motivo para continuar): **o Slide 1 faz querer passar para o lado sem entregar a resposta, e cada slide do meio dá motivo para ver o seguinte? A primeira fala do reels deixa a pessoa querendo saber o que vem depois, sem entregar a conclusão, e o título é diferente dela?** Se a resposta depender do conteúdo que vem depois para surgir interesse, reescreva o gancho. Confira também se o desenvolvimento cumpre a expectativa criada. Remova ganchos repetidos e variações que só troquem palavras. Se faltar evidência para uma premissa essencial, substitua o conteúdo por outro verificável ou exponha a dependência concreta.
+Confira o lote inteiro e corrija conteúdos que falhem em aderência ao ICP, voz, etapa, variedade, factualidade ou condição comercial. Verifique a quantidade pedida e a adequação real dos formatos. Em cada peça, confirme que a dor documentada orienta todo o desenvolvimento e que a última fala ou texto chama explicitamente para seguir o perfil. No Tweet, o convite está na legenda e a arte tem **no máximo três frases e cerca de 40 palavras**; se passou disso ou se ficou explicativo, corte até sobrar a contradição e o veredito. Reels falados precisam de falas completas por take; reels de frase, de `tipo_reels: Frase`, frase na tela com chamada para a legenda, cena de vídeo indicada e legenda que entrega o que a frase prometeu; confira também se o lote mescla os dois tipos; carrosséis, de textos completos por slide e **no máximo cinco slides, contando capa e fechamento**. Confirme a consulta ao arquivo de ganchos e teste a abertura isoladamente, conferindo os dois passos da fórmula em reels e carrosséis (gancho forte e motivo para continuar): **o Slide 1 faz querer passar para o lado sem entregar a resposta, e cada slide do meio dá motivo para ver o seguinte? A primeira fala do reels deixa a pessoa querendo saber o que vem depois, sem entregar a conclusão, e o título é diferente dela?** Se a resposta depender do conteúdo que vem depois para surgir interesse, reescreva o gancho. Confira também se o desenvolvimento cumpre a expectativa criada. Remova ganchos repetidos e variações que só troquem palavras. Se faltar evidência para uma premissa essencial, substitua o conteúdo por outro verificável ou exponha a dependência concreta.
 
 Revise também a especificidade e a voz do CTA: **ele poderia ser usado sem alteração em posts sobre dores diferentes? Soa como Ritter convidando a pessoa a acompanhá-lo, em primeira pessoa?** Se o convite for genérico ou soar como recomendação de terceiros, reescreva para retomar a situação ou o aprendizado daquela peça e dar um motivo concreto para acompanhá-lo. A conexão deve estar no próprio convite, inclusive quando houver legenda. Leia em sequência todos os fechamentos do lote: se dois seguidos tiverem a mesma estrutura ou se “me acompanha por aqui” se repetir além do limite, reescreva.
 

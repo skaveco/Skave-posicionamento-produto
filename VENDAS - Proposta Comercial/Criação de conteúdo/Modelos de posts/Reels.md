@@ -6,6 +6,15 @@ Exemplos de referência para calibrar a abertura dos reels. A skill [skave-ideia
 
 Novos exemplos entram aqui quando Ritter reescrever uma abertura ou apontar uma que ficou no ponto, sempre com data e com o que o exemplo ensina.
 
+## Os dois tipos de reels
+
+Definidos por Ritter em 16 de Novembro, 2026, e mesclados na semana:
+
+- **Falado:** Ritter fala para a câmera.
+- **Frase:** vídeo de fundo (Ritter tomando café, dirigindo, palestrando) + frase impactante ou conteúdo curto na tela + "te explico na legenda" ou "passo a passo na legenda". A pessoa vê o reel e ainda vai para a legenda, o que garante a atenção dela.
+
+Ainda não há exemplo aprovado de reel de frase. O primeiro que Ritter aprovar ou reescrever entra aqui.
+
 ## Por que a abertura pesa tanto
 
 Orientação de Ritter (16 de Novembro, 2026): os primeiros 3 a 5 segundos são os mais importantes para a performance de um reel no Instagram. Cerca de 80% do sucesso do conteúdo está no título e nas primeiras palavras que o Ritter diz. O objetivo da abertura é fazer a pessoa assistir mais tempo do vídeo.

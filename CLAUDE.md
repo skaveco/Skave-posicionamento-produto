@@ -34,6 +34,8 @@ Status: `rascunho` → `aprovado` → `em produção` → `arte pronta` → `pub
 
 ## Regras visuais que valem sempre
 
+- Reels têm dois tipos, mesclados na semana: `Falado` (Ritter fala para a câmera) e `Frase` (vídeo real de fundo, frase na tela e o conteúdo na legenda). O tipo fica em `tipo_reels` no `conteudo.md`.
+
 - Tweet (antigo TWICH) é só texto e usa sempre o template branco (modo claro), sem perguntar o modo. É curto: de uma a três frases, sem convite para seguir na arte.
 - Capa de carrossel: no máximo um ícone; nunca ilustração, diagrama ou foto.
 - Slides de desenvolvimento levam um elemento visual com contexto sempre que houver espaço.
