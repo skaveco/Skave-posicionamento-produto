@@ -36,7 +36,7 @@ O espaço que sobra, e que pode ser seu se a sua empresa realmente entrega aquil
 ### Slide 4
 Aí eu volto pro dono com uma pergunta: daquilo que ninguém diz, o que a sua empresa realmente entrega?
 
-Diferença inventada não aguenta a primeira demo. Ela tem que sair do que já acontece no dia a dia do cliente.
+Diferença inventada tambén não é sustentada. Ela tem que sair do que já acontece no dia a dia do cliente.
 
 ### Slide 5
 **Título:** Você só descobre o que dizer depois de ver o que todo mundo já disse.
@@ -56,6 +56,8 @@ Diferença inventada não aguenta a primeira demo. Ela tem que sair do que já a
 Dá pra fazer uma versão rápida hoje: abre o site dos seus três principais concorrentes e anota a primeira frase de cada um. Depois coloca a sua do lado. Se ela parece a quarta versão das outras, já sabe por onde começar. Fica por perto que tem mais desse processo.
 
 ## Notas de produção
+
+Texto publicável atualizado em 16 de Novembro, 2026 com as edições do Ritter no canvas.
 
 Bastidor do processo, sem cliente (estratégia de validação, seção 5.2). CTA principal: convite para seguir ligado à série de bastidores.
 

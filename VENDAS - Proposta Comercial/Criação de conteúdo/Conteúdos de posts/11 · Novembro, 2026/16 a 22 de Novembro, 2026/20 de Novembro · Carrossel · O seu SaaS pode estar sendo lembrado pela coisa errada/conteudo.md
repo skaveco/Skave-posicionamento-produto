@@ -24,7 +24,7 @@ link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw
 ### Slide 2
 Toda empresa fica conhecida por alguma coisa. Se você não escolhe qual, o cliente escolhe por você.
 
-E ele escolhe pelo que ficou mais fácil de lembrar: o preço, o bug do ano passado, o atendente que demorou.
+E ele escolhe pelo que ficou mais fácil de lembrar: o preço, o bug do ano passado ou o atendente que demorou.
 
 ### Slide 3
 Essa vira a frase que ele repete quando alguém pergunta de você.
@@ -54,6 +54,8 @@ Uma frase, dita muitas vezes, vira a lembrança do cliente.
 Pergunta pra três clientes como eles te descreveriam pra um amigo. A resposta mostra pelo que você é lembrado hoje. Se ela não for a que você queria, me segue que eu mostro como mudar isso.
 
 ## Notas de produção
+
+Texto publicável atualizado em 16 de Novembro, 2026 com as edições do Ritter no canvas.
 
 Convite para seguir na legenda. CTA principal: comentário.
 

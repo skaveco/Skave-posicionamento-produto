@@ -1,5 +1,5 @@
 ---
-titulo: 4 sinais de que o seu SaaS tá sendo comparado só por preço
+titulo: Sinais de que o seu SaaS tá sendo comparado só por preço
 data: 17 de Novembro, 2026
 rede: Instagram
 formato: Carrossel
@@ -17,12 +17,10 @@ link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw
 ## Texto publicável
 
 ### Slide 1
-**Título:** 4 sinais de que o seu SaaS tá sendo comparado só por preço.
-
-**Subtítulo:** Se você reconheceu dois, o cliente ainda não entendeu a sua diferença.
+**Título:** Sinais de que o seu SaaS tá sendo comparado só por preço.
 
 ### Slide 2
-**1. O desconto aparece antes da demo**
+**1. O desconto aparece antes da reunião**
 O cliente pede condição antes de ver o produto funcionando. Pra ele, você já é igual aos outros.
 
 **2. A pergunta é "qual a diferença pro fulano?"**
@@ -36,7 +34,7 @@ O cliente monta a comparação dele, linha por linha. Quem tem mais check ganha.
 Se ninguém fecha sem você explicando, o que convence ainda mora na sua cabeça.
 
 ### Slide 4
-Nenhum desses sinais se resolve baixando o preço.
+Nenhum desses sinais se resolve simplesmente baixando o preço.
 
 Eles mostram que o cliente decidiu antes de entender o que muda pra ele com o seu produto. É aí que a conversa precisa começar.
 
@@ -58,6 +56,8 @@ Eles mostram que o cliente decidiu antes de entender o que muda pra ele com o se
 Os quatro sinais aparecem antes da proposta. Se você marcou mais de dois, vale olhar o que o seu site e o seu comercial dizem antes de mexer em qualquer número. Fica por perto que eu volto nesse assunto.
 
 ## Notas de produção
+
+Texto publicável atualizado em 16 de Novembro, 2026 com as edições do Ritter no canvas.
 
 Carrossel de lista. CTA principal: salvar.
 

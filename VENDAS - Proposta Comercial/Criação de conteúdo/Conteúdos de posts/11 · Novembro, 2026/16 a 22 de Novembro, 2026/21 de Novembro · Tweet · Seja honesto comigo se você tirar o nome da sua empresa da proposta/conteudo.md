@@ -1,5 +1,5 @@
 ---
-titulo: Seja honesto se você tirar o nome da sua empresa da proposta, ela podia ser de qualquer concorrente
+titulo: Seja honesto comigo se você tirar o nome da sua empresa da proposta, ela podia ser de qualquer concorrente
 data: 21 de Novembro, 2026
 rede: Instagram
 formato: Tweet
@@ -17,13 +17,15 @@ link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw
 ## Texto publicável
 
 ### Arte
-Seja honesto: se você tirar o nome da sua empresa da proposta, ela podia ser de qualquer concorrente? Então você tá competindo por preço.
+Seja honesto comigo: se você tirar o nome da sua empresa da proposta, ela podia ser de qualquer concorrente? Se sim, então você tá só competindo por preço.
 
 ## Legenda
 
 Faz o teste com a última proposta que você mandou: tira o logo e lê como se fosse o cliente. Se nada nela é só seu, o preço vira o critério. Comenta aqui se a sua passou, e me segue pra ver como deixar a proposta com a sua cara.
 
 ## Notas de produção
+
+Texto publicável atualizado em 16 de Novembro, 2026 com as edições do Ritter no canvas.
 
 Convite para seguir na legenda. CTA principal: comentário.
 
