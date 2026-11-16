@@ -6,6 +6,7 @@ formato: Tweet
 funil: Topo
 pilar: Humano na era da IA
 dor: Site, proposta, redes e apresentação comercial descrevem o produto de maneiras diferentes (documento 04, dores práticas)
+ordem: 1
 status: arte pronta
 producao: Claude Design
 template: Estático · Tweet (template branco)

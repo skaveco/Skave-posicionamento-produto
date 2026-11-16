@@ -6,6 +6,7 @@ formato: Carrossel
 funil: Topo
 pilar: Marca que vende
 dor: É difícil explicar o valor do software em poucas palavras (documento 04, dores práticas)
+ordem: 3
 status: arte pronta
 producao: Claude Design
 template: Capa + Conteúdo + Conteúdo + Fechamento
