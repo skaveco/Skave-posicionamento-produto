@@ -7,11 +7,11 @@ funil: Topo
 pilar: Humano na era da IA
 dor: Ferramentas de IA facilitam lançar software e as funcionalidades se parecem (documento 12; documento 04, dores práticas)
 ordem: 1
-status: rascunho
-producao:
-template:
-modo_cor:
-link_arte:
+status: em produção
+producao: Claude Design
+template: Estático · Tweet (template branco)
+modo_cor: Claro (template branco)
+link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw
 ---
 
 ## Texto publicável

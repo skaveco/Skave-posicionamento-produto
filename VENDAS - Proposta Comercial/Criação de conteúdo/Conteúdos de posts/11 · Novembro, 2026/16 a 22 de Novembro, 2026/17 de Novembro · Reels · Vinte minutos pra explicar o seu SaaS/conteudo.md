@@ -8,7 +8,7 @@ funil: Topo
 pilar: Vida de fundador de SaaS
 dor: É difícil explicar o valor do software em poucas palavras (documento 04, dores práticas)
 ordem: 1
-status: rascunho
+status: aprovado
 producao:
 template:
 modo_cor:

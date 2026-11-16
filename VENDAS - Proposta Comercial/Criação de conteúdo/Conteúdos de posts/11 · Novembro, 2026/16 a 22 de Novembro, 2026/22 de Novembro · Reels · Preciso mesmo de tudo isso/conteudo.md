@@ -8,7 +8,7 @@ funil: Fundo
 pilar: Marca que vende
 dor: Receio de investir em marca e receber apenas uma mudança estética (documento 04, dores emocionais)
 ordem: 2
-status: rascunho
+status: aprovado
 producao:
 template:
 modo_cor:

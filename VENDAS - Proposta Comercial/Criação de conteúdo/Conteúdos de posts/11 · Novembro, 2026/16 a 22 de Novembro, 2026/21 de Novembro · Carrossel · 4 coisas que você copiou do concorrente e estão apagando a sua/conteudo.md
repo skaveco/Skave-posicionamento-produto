@@ -7,11 +7,11 @@ funil: Topo
 pilar: Anti-manada e disciplina
 dor: O custo de copiar a comunicação dos concorrentes e apagar os próprios diferenciais (documento 12; documento 04, dores práticas)
 ordem: 1
-status: rascunho
-producao:
-template:
-modo_cor:
-link_arte:
+status: em produção
+producao: Claude Design
+template: Capa com ícone + Conteúdo com ilustração + Conteúdo com ilustração + Conteúdo com ícone + Fechamento
+modo_cor: Escuro
+link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw
 ---
 
 ## Texto publicável
