@@ -12,7 +12,7 @@ Documentação da Skave (posicionamento, produto, vendas) e operação de conte�
   - `Criação de conteúdo/`: operação de conteúdo.
     - `Brand-kit-mateus-ritter.md`: brand kit em texto.
     - `Ganchos-de-conteúdos.md`: repertório de ganchos.
-    - `Modelos de posts/`: exemplos de referência por formato (hoje, `Tweet.md` e `Reels.md`). Servem para calibrar tamanho e tom; não são textos para publicar nem copiar.
+    - `Modelos de posts/`: exemplos de referência por formato (hoje, `Tweet.md`, `Reels.md` e `Carrossel.md`). Servem para calibrar tamanho e tom; não são textos para publicar nem copiar.
     - `Linguagem-do-Ritter.md`: jeito real de o Ritter falar, atualizado a cada correção dele. Lido antes de escrever qualquer copy; os vícios de linguagem proibidos estão na skill `skave-ideias-ritter`.
     - `Conteúdos de posts/<NN · Mês, ano>/<intervalo da semana>/<dia · Formato · título>/conteudo.md` (+ `arte/`): fonte oficial de cada post.
     - `Ensaio Fotogáfico Ritter/_catalogo.md`: fotos reais do Ritter, originais em PNG. Nunca comprimir nem converter para JPEG.
@@ -35,7 +35,7 @@ Status: `rascunho` → `aprovado` → `em produção` → `arte pronta` → `pub
 ## Regras visuais que valem sempre
 
 - Reels têm dois tipos, mesclados na semana: `Falado` (Ritter fala para a câmera) e `Frase` (vídeo real de fundo, frase na tela e o conteúdo na legenda). O tipo fica em `tipo_reels` no `conteudo.md`.
-
+- Carrosséis mesclam dois tipos: texto corrido e lista (passos, dicas, quantidade), cerca de metade de cada na semana.
 - Tweet (antigo TWICH) é só texto e usa sempre o template branco (modo claro), sem perguntar o modo. É curto: de uma a três frases, sem convite para seguir na arte.
 - Capa de carrossel: no máximo um ícone; nunca ilustração, diagrama ou foto.
 - Slides de desenvolvimento levam um elemento visual com contexto sempre que houver espaço.
