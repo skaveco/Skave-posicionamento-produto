@@ -2,6 +2,10 @@
 
 Registro simples das mudanças nas regras de conteúdo. A mais recente fica em cima. As regras completas estão na skill `skave-ideias-ritter`; os exemplos, em `Modelos de posts/`.
 
+## 16 de Novembro, 2026 · Teste de fotos nos carrosséis
+
+- Três carrosséis da semana (18, 21 e 22 de Novembro) ganharam uma versão com foto do ensaio num slide do meio, ao lado da versão original. Os outros quatro ficam sem foto, para comparar no Insights: chegada ao último slide, salvamentos, compartilhamentos e alcance.
+
 ## 16 de Novembro, 2026 · Horários e fontes
 
 - **Horários:** 1º post às 8h, 2º às 12h e 3º às 18h, com a ordem dos formatos mudando a cada dia (doc 11).

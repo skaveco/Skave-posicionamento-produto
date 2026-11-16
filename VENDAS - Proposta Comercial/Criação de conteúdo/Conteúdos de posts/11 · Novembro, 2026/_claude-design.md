@@ -9,6 +9,9 @@
 | Asset | Id no brand kit | Endereço neste canvas |
 | --- | --- | --- |
 | Avatar Mateus Ritter | `96e2db25490f99af825bc7c506404a0a` | `/_blob/ec1fa96dc175db7beb969dc68f4f35df` |
+| Foto `ritter_estudio-claro_colete-skave_sentado.png` (cópia de `claude-design/`) | — | `/_blob/fc75bbd993e697261e6824a52df388ea` |
+| Foto `ritter_estudio-escuro_polo-branca_bracos-cruzados.png` (original) | — | `/_blob/551ca91587ed44116bbff1db2f08e0d9` |
+| Foto `ritter_restaurante_blazer-verde-gola-alta_sorrindo-frente.png` (cópia de `claude-design/`) | — | `/_blob/cfaf368867c967bd9dd41d26da176368` |
 
 ## Páginas
 
