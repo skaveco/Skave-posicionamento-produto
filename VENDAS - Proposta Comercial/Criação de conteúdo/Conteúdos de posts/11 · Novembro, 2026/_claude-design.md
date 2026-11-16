@@ -13,6 +13,8 @@
 | Foto `ritter_estudio-escuro_polo-branca_bracos-cruzados.png` (original) | — | `/_blob/551ca91587ed44116bbff1db2f08e0d9` |
 | Foto `ritter_restaurante_blazer-verde-gola-alta_sorrindo-frente.png` (cópia de `claude-design/`) | — | `/_blob/cfaf368867c967bd9dd41d26da176368` |
 | Foto `ritter_estudio-escuro_jaqueta-oliva_perfil-lateral.png` (original) | — | `/_blob/da2df0ba7fb1f1cefdba0014dfd19509` |
+| Foto `ritter_estudio-escuro_camiseta-verde_mao-no-queixo.png` (original) | — | `/_blob/5153c3933f53e7c375189d75aa7a3d95` |
+| Foto `ritter_estudio-escuro_jaqueta-couro_mao-no-rosto-close.png` (cópia de `claude-design/`) | — | `/_blob/64173609abc943c425ed2fa8fd5cbae0` |
 
 ## Páginas
 

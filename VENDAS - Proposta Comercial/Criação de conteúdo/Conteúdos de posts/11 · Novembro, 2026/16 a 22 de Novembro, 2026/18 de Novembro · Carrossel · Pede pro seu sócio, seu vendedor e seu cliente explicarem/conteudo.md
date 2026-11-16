@@ -1,5 +1,5 @@
 ---
-titulo: Pede pro seu sócio, pro seu vendedor e pro seu melhor cliente explicarem a sua empresa
+titulo: Pede pro seu sócio, seu vendedor e seu cliente explicarem a sua empresa
 data: 18 de Novembro, 2026
 rede: Instagram
 formato: Carrossel
@@ -17,9 +17,9 @@ link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw
 ## Texto publicável
 
 ### Slide 1
-**Título:** Pede pro seu sócio, pro seu vendedor e pro seu melhor cliente explicarem a sua empresa. Depois compara as respostas.
+**Título:** Pede pro seu sócio, seu vendedor e seu cliente explicarem a sua empresa.
 
-**Subtítulo:** É assim que começa um diagnóstico de marca, e dá pra fazer uma versão hoje.
+**Subtítulo:** Depois compara as respostas.
 
 ### Slide 2
 Quando a Skave revê uma marca que já existe, o diagnóstico ouve três lados: quem lidera, quem trabalha na empresa e quem compra dela.
@@ -55,7 +55,7 @@ Esse teste é a versão de bolso do começo de um projeto de marca já estabelec
 
 ## Notas de produção
 
-**Teste de foto (16 de Novembro, 2026):** há uma segunda versão deste carrossel no canvas, nas linhas "versão com foto (teste)", com a capa no template Imagem e `foto ritter_estudio-claro_colete-skave_sentado.png` de fundo. O resto dos slides é igual ao original. A versão original continua no canvas; Ritter escolhe qual publicar. Comparar com os carrosséis sem foto da semana: chegada ao último slide, salvamentos, compartilhamentos e alcance.
+**Teste de foto (16 de Novembro, 2026):** há uma segunda versão deste carrossel no canvas, nas linhas "versão com foto (teste)", com a capa no template Imagem e `foto ritter_estudio-escuro_camiseta-verde_mao-no-queixo.png` de fundo (trocada no mesmo dia: a primeira, `ritter_estudio-claro_colete-skave_sentado.png`, não agradou). O resto dos slides é igual ao original. A versão original continua no canvas; Ritter escolhe qual publicar. Comparar com os carrosséis sem foto da semana: chegada ao último slide, salvamentos, compartilhamentos e alcance.
 
 Convite para seguir na legenda. CTA principal: compartilhar com o sócio. Bastidor do processo, sem cliente (estratégia de validação, seção 5.2).
 

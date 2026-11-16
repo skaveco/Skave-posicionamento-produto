@@ -39,6 +39,7 @@ Registre padrões, não só frases soltas. O objetivo é que o texto soe como o 
 | 16 de Novembro, 2026 | Edição no canvas, posts de 17 a 22 de Novembro | “Só que o cliente já conhece o original.” | “Só lembre de que o seu cliente já conhece o original.” | Fala direto com o leitor, em forma de aviso, e troca “o cliente” por “o seu cliente”. |
 | 16 de Novembro, 2026 | Edição no canvas, posts de 17 a 22 de Novembro | “o líder da categoria”, “No quartel” | “a referência da sua categoria”, “No exército” | Usa a palavra mais comum para o público: “referência” em vez de “líder”, “exército” em vez de “quartel”. |
 | 16 de Novembro, 2026 | Edição no canvas, posts de 17 a 22 de Novembro | Capas com número e subtítulo (“4 sinais de que…” + subtítulo; carrosséis de 16, 17 e 19) | Capas só com o título; no dia 17, sem o número | A observar: em três capas ele tirou o subtítulo, e numa delas também o número. Pode preferir capa limpa, só com o gancho. Ainda não vira regra. |
+| 16 de Novembro, 2026 | Pedido no chat, capa do carrossel de 18 de Novembro | “Pede pro seu sócio, pro seu vendedor e pro seu melhor cliente explicarem a sua empresa. Depois compara as respostas.” + “É assim que começa um diagnóstico de marca, e dá pra fazer uma versão hoje.” | “Pede pro seu sócio, seu vendedor e seu cliente explicarem a sua empresa.” + “Depois compara as respostas.” | Pediu capa mais curta. Junto com as capas sem subtítulo, reforça: título enxuto, e o que explica fica para os slides seguintes. |
 
 ## O que ele não fala
 
