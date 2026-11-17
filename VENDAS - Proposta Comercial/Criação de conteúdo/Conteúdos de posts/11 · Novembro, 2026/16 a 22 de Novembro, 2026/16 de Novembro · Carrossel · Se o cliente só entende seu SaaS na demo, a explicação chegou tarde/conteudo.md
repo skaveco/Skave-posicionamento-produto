@@ -7,7 +7,7 @@ funil: Topo
 pilar: Marca que vende
 dor: É difícil explicar o valor do software em poucas palavras (documento 04, dores práticas)
 ordem: 3
-status: arte pronta
+status: publicado
 producao: Claude Design
 template: Capa + Conteúdo + Conteúdo + Fechamento
 modo_cor: Claro (Fechamento escuro, padrão do template)

@@ -7,7 +7,7 @@ funil: Topo
 pilar: Humano na era da IA
 dor: Site, proposta, redes e apresentação comercial descrevem o produto de maneiras diferentes (documento 04, dores práticas)
 ordem: 1
-status: arte pronta
+status: publicado
 producao: Claude Design
 template: Estático · Tweet (template branco)
 modo_cor: Claro

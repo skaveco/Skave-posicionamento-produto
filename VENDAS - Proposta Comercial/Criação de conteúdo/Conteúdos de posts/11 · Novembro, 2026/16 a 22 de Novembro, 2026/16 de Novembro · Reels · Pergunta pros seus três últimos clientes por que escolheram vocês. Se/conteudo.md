@@ -7,7 +7,7 @@ funil: Meio
 pilar: Vida de fundador de SaaS
 dor: O comprador compara preço ou lista de funcionalidades porque não percebe a diferença relevante (documento 04, dores práticas)
 ordem: 2
-status: aprovado
+status: publicado
 producao:
 template:
 modo_cor:
