@@ -33,8 +33,8 @@ Depois dos quatro filtros do perfil, confira a empresa:
 
 Comece sempre pelo Instagram, não pela empresa. Use, nesta ordem de rendimento:
 
-1. **Sugestões de perfis parecidos.** No perfil de um lead já confirmado (veja `_leads.md`), abra as sugestões ("Sugestões para você" / seta ao lado de Seguir). Cada lead bom traz outros.
-2. **Seguidos dos perfis da área.** Perfis que leads confirmados seguem, e perfis de eventos, comunidades, fundos e podcasts de SaaS (por exemplo RD Summit, Web Summit Rio, Startup Summit, ABSeed). Procure nomes com "CEO", "founder" ou "@empresa" na bio.
+1. **Sugestões de perfis parecidos.** No perfil de um lead já confirmado (veja `_leads.md`), clique no botão "Contas semelhantes" ao lado de Seguir e leia a lista com `get_page_text`, sem captura. Funciona melhor a partir de **fundadores e de perfis sobre SaaS** (como @vivendodesaas); a partir de quem trabalha com marketing, as sugestões trazem sobretudo agências e criadores. Perfil privado não mostra o botão.
+2. **Seguidos dos perfis da área.** Abra a lista "seguindo" de um perfil sobre SaaS e use a caixa de busca dentro da lista (por exemplo "saas", "ceo", "founder") para filtrar. Também valem os perfis que leads confirmados seguem, e perfis de eventos, comunidades, fundos e podcasts de SaaS (por exemplo RD Summit, Web Summit Rio, Startup Summit, ABSeed). Procure nomes com "CEO", "founder" ou "@empresa" na bio.
 3. **Busca por palavra-chave** (`instagram.com/explore/search/keyword/?q=...`): "fundador saas", "ceo saas", "meu saas", "MRR", "B2B". Quem posta sobre isso costuma estar ativo; confira se o SaaS já está lançado.
 4. **Busca por nome**, quando você já tem o nome do fundador ou do CMO por outra fonte (imprensa, site da empresa). Confirme pela bio; homônimos são comuns.
 
@@ -46,7 +46,7 @@ Imagens são o que mais consome tokens e tempo. Siga esta ordem para cada perfil
 
 1. **Uma captura só do cabeçalho:** `zoom` na região da foto e da bio, com `scale` 0.4 a 0.5. Ela já mostra seguidores, bio, @ da empresa e se há story ativo (anel colorido na foto).
 2. Se falhar o filtro 1, 2 ou 3, descarte ali mesmo, sem abrir mais nada.
-3. Só se não houver story ativo, abra o post mais recente não fixado para ver a data (prefira `find` ou `get_page_text` a uma nova captura).
+3. Só se não houver story ativo, confira a data dos posts sem nova captura: um `find` por "posts do feed com data" costuma devolver "Photo by ... on <data>". Se o post do topo não trouxer data, abra-o e leia a data com `javascript_tool` (`Array.from(document.querySelectorAll('time')).map(t=>t.getAttribute('datetime')).slice(0,3)`).
 4. Nunca capture a tela inteira quando um `zoom` resolve, e não role o feed.
 
 Outras regras:
