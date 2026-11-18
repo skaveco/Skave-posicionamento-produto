@@ -5,7 +5,7 @@ description: "Encontra e qualifica no Instagram donos e lideranças de empresas 
 
 # Prospecção de leads no Instagram · Skave
 
-Entregue **15 leads por rodada** (ou o número que o usuário pedir): donos e lideranças de SaaS B2B que estão **ativos no Instagram** e cuja empresa mostra **necessidade visível de posicionamento**. Qualidade vem antes de volume: é melhor entregar 12 leads sólidos e dizer isso do que completar a lista com perfis duvidosos.
+Rode **somente quando o usuário pedir**; nunca por iniciativa própria nem como sugestão ao fim de outra tarefa. Entregue **10 leads por rodada**, salvo se o usuário pedir outro número: donos e lideranças de SaaS B2B que estão **ativos no Instagram** e cuja empresa mostra **necessidade visível de posicionamento**. Qualidade vem antes de volume: é melhor entregar 8 leads sólidos e dizer isso do que completar a lista com perfis duvidosos.
 
 A busca roda no Chrome do usuário, já logado no Instagram, pelas ferramentas `mcp__claude-in-chrome__*`. Se elas não estiverem disponíveis, peça ao usuário para rodar `/chrome` ou abrir a sessão com `claude --chrome`, e pare até que ele conecte.
 
