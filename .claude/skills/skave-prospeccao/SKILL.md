@@ -22,15 +22,16 @@ Um perfil só vira lead se passar nos **quatro**. Na dúvida em qualquer um, des
 1. **Seguidores: até 50 mil.** O número não importa abaixo disso. Acima de 50 mil, descarte: esse tipo de empresário raramente responde.
 2. **Vínculo de liderança no perfil.** Vale qualquer um destes:
    - cargo explícito na bio ou no nome: CEO, fundador, founder, cofundador, sócio, CTO, CMO, CPO ou outra liderança;
-   - frase que mostra que a empresa é dela: "Building @empresa", "criando o @empresa", "fundei a…", "meu SaaS @empresa", "@empresa" ao lado de "fundador" ou "founder" sem o cargo completo.
+   - frase que mostra que a empresa é dela: "Building @empresa", "criando o @empresa", "fundei a…", "meu SaaS @empresa", "@empresa" ao lado de "fundador" ou "founder" sem o cargo completo;
+   - **um ou mais @ de empresa na bio, mesmo sem cargo explícito.** Basta que ao menos um desses @ seja de um SaaS.
 
    A empresa precisa ser **atual**. Cargo só no LinkedIn ou na imprensa não basta.
-3. **Empresa identificável no perfil.** O @ da empresa ou o link do site dela na bio. Se houver só o nome da empresa (sem @ nem link), aceite quando o cargo estiver explícito. Confira que a empresa é um SaaS pela bio do @ ou pelo site; não precisa analisar o feed.
+3. **Empresa identificável no perfil.** O @ da empresa ou o link do site dela na bio. Se houver só o nome da empresa (sem @ nem link), aceite quando o cargo estiver explícito. Confira que a empresa é de software (SaaS) pela bio do @ ou pelo site; agência, consultoria, software sob encomenda e serviço por mensalidade ficam de fora. Não precisa analisar o feed.
 4. **Ativo nos últimos dias.** Story ativo no momento da checagem (anel colorido na foto) **ou** post no feed nos últimos 7 dias. Até 14 dias pode entrar se os outros filtros forem fortes; registre a data. Perfil privado ou parado: descarte.
 
 Depois dos quatro filtros do perfil, confira a empresa:
 
-- **É SaaS B2B lançado:** software como produto para empresas, já vendendo ou disponível. Agência, consultoria, software sob encomenda, serviço por mensalidade e produto só em lista de espera ficam de fora.
+- **Não precisa estar lançado.** SaaS em pré-lançamento ou lista de espera também entra (status C); registre o momento do produto na ficha.
 - **Necessidade visível:** abra o site da empresa e procure ao menos um sinal concreto de clareza, diferenciação, coerência, percepção de valor ou desatualização, como descreve o guia (por exemplo: título genérico, vários públicos ao mesmo tempo, números que não batem, posicionamento antigo misturado ao novo, marca em domínios diferentes). Anote o trecho exato. Se o site estiver muito bem resolvido, a prioridade é baixa; só inclua se faltar volume e diga isso.
 
 ## Onde procurar
@@ -39,7 +40,7 @@ Comece sempre pelo Instagram, não pela empresa. Use, nesta ordem de rendimento:
 
 1. **Sugestões de perfis parecidos.** No perfil de um lead já confirmado (veja `_leads.md`), clique no botão "Contas semelhantes" ao lado de Seguir e leia a lista com `get_page_text`, sem captura. Funciona melhor a partir de **fundadores e de perfis sobre SaaS** (como @vivendodesaas); a partir de quem trabalha com marketing, as sugestões trazem sobretudo agências e criadores. Perfil privado não mostra o botão.
 2. **Seguidos dos perfis da área.** Abra a lista "seguindo" de um perfil sobre SaaS e use a caixa de busca dentro da lista (por exemplo "saas", "ceo", "founder") para filtrar. Também valem os perfis que leads confirmados seguem, e perfis de eventos, comunidades, fundos e podcasts de SaaS (por exemplo RD Summit, Web Summit Rio, Startup Summit, ABSeed). Procure nomes com "CEO", "founder" ou "@empresa" na bio.
-3. **Busca por palavra-chave** (`instagram.com/explore/search/keyword/?q=...`): "fundador saas", "ceo saas", "meu saas", "MRR", "B2B". Quem posta sobre isso costuma estar ativo; confira se o SaaS já está lançado.
+3. **Busca por palavra-chave** (`instagram.com/explore/search/keyword/?q=...`): "fundador saas", "ceo saas", "meu saas", "MRR", "B2B". Quem posta sobre isso costuma estar ativo.
 4. **Busca por nome**, quando você já tem o nome do fundador ou do CMO por outra fonte (imprensa, site da empresa). Confirme pela bio; homônimos são comuns.
 
 Ritmo: no máximo 80 a 100 perfis visitados por sessão, sem pressa artificial e sem rolagem infinita. **Nunca** siga, curta, comente, responda story nem mande mensagem: a abordagem é sempre do usuário.
@@ -72,7 +73,7 @@ Cada ficha traz:
 - **Instagram:** link, número de seguidores e o trecho da bio que comprova cargo e empresa.
 - **Atividade:** data do último post e se havia story ativo, com a data da checagem.
 - **Empresa e produto:** @ da empresa, site e o que o software faz.
-- **Status A ou B** pelo guia (com ou sem evidência pública de clientes).
+- **Status A, B ou C** pelo guia (com clientes, lançado sem clientes visíveis, ou pré-lançamento). Nesta skill, C também é abordável.
 - **Necessidade observada:** os sinais, com o trecho do site.
 - **Prioridade:** alta (necessidade clara e perfil muito ativo) ou média.
 - **Gancho:** uma observação concreta e uma pergunta para abrir a conversa. Não diagnosticar perda de vendas nem afirmar fatos sobre receita.

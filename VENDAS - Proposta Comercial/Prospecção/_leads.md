@@ -31,4 +31,3 @@ Status: `encontrado` → `abordado` → `respondeu` → `call marcada` → `desc
 | @henriquesaas, @fernandofuzion, @eduardo.marmentini | Agência, não SaaS | 18/11/2026 |
 | @joaorizzon1, @miguelmarchi, @mathlimasl, @raicarvalho.gestao, @eusoubrunohilario, @rssfalcon | Bio sem cargo ou sem @ de SaaS | 18/11/2026 |
 | @jreis.com.br, @obrunookamoto | Mais de 50 mil seguidores | 18/11/2026 |
-| GOOVI (@goovi.app) | Pré-lançamento | 18/11/2026 |
