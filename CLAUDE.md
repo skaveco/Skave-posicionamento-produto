@@ -8,7 +8,6 @@ Documentação da Skave (posicionamento, produto, vendas) e operação de conte�
 - `PRODUTO - Posicionamento de marca/`: o produto Posicionamento de Marca.
 - `VENDAS - Proposta Comercial/`
   - `Modelos de proposta/`: PDFs das propostas de Brand Launch e Brand Evolution e o resumo `_modelos-de-proposta.md` (estrutura, entregáveis, ticket e inconsistências a corrigir). Fonte do preço vigente.
-  - `Contratos/`: modelo do contrato com etiquetas `{{CAMPO}}` (`modelo-brand-launch.md`) e o mapa `_campos-contrato.md`, que liga cada etiqueta a um campo do ClickUp. Base da automação de contratos.
   - `Prospecção/`: leads do Instagram por rodada (`leads-AAAA-MM-DD.md`) e o índice `_leads.md` com o status de abordagem. Gerados pela skill `skave-prospeccao`, rodada manualmente com o Chrome conectado.
   - `Estratégia de marca pessoal e conteúdo - Ritter/`: estratégia editorial (dores, pilares, narrativa, banco de temas, provas).
   - `Criação de conteúdo/`: operação de conteúdo.
