@@ -20,8 +20,12 @@ A busca roda no Chrome do usuário, já logado no Instagram, pelas ferramentas `
 Um perfil só vira lead se passar nos **quatro**. Na dúvida em qualquer um, descarte e siga. Não acrescente filtros além destes: filtrar demais trava a busca.
 
 1. **Seguidores: até 50 mil.** O número não importa abaixo disso. Acima de 50 mil, descarte: esse tipo de empresário raramente responde.
-2. **Cargo comprovado no perfil.** A bio ou o nome do perfil mostram que a pessoa é CEO, fundador, cofundador, sócio, CTO, CMO, CPO ou outro cargo de liderança **de uma empresa atual**. Cargo só no LinkedIn ou na imprensa não basta.
-3. **@ da empresa no perfil.** Um @ da empresa na bio (ou o link do site da empresa) é praticamente a confirmação do vínculo. Confira que a empresa é um SaaS pela bio do @ ou pelo site; não precisa analisar o feed.
+2. **Vínculo de liderança no perfil.** Vale qualquer um destes:
+   - cargo explícito na bio ou no nome: CEO, fundador, founder, cofundador, sócio, CTO, CMO, CPO ou outra liderança;
+   - frase que mostra que a empresa é dela: "Building @empresa", "criando o @empresa", "fundei a…", "meu SaaS @empresa", "@empresa" ao lado de "fundador" ou "founder" sem o cargo completo.
+
+   A empresa precisa ser **atual**. Cargo só no LinkedIn ou na imprensa não basta.
+3. **Empresa identificável no perfil.** O @ da empresa ou o link do site dela na bio. Se houver só o nome da empresa (sem @ nem link), aceite quando o cargo estiver explícito. Confira que a empresa é um SaaS pela bio do @ ou pelo site; não precisa analisar o feed.
 4. **Ativo nos últimos dias.** Story ativo no momento da checagem (anel colorido na foto) **ou** post no feed nos últimos 7 dias. Até 14 dias pode entrar se os outros filtros forem fortes; registre a data. Perfil privado ou parado: descarte.
 
 Depois dos quatro filtros do perfil, confira a empresa:
