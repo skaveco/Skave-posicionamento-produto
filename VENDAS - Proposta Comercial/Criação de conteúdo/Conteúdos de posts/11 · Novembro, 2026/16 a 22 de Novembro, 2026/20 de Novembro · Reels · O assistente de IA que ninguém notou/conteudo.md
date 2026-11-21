@@ -8,7 +8,7 @@ funil: Topo
 pilar: Humano na era da IA
 dor: O comprador compara preço ou lista de funcionalidades porque não percebe a diferença relevante; ferramentas de IA deixam as funcionalidades parecidas (documento 04, dores práticas; documento 12)
 ordem: 1
-status: aprovado
+status: publicado
 producao:
 template:
 modo_cor:

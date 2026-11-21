@@ -7,7 +7,7 @@ funil: Topo
 pilar: Vida de fundador de SaaS
 dor: Site, proposta, redes e apresentação comercial descrevem o produto de maneiras diferentes (documento 04, dores práticas)
 ordem: 2
-status: em produção
+status: publicado
 producao: Claude Design
 template: Estático · Tweet (template branco)
 modo_cor: Claro (template branco)

@@ -7,7 +7,7 @@ funil: Topo
 pilar: Marca que vende
 dor: Sensação de que o produto é melhor do que a marca faz parecer (documento 04, dores emocionais)
 ordem: 2
-status: em produção
+status: publicado
 producao: Claude Design
 template: Capa + Conteúdo com ícone + Conteúdo com ilustração + Conteúdo com ícone + Fechamento
 modo_cor: Claro (Fechamento escuro, padrão do template)

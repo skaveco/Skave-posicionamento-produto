@@ -8,7 +8,7 @@ funil: Topo
 pilar: Anti-manada e disciplina
 dor: O comprador compara preço ou lista de funcionalidades porque não percebe a diferença relevante (documento 04, dores práticas)
 ordem: 3
-status: aprovado
+status: publicado
 producao:
 template:
 modo_cor:

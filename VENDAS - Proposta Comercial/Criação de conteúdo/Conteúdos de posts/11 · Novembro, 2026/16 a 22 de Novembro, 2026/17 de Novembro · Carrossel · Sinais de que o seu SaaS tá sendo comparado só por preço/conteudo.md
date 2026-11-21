@@ -7,7 +7,7 @@ funil: Topo
 pilar: Marca que vende
 dor: O comprador compara preço ou lista de funcionalidades porque não percebe a diferença relevante (documento 04, dores práticas)
 ordem: 2
-status: em produção
+status: publicado
 producao: Claude Design
 template: Capa + Conteúdo com ícone + Conteúdo com ilustração + Conteúdo com ícone + Fechamento
 modo_cor: Escuro

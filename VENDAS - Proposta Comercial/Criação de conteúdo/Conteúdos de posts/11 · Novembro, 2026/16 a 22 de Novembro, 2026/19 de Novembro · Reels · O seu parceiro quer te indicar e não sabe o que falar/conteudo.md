@@ -8,7 +8,7 @@ funil: Topo
 pilar: Networking e parcerias
 dor: Equipe e parceiros dependem do fundador para decidir o que dizer (documento 04, dores na operação)
 ordem: 2
-status: aprovado
+status: publicado
 producao:
 template:
 modo_cor:

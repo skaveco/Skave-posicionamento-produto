@@ -7,7 +7,7 @@ funil: Topo
 pilar: Da farda à Skave
 dor: Equipe e parceiros dependem do fundador para decidir o que dizer (documento 04, dores na operação)
 ordem: 3
-status: em produção
+status: publicado
 producao: Claude Design
 template: Estático · Tweet (template branco)
 modo_cor: Claro (template branco)
