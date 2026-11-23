@@ -52,3 +52,4 @@
 | `ritter_palestra-valor-percebido_polo-branca_telao-quem-fala-com-todo-mundo.jpg` | `/_blob/a106c92c189db95af5fcc0e6b58f6645` |
 | `ritter_palestra-valor-percebido_polo-branca_telao-pessoas-nao-compram-produtos.jpg` | `/_blob/9789d932dd96c282279fcb901a56d05a` |
 | `ritter_palestra-case-skave_colete-skave_apontando-telao.jpg` | `/_blob/4cf5577a7f152657f7168604a7a7b7f2` |
+| `ritter_palestra-valor-percebido_polo-branca_plano-aberto-plateia.jpg` | `/_blob/9602a65f65dd107ba55ba40c5ac77337` |

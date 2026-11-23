@@ -44,7 +44,7 @@ O que você faz que o concorrente não faria do mesmo jeito. É essa frase que a
 
 - Slide 1: foto ritter_palestra_camisa-branca_microfone-perfil.png (Tweet com foto)
 - Slides 2 a 4: Tweet textual, sem elemento visual
-- Slide 5: foto ritter_restaurante_blazer-verde-gola-alta_sorrindo-lado.png (Tweet com foto)
+- Slide 5: foto ritter_palestra-valor-percebido_polo-branca_plano-aberto-plateia.jpg (Tweet com foto)
 
 ## Legenda
 
