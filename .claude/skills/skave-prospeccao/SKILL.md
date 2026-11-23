@@ -1,11 +1,11 @@
 ---
 name: skave-prospeccao
-description: "Encontra e qualifica no Instagram donos e lideranças de empresas SaaS B2B ativos na rede, para prospecção ativa do Posicionamento de Marca da Skave. Usa o Chrome logado do usuário (Claude in Chrome), confirma cargo, empresa, atividade recente e necessidade visível de posicionamento, e grava a lista em VENDAS - Proposta Comercial/Prospecção. Use quando o usuário pedir leads, prospecção, lista de empresários ou rodar a prospecção da semana."
+description: "Encontra e qualifica no Instagram donos e lideranças de empresas SaaS (B2B ou B2C) ativos na rede, para prospecção ativa do Posicionamento de Marca da Skave. Usa o Chrome logado do usuário (Claude in Chrome), confirma cargo, empresa, atividade recente e necessidade visível de posicionamento, e grava a lista em VENDAS - Proposta Comercial/Prospecção. Use quando o usuário pedir leads, prospecção, lista de empresários ou rodar a prospecção da semana."
 ---
 
 # Prospecção de leads no Instagram · Skave
 
-Rode **somente quando o usuário pedir**; nunca por iniciativa própria nem como sugestão ao fim de outra tarefa. Entregue **10 leads por rodada**, salvo se o usuário pedir outro número: donos e lideranças de SaaS B2B que estão **ativos no Instagram** e cuja empresa mostra **necessidade visível de posicionamento**. Qualidade vem antes de volume: é melhor entregar 8 leads sólidos e dizer isso do que completar a lista com perfis duvidosos.
+Rode **somente quando o usuário pedir**; nunca por iniciativa própria nem como sugestão ao fim de outra tarefa. Entregue **10 leads por rodada**, salvo se o usuário pedir outro número: donos e lideranças de SaaS, B2B ou B2C (decisão de 23 de Novembro, 2026), que estão **ativos no Instagram** e cuja empresa mostra **necessidade visível de posicionamento**. Qualidade vem antes de volume: é melhor entregar 8 leads sólidos e dizer isso do que completar a lista com perfis duvidosos.
 
 A busca roda no Chrome do usuário, já logado no Instagram, pelas ferramentas `mcp__claude-in-chrome__*`. Se elas não estiverem disponíveis, peça ao usuário para rodar `/chrome` ou abrir a sessão com `claude --chrome`, e pare até que ele conecte.
 
@@ -26,7 +26,7 @@ Um perfil só vira lead se passar nos **quatro**. Na dúvida em qualquer um, des
    - **um ou mais @ de empresa na bio, mesmo sem cargo explícito.** Basta que ao menos um desses @ seja de um SaaS.
 
    A empresa precisa ser **atual**. Cargo só no LinkedIn ou na imprensa não basta.
-3. **Empresa identificável no perfil.** O @ da empresa ou o link do site dela na bio. Se houver só o nome da empresa (sem @ nem link), aceite quando o cargo estiver explícito. Confira que a empresa é de software (SaaS) pela bio do @ ou pelo site; agência, consultoria, software sob encomenda e serviço por mensalidade ficam de fora. Não precisa analisar o feed.
+3. **Empresa identificável no perfil.** O @ da empresa ou o link do site dela na bio. Se houver só o nome da empresa (sem @ nem link), aceite quando o cargo estiver explícito. Confira que a empresa é de software (SaaS ou app, B2B ou B2C) pela bio do @ ou pelo site; agência, consultoria, software sob encomenda e serviço por mensalidade ficam de fora. Não precisa analisar o feed.
 4. **Ativo nos últimos dias.** Story ativo no momento da checagem (anel colorido na foto) **ou** post no feed nos últimos 7 dias. Até 14 dias pode entrar se os outros filtros forem fortes; registre a data. Perfil privado ou parado: descarte.
 
 Depois dos quatro filtros do perfil, confira a empresa:
@@ -40,7 +40,7 @@ Comece sempre pelo Instagram, não pela empresa. Use, nesta ordem de rendimento:
 
 1. **Sugestões de perfis parecidos.** No perfil de um lead já confirmado (veja `_leads.md`), clique no botão "Contas semelhantes" ao lado de Seguir e leia a lista com `get_page_text`, sem captura. Funciona melhor a partir de **fundadores e de perfis sobre SaaS** (como @vivendodesaas); a partir de quem trabalha com marketing, as sugestões trazem sobretudo agências e criadores. Perfil privado não mostra o botão.
 2. **Seguidos dos perfis da área.** Abra a lista "seguindo" de um perfil sobre SaaS e use a caixa de busca dentro da lista (por exemplo "saas", "ceo", "founder") para filtrar. Também valem os perfis que leads confirmados seguem, e perfis de eventos, comunidades, fundos e podcasts de SaaS (por exemplo RD Summit, Web Summit Rio, Startup Summit, ABSeed). Procure nomes com "CEO", "founder" ou "@empresa" na bio.
-3. **Busca por palavra-chave** (`instagram.com/explore/search/keyword/?q=...`): "fundador saas", "ceo saas", "meu saas", "MRR", "B2B". Quem posta sobre isso costuma estar ativo.
+3. **Busca por palavra-chave** (`instagram.com/explore/search/keyword/?q=...`): "fundador saas", "ceo saas", "meu saas", "MRR", "B2B", "meu app". Quem posta sobre isso costuma estar ativo.
 4. **Busca por nome**, quando você já tem o nome do fundador ou do CMO por outra fonte (imprensa, site da empresa). Confirme pela bio; homônimos são comuns.
 
 Ritmo: no máximo 80 a 100 perfis visitados por sessão, sem pressa artificial e sem rolagem infinita. **Nunca** siga, curta, comente, responda story nem mande mensagem: a abordagem é sempre do usuário.

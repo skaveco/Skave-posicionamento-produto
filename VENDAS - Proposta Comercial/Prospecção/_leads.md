@@ -27,11 +27,17 @@ Status: `encontrado` → `abordado` → `respondeu` → `call marcada` → `desc
 | Tiago Dalvi | [@tiagodalvi](https://www.instagram.com/tiagodalvi/) | Olist | [23/11/2026](leads-2026-11-23.md) | encontrado | empresa grande |
 | João Faria | [@joaospfaria](https://www.instagram.com/joaospfaria/) | Wivo | [23/11/2026](leads-2026-11-23.md) | encontrado | post de 11/11 |
 | Rodrigo Cartacho | [@rodrigo.cartacho](https://www.instagram.com/rodrigo.cartacho/) | Sympla | [23/11/2026](leads-2026-11-23.md) | encontrado | empresa grande |
+| Vinícius Fonseca | [@viniciusfonsecab](https://www.instagram.com/viniciusfonsecab/) | Planly | [23/11/2026 (b)](leads-2026-11-23-b.md) | encontrado | B2C; prioridade alta |
+| Gabriel Barbosa | [@gabrielbarbosa.oficial](https://www.instagram.com/gabrielbarbosa.oficial/) | LeadConverte | [23/11/2026 (b)](leads-2026-11-23-b.md) | encontrado | prioridade alta |
+| Lucas B. | [@lucasgb.founder](https://www.instagram.com/lucasgb.founder/) | Tycoonito e Marlume | [23/11/2026 (b)](leads-2026-11-23-b.md) | encontrado | B2C; pré-lançamento |
+| Felipe Gigante | [@dev_gigante](https://www.instagram.com/dev_gigante/) | Zeca da Zarpa | [23/11/2026 (b)](leads-2026-11-23-b.md) | encontrado | B2C; é CTO |
+| Guilherme Martins | [@guimartinsbr](https://www.instagram.com/guimartinsbr/) | Kapi | [23/11/2026 (b)](leads-2026-11-23-b.md) | encontrado | B2C; site não lido |
 
 ## Descartados (não revisitar)
 
 Os descartados de cada rodada, com o motivo, estão no fim do arquivo da rodada. Aqui ficam só os nomes, para busca rápida.
 
 - **18/11/2026:** beefor, Nuvia, Sharpi, Samax, Deskbee, @agenciadebolso__, @joseluizrf, @rodrigo.caramante, @paulocastellano, @henriquesaas, @fernandofuzion, @eduardo.marmentini, @mathlimasl, @raicarvalho.gestao, @eusoubrunohilario, @rssfalcon, @jreis.com.br, @obrunookamoto.
-- **19/11/2026:** ver [leads-2026-11-19.md](leads-2026-11-19.md) e [leads-2026-11-19-b.md](leads-2026-11-19-b.md).
-- **23/11/2026:** @ogabrielrdm, @ricardo.ceo, @ojuliopachecoo, @euclevertonjunior, @henrique.parisi, @guimassa, @luksborges, @matheusnattan1, @brunoahualli, @euviniciustroncoso, @luanshimoda, @jacksonsouzarc, @viniciusfonsecab, @souleofurtado, @eyuriferreira, @eduardostorini, @d_coquieri, @dttg, @lnunesjr, @odanielrosa, @rafaelincao, @malberone, @o.marcosfonseca, @eeogus, @ecauduro, @alfredosoares, @pedroaredes, @_ricardo_piedade, @erickasanches.ia, @okauarodriguez, @granzoto7, @oarthur.goncalves_, @felipenonino_, @lethsobral.
+- **19/11/2026:** (Lucas B. saiu dos descartados em 23/11, quando B2C passou a valer) ver [leads-2026-11-19.md](leads-2026-11-19.md) e [leads-2026-11-19-b.md](leads-2026-11-19-b.md).
+- **23/11/2026:** @ogabrielrdm, @ricardo.ceo, @ojuliopachecoo, @euclevertonjunior, @henrique.parisi, @guimassa, @luksborges, @matheusnattan1, @brunoahualli, @euviniciustroncoso, @luanshimoda, @jacksonsouzarc, @souleofurtado, @eyuriferreira, @eduardostorini, @d_coquieri, @dttg, @lnunesjr, @odanielrosa, @rafaelincao, @malberone, @o.marcosfonseca, @eeogus, @ecauduro, @alfredosoares, @pedroaredes, @_ricardo_piedade, @erickasanches.ia, @okauarodriguez, @granzoto7, @oarthur.goncalves_, @felipenonino_, @lethsobral.
+- **23/11/2026 (b):** @daniellimae, @matheusgobbi, @maxcarrau.ia, @rafa.grandi, @aleferreirabr1, @matheuscaiaffa, @lunabmachado, @arthur.paesi.
