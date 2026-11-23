@@ -42,9 +42,9 @@ Quem entrou pelo desconto sai pelo desconto, no dia em que aparece alguém mais 
 
 ## Visual
 
-- Slide 1: foto ritter_estudio-claro_colete-skave_sentado.png (Tweet com foto)
+- Slide 1: foto ritter_palestra-valor-percebido_polo-branca_telao-pessoas-nao-compram-produtos.jpg (Tweet com foto)
 - Slides 2 a 4: Tweet textual, sem elemento visual
-- Slide 5: foto ritter_estudio-escuro_blazer-verde_sorrindo-perfil.png (Tweet com foto)
+- Slide 5: foto ritter_palestra-case-skave_colete-skave_apontando-telao.jpg (Tweet com foto)
 
 ## Legenda
 

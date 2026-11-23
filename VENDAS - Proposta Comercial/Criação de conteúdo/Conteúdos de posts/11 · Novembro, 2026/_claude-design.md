@@ -39,3 +39,16 @@
 | `ritter_estudio-escuro_jaqueta-couro_mao-no-rosto-close.png` (cópia de `claude-design/`) | `/_blob/e66bbb0a2f56f2c66579e876fbba0daa` |
 | `ritter_restaurante_blazer-verde-gola-alta_sorrindo-lado.png` (cópia de `claude-design/`) | `/_blob/24a6ae5e26d01e1f3b14b3c46917172f` |
 | `ritter_estudio-escuro_polo-branca_bracos-cruzados.png` | reaproveitada: `/_blob/551ca91587ed44116bbff1db2f08e0d9` |
+
+## Fotos naturais enviadas em 23 de Novembro, 2026 (carrosséis de 25, 26, 27 e 29 de Novembro)
+
+| Foto | Endereço neste canvas |
+| --- | --- |
+| `ritter_palestra-valor-percebido_polo-branca_telao-guerra-do-valor.jpg` | `/_blob/32425d6a1b648f15b48e033ed03512d6` |
+| `ritter_palestra-bni_camisa-branca_falando-olhando-camera.jpg` | `/_blob/461a08b70e37da59a799975af7a4c7f6` |
+| `ritter_palestra-valor-percebido_polo-branca_close-perfil.jpg` | `/_blob/aaf43aebf667ef3fa9c9ae67f65cfaa6` |
+| `ritter_palestra-valor-percebido_polo-branca_braco-erguido.jpg` | `/_blob/ac705e26f78a27b934b92133193cc204` |
+| `ritter_palestra-valor-percebido_polo-branca_telao-preco-tenis.jpg` | `/_blob/f2575fbc96514ad571b65fd0f8383c3a` |
+| `ritter_palestra-valor-percebido_polo-branca_telao-quem-fala-com-todo-mundo.jpg` | `/_blob/a106c92c189db95af5fcc0e6b58f6645` |
+| `ritter_palestra-valor-percebido_polo-branca_telao-pessoas-nao-compram-produtos.jpg` | `/_blob/9789d932dd96c282279fcb901a56d05a` |
+| `ritter_palestra-case-skave_colete-skave_apontando-telao.jpg` | `/_blob/4cf5577a7f152657f7168604a7a7b7f2` |

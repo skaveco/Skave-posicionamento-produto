@@ -40,9 +40,9 @@ Em vez de só cortar o preço, acrescenta o que mostra a sua diferença: implant
 
 ## Visual
 
-- Slide 1: foto ritter_estudio-escuro_jaqueta-couro_mao-no-rosto-close.png (Tweet com foto)
+- Slide 1: foto ritter_palestra-valor-percebido_polo-branca_telao-preco-tenis.jpg (Tweet com foto)
 - Slides 2 a 4: Tweet textual, sem elemento visual
-- Slide 5: foto ritter_estudio-claro_blazer-verde_maos-enquadrando.png (Tweet com foto)
+- Slide 5: foto ritter_palestra-valor-percebido_polo-branca_telao-quem-fala-com-todo-mundo.jpg (Tweet com foto)
 
 ## Legenda
 

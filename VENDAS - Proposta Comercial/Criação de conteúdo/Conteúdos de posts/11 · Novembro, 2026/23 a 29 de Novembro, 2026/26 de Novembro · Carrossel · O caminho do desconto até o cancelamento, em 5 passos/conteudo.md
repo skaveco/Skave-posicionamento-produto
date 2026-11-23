@@ -45,9 +45,9 @@ A reunião de churn fala de funcionalidade, suporte e onboarding. Quase ninguém
 
 ## Visual
 
-- Slide 1: foto ritter_estudio-escuro_jaqueta-couro_maos-unidas-pensativo.png (Tweet com foto)
+- Slide 1: foto ritter_palestra-valor-percebido_polo-branca_close-perfil.jpg (Tweet com foto)
 - Slides 2 a 4: Tweet textual, sem elemento visual
-- Slide 5: foto ritter_estudio-escuro_polo-branca_bracos-cruzados.png (Tweet com foto)
+- Slide 5: foto ritter_palestra-valor-percebido_polo-branca_braco-erguido.jpg (Tweet com foto)
 
 ## Legenda
 

@@ -39,9 +39,9 @@ Se a resposta honesta é "não sei", o desconto não resolve. Ele só empurra a 
 
 ## Visual
 
-- Slide 1: foto ritter_estudio-cinza_blazer-verde_maos-unidas-olhando-camera.png (Tweet com foto)
+- Slide 1: foto ritter_palestra-valor-percebido_polo-branca_telao-guerra-do-valor.jpg (Tweet com foto)
 - Slides 2 a 4: Tweet textual, sem elemento visual
-- Slide 5: foto ritter_estudio-claro_jaqueta-couro_apontando-sorrindo.png (Tweet com foto)
+- Slide 5: foto ritter_palestra-bni_camisa-branca_falando-olhando-camera.jpg (Tweet com foto)
 
 ## Legenda
 
