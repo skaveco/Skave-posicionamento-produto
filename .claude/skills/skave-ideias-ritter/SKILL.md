@@ -355,7 +355,7 @@ Ritter pediu (16 de Novembro, 2026) Tweets mais curtos, mais fortes e mais infor
 
 ### Textos curtos e stories
 
-No `conteudo.md` de Tweet, escreva o texto final em `### Arte` conforme a seção [Tweet](#tweet). No de arte estática, escreva o texto final em `### Arte` e a chamada para seguir ao final da peça ou na legenda, conforme [Varie os fechamentos](#varie-os-fechamentos). Em stories, organize o texto ou a fala por quadro e termine a sequência com a chamada para seguir. Quando o pedido incluir legenda, registre o texto completo e o mesmo objetivo de fechamento.
+No `conteudo.md` de Tweet, escreva o texto final em `### Arte` conforme a seção [Tweet](#tweet). No de arte estática, escreva o texto final em `### Arte` e a chamada para seguir ao final da peça ou na legenda, conforme [Varie os fechamentos](#varie-os-fechamentos). Em stories, organize o texto ou a fala por quadro. A sequência de stories do dia é da skill [skave-stories-do-dia](../skave-stories-do-dia/SKILL.md), que fecha cada sequência com o convite dela; esta skill só trata de stories que entram no planejamento da semana, como a caixinha semanal. Quando o pedido incluir legenda, registre o texto completo e o mesmo objetivo de fechamento.
 
 ### Base e dependências
 

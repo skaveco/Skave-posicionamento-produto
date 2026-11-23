@@ -21,7 +21,7 @@ Em todas as etapas, o conteúdo deve desenvolver uma dor atendida pelo produto P
 - **Reels com Ritter falando:** roteiro completo take a take, numerado, com o que Ritter deve falar em cada trecho. Começar pelo gancho, desenvolver a dor e a orientação, e encerrar a última fala com a chamada para seguir. Texto de tela e indicações visuais entram quando ajudarem a gravação.
 - **Carrossel pessoal:** textos finais organizados por slides, do gancho ao desenvolvimento da dor e à orientação. O último slide termina com a chamada para seguir. Fotos reais de rotina, palco, escritório ou história podem apoiar o argumento quando disponíveis e pertinentes.
 - **Análise de caso:** carrossel ou reels sobre um fato verificável de marca, empresa ou tecnologia; explicar o que aconteceu, que movimento faria e por quê.
-- **Stories:** textos ou falas organizados por quadro, conectando a rotina e as perguntas a uma dor do produto. O último quadro da sequência termina com a chamada para seguir.
+- **Stories:** textos ou falas organizados por quadro, conectando a rotina e as perguntas a uma dor do produto. Desde 23 de novembro de 2026, as pautas de stories voltam a pedido, como sequência do dia montada pelas 10 sequências e pelos 30 ganchos do RSL ([Criação de conteúdo/Stories](../Criação%20de%20conteúdo/Stories/)), pela skill `skave-stories-do-dia`. O último quadro termina com o convite da sequência (enquete, palavra-chave ou direct), não com a chamada para seguir.
 
 Análises de caso seguem a estrutura do formato escolhido. Legendas, quando produzidas, também terminam com uma chamada para seguir o perfil. O roteiro deve conter as falas e os textos efetivos, sem instruções vagas como “explique a dor” no lugar do conteúdo.
 

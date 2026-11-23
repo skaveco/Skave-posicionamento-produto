@@ -17,6 +17,7 @@ Documentação da Skave (posicionamento, produto, vendas) e operação de conte�
     - `Modelos de posts/`: exemplos de referência por formato (hoje, `Tweet.md`, `Reels.md` e `Carrossel.md`). Servem para calibrar tamanho e tom; não são textos para publicar nem copiar.
     - `Linguagem-do-Ritter.md`: jeito real de o Ritter falar, atualizado a cada correção dele. Lido antes de escrever qualquer copy; os vícios de linguagem proibidos estão na skill `skave-ideias-ritter`.
     - `Conteúdos de posts/<NN · Mês, ano>/<intervalo da semana>/<dia · Formato · título>/conteudo.md` (+ `arte/`): fonte oficial de cada post.
+    - `Stories/`: base de stories do RSL (`Sequencias-de-stories.md`, com as 10 sequências de venda, e `Ganchos-para-stories.md`, com os 30 ganchos), os PDFs originais e o `Registro-de-stories.md` (sugestões, postagens e métricas). Usada pela skill `skave-stories-do-dia`.
     - `Materiais de captação/`: materiais enviados por palavra-chave no direct (hoje, o teste de posicionamento da palavra FRASE).
     - `Ensaio Fotogáfico Ritter/_catalogo.md`: fotos reais do Ritter, originais em PNG. Nunca comprimir nem converter para JPEG.
 - `.claude/skills/`: skills do fluxo de conteúdo, carregadas automaticamente.
@@ -25,7 +26,8 @@ Documentação da Skave (posicionamento, produto, vendas) e operação de conte�
 
 1. **Ideias e textos:** skill `skave-ideias-ritter`. Grava `conteudo.md` com `status: rascunho` e muda para `aprovado` quando o texto é aprovado.
 2. **Arte:** `skave-producao-claude-design` (principal) ou `skave-producao-figma` (alternativa). O template é escolhido pela skill; só o modo de cor (claro ou escuro) é perguntado.
-3. **Calendário:** cada mudança de status é sincronizada no banco `posts` do calendário.
+3. **Stories do dia:** skill `skave-stories-do-dia`. A cada pedido, sugere a sequência do dia quadro a quadro e registra em `Stories/Registro-de-stories.md`; só grava pasta de post se o texto for aprovado.
+4. **Calendário:** cada mudança de status é sincronizada no banco `posts` do calendário.
 
 Status: `rascunho` → `aprovado` → `em produção` → `arte pronta` → `publicado`. Post cuja data já passou conta como publicado (decisão de 16 de Novembro, 2026): o script de sincronização do calendário marca sozinho, no `conteudo.md`, no `_semana.md` e no `_calendario.md`.
 

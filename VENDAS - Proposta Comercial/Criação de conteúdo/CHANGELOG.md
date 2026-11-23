@@ -2,6 +2,13 @@
 
 Registro simples das mudanças nas regras de conteúdo. A mais recente fica em cima. As regras completas estão na skill `skave-ideias-ritter`; os exemplos, em `Modelos de posts/`.
 
+## 23 de Novembro, 2026 · Stories do dia com o RSL
+
+- Os dois bônus do RSL (Rota Stories Lotado) entraram na base: "30 ganchos para abrir seus Stories" e "10 sequências validadas de Stories para vender", transcritos em `Stories/` com os PDFs originais.
+- Stories voltam a ter pauta: a pedido, a skill `skave-stories-do-dia` traz uma sequência completa para o dia (fala, o que mostrar e figurinha por story), seguindo o plano da semana do RSL ajustado à Skave, e anota em `Stories/Registro-de-stories.md`.
+- Nos stories, o último quadro fecha com o convite da sequência (enquete, palavra-chave, direct); o convite para seguir deixa de ser obrigatório ali.
+- Convites só com o que existe: FRASE e a oferta de Clientes Fundadores, com o número real de vagas. Preço não aparece em story.
+
 ## 23 de Novembro, 2026 · Fotos naturais primeiro
 
 - Catálogo do ensaio ganhou a seção "Eventos e palestras", com 22 fotos novas da pasta "fotos" do Drive de Ritter: duas palestras (BNI e "A guerra do valor percebido"), um frame de palestra com o colete Skave e um retrato novo de estúdio. Originais em JPEG, sem conversão.

@@ -77,7 +77,7 @@ São três portas: quem responde ao anúncio das vagas, quem começou a seguir e
 
 ### 2.1 Anúncio das vagas (stories)
 
-**Atenção:** as pautas de stories estão suspensas por decisão do Ritter (12 de novembro de 2026, [documento 11](Estratégia%20de%20marca%20pessoal%20e%20conteúdo%20-%20Ritter/11-distribuicao-formatos-e-rotina.md)). Esta sequência só vai ao ar se ele liberar. Sem stories, o anúncio pode virar a legenda de um post de fundo de funil, com o mesmo convite para mandar mensagem.
+**Atualização de 23 de novembro de 2026:** as pautas de stories voltaram, a pedido, pela skill `skave-stories-do-dia` ([documento 11](Estratégia%20de%20marca%20pessoal%20e%20conteúdo%20-%20Ritter/11-distribuicao-formatos-e-rotina.md)). Este anúncio é a base da Sequência 10 (Convite Direto pela DM) nas quartas, enquanto houver vagas de fundador.
 
 | Quadro | Texto |
 | --- | --- |
