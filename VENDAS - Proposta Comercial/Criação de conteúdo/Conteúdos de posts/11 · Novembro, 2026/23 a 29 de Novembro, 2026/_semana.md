@@ -17,11 +17,19 @@ Tema da semana a partir de 24 de Novembro: **SaaS B2B não deveria competir por 
 | 26 de Novembro | 2º | Reels · Falado | [Cliente que entra pelo desconto sai pelo desconto](<26 de Novembro · Reels · Cliente que entra pelo desconto sai pelo desconto/conteudo.md>) | Topo | Vida de fundador de SaaS | rascunho |
 | 26 de Novembro | 3º | Carrossel · Lista | [O caminho do desconto até o cancelamento, em 5 passos](<26 de Novembro · Carrossel · O caminho do desconto até o cancelamento, em 5 passos/conteudo.md>) | Topo | Marca que vende | rascunho |
 | 27 de Novembro | 1º | Reels · Falado | [O seu vendedor não perde pro preço](<27 de Novembro · Reels · O seu vendedor não perde pro preço/conteudo.md>) | Topo | Vida de fundador de SaaS | rascunho |
-| 27 de Novembro | 2º | Carrossel · Texto | [Coloca o logo do seu concorrente na sua home](<27 de Novembro · Carrossel · Coloca o logo do seu concorrente na sua home/conteudo.md>) | Topo | Marca que vende | rascunho |
+| 27 de Novembro | 2º | Carrossel · Texto | [A Black Friday pode trazer o cliente que vai cancelar primeiro no seu SaaS](<27 de Novembro · Carrossel · A Black Friday pode trazer o cliente que vai cancelar primeiro/conteudo.md>) | Topo | Marca que vende | rascunho |
 | 27 de Novembro | 3º | Tweet | [Seu time pode decorar todas as respostas pra objeção de preço](<27 de Novembro · Tweet · Seu time pode decorar todas as respostas pra objeção de preço/conteudo.md>) | Topo | Vida de fundador de SaaS | rascunho |
-| 28 de Novembro | 1º | Carrossel · Lista | [Como achar a frase que o seu parceiro precisa pra te indicar, em 3 passos](<28 de Novembro · Carrossel · Como achar a frase que o seu parceiro precisa pra te indicar, em 3/conteudo.md>) | Topo | Networking e parcerias | rascunho |
+| 28 de Novembro | 1º | Carrossel · Lista | [3 jeitos de apresentar o seu SaaS em 30 segundos num evento, sem listar funcionalidade](<28 de Novembro · Carrossel · 3 jeitos de apresentar o seu SaaS em 30 segundos num evento, sem/conteudo.md>) | Topo | Networking e parcerias | rascunho |
 | 28 de Novembro | 2º | Tweet | [Quando o cliente diz tá caro](<28 de Novembro · Tweet · Quando o cliente diz tá caro/conteudo.md>) | Topo | Marca que vende | rascunho |
 | 28 de Novembro | 3º | Reels · Falado | [Teste de posicionamento em 3 perguntas, de graça](<28 de Novembro · Reels · Teste de posicionamento em 3 perguntas, de graça/conteudo.md>) | Fundo | Marca que vende | rascunho |
 | 29 de Novembro | 1º | Tweet | [Domingo é dia de pensar numa pergunta só](<29 de Novembro · Tweet · Domingo é dia de pensar numa pergunta só/conteudo.md>) | Topo | Vida de fundador de SaaS | rascunho |
 | 29 de Novembro | 2º | Reels · Falado | [Ninguém indica o segundo SaaS mais barato do mercado](<29 de Novembro · Reels · Ninguém indica o segundo SaaS mais barato do mercado/conteudo.md>) | Topo | Marca que vende | rascunho |
 | 29 de Novembro | 3º | Carrossel · Texto | [A semana toda sobre preço, em 3 ideias](<29 de Novembro · Carrossel · A semana toda sobre preço, em 3 ideias/conteudo.md>) | Fundo | Marca que vende | rascunho |
+
+## Stories
+
+| Data | Publicação | Status |
+| --- | --- | --- |
+| 24 e 25 de Novembro | [Caixinha de perguntas sobre preço, desconto e diferenciação](<24 de Novembro · Stories · Caixinha de perguntas sobre preço, desconto e diferenciação/conteudo.md>) | rascunho |
+
+Perguntas da caixinha: Ritter envia na quinta, 26 de Novembro. Se houver perguntas boas, o domingo vira dia de respostas.

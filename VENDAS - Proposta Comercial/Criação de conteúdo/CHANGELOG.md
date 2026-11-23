@@ -2,6 +2,11 @@
 
 Registro simples das mudanças nas regras de conteúdo. A mais recente fica em cima. As regras completas estão na skill `skave-ideias-ritter`; os exemplos, em `Modelos de posts/`.
 
+## 23 de Novembro, 2026 · Caixinha de perguntas semanal
+
+- Toda semana, caixinha de perguntas nos stories com o tema da semana (exceção à suspensão das pautas de stories). Perguntas enviadas na quinta; as boas viram Reels falados com a pergunta na tela, e o domingo vira dia de respostas quando houver material. Primeira: 24 de Novembro.
+- Carrosséis de 27 e 28 de Novembro trocados por repetirem conteúdo já feito (teste do logo e frases do parceiro).
+
 ## 23 de Novembro, 2026 · Mecanismos da análise da @carol.iasmim
 
 - **Referência:** análise registrada no documento 17 da estratégia.

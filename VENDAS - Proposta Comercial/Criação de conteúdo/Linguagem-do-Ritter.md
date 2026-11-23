@@ -2,7 +2,7 @@
 
 Registro vivo do jeito de Mateus Ritter falar e escrever. A skill [skave-ideias-ritter](../../.claude/skills/skave-ideias-ritter/SKILL.md) lê este arquivo antes de cada geração ou revisão e o atualiza sempre que Ritter corrige uma frase no chat ou edita um `conteudo.md` diretamente.
 
-**Último registro:** 16 de Novembro, 2026
+**Último registro:** 23 de Novembro, 2026
 
 Registre padrões, não só frases soltas. O objetivo é que o texto soe como o Ritter, e não como uma copy genérica com expressões dele espalhadas.
 
@@ -40,6 +40,7 @@ Registre padrões, não só frases soltas. O objetivo é que o texto soe como o 
 | 16 de Novembro, 2026 | Edição no canvas, posts de 17 a 22 de Novembro | “o líder da categoria”, “No quartel” | “a referência da sua categoria”, “No exército” | Usa a palavra mais comum para o público: “referência” em vez de “líder”, “exército” em vez de “quartel”. |
 | 16 de Novembro, 2026 | Edição no canvas, posts de 17 a 22 de Novembro | Capas com número e subtítulo (“4 sinais de que…” + subtítulo; carrosséis de 16, 17 e 19) | Capas só com o título; no dia 17, sem o número | A observar: em três capas ele tirou o subtítulo, e numa delas também o número. Pode preferir capa limpa, só com o gancho. Ainda não vira regra. |
 | 16 de Novembro, 2026 | Pedido no chat, capa do carrossel de 18 de Novembro | “Pede pro seu sócio, pro seu vendedor e pro seu melhor cliente explicarem a sua empresa. Depois compara as respostas.” + “É assim que começa um diagnóstico de marca, e dá pra fazer uma versão hoje.” | “Pede pro seu sócio, seu vendedor e seu cliente explicarem a sua empresa.” + “Depois compara as respostas.” | Pediu capa mais curta. Junto com as capas sem subtítulo, reforça: título enxuto, e o que explica fica para os slides seguintes. |
+| 23 de Novembro, 2026 | Revisão de pauta no chat, carrossel de 27 de Novembro (Black Friday) | Pauta “Black Friday no seu SaaS ensina o cliente a esperar desconto” | “Seguir um caminho de alertar o dono de SaaS sobre os perigos da Black, mas não descartar a ideia de ter ofertas.” | Ao criticar uma prática comercial (desconto, promoção), ele não condena a prática inteira: aponta o perigo e mostra como fazer do jeito certo. O tom é de alerta de parceiro, não de sermão. |
 
 ## O que ele não fala
 

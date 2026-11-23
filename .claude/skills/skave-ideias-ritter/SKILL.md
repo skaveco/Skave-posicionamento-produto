@@ -230,6 +230,7 @@ Decisão de Ritter a partir da análise da @carol.iasmim ([documento 17](../../.
 - **Tema da semana:** os posts giram em torno de uma ideia de identidade só (primeira semana: SaaS B2B não deveria competir por preço), e o Reels do dia pode se desdobrar no carrossel ou no Tweet do mesmo dia.
 - **Reels falados em selfie, um por dia**, com a frase-gancho escrita grande na tela nos 2 primeiros segundos (indicar o texto em `## Notas de produção`), gravados em bloco numa sessão de cerca de 1 hora. Reels de frase entram como complemento, de preferência com trecho real de palestra, áudio em alta e texto por cima. A divisão meio a meio entre os dois tipos deixa de valer.
 - A grade continua com três posts por dia e a regra de ordem no dia.
+- **Caixinha de perguntas semanal:** ao planejar a semana, inclua o stories da caixinha (pasta `<dia> · Stories · Caixinha…`, sem `ordem`), com a pergunta ligada ao tema da semana e um lembrete no dia seguinte. Quando Ritter enviar as perguntas (na quinta), escolha as relevantes para dono de SaaS e escreva as respostas como Reels falados, com a pergunta na tela no primeiro take; se houver perguntas boas, elas ocupam o domingo. Nunca invente pergunta nem atribua a um seguidor uma pergunta que não chegou.
 
 ### Varie os fechamentos
 
