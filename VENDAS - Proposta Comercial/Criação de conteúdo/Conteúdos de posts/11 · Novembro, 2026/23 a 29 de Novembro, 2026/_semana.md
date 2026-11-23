@@ -24,7 +24,7 @@ Tema da semana a partir de 24 de Novembro: **SaaS B2B não deveria competir por 
 | 28 de Novembro | 3º | Reels · Falado | [Teste de posicionamento em 3 perguntas, de graça](<28 de Novembro · Reels · Teste de posicionamento em 3 perguntas, de graça/conteudo.md>) | Fundo | Marca que vende | aprovado |
 | 29 de Novembro | 1º | Tweet | [Domingo é dia de pensar numa pergunta só](<29 de Novembro · Tweet · Domingo é dia de pensar numa pergunta só/conteudo.md>) | Topo | Vida de fundador de SaaS | em produção |
 | 29 de Novembro | 2º | Reels · Falado | [Ninguém indica o segundo SaaS mais barato do mercado](<29 de Novembro · Reels · Ninguém indica o segundo SaaS mais barato do mercado/conteudo.md>) | Topo | Marca que vende | aprovado |
-| 29 de Novembro | 3º | Carrossel · Texto | [A semana toda sobre preço, em 3 ideias](<29 de Novembro · Carrossel · A semana toda sobre preço, em 3 ideias/conteudo.md>) | Fundo | Marca que vende | em produção |
+| 29 de Novembro | 3º | Carrossel · Texto | [Como saber se o seu SaaS parou de competir por preço](<29 de Novembro · Carrossel · Como saber se o seu SaaS parou de competir por preço/conteudo.md>) | Fundo | Marca que vende | rascunho |
 
 ## Stories
 
