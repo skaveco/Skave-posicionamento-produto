@@ -7,11 +7,11 @@ funil: Fundo
 pilar: Marca que vende
 dor: O comprador compara preço porque não percebe a diferença; receio de investir em marca sem saber avaliar o retorno (documento 04, dores práticas e emocionais)
 ordem: 3
-status: rascunho
-producao:
-template:
-modo_cor:
-link_arte:
+status: em produção
+producao: Claude Design
+template: Tweet com foto (slides 1 e 5) + Tweet textual (slides 2 a 4)
+modo_cor: Claro
+link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw#page-s23-29
 ---
 
 ## Texto publicável
