@@ -6,7 +6,8 @@ Registro simples das mudanças nas regras de conteúdo. A mais recente fica em c
 
 - Ritter não quer mais o modelo de carrossel de texto (Capa, Conteúdo, Fechamento, com ícones, ilustrações e diagramas). Os carrosséis passam a usar o modelo Tweet: capa no Tweet com foto (foto do catálogo do ensaio) e os demais slides no Tweet textual.
 - O modo de cor continua alternando entre os dias; o último slide segue o modo do carrossel.
-- `## Visual` dos carrosséis passa a registrar só a foto da capa. Os carrosséis de 25 a 29 de Novembro foram refeitos no canvas.
+- `## Visual` dos carrosséis passa a registrar as fotos. Os carrosséis de 25 a 29 de Novembro foram refeitos no canvas.
+- Ajuste no mesmo dia, depois de Ritter achar ruins a seleção e os ângulos: foto também no último slide (capa provoca, fechamento convida), dez fotos diferentes na semana, foto de estúdio inteira na altura sobre o fundo do estúdio com bordas esfumadas (sem cortar a cabeça nem ampliar demais o rosto), área da foto ocupando todo o espaço abaixo do texto, e texto maior (48 px) nos slides só de texto.
 
 ## 23 de Novembro, 2026 · Caixinha de perguntas semanal
 

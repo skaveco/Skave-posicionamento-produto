@@ -34,3 +34,8 @@
 | `ritter_estudio-claro_blazer-verde_maos-enquadrando.png` (original) | `/_blob/698b3af39ed0329e3c0dda98bf504210` |
 | `ritter_palestra_camisa-branca_microfone-perfil.png` (cópia de `claude-design/`) | `/_blob/c12e083dd4f7e38053f30993590ac31f` |
 | `ritter_estudio-claro_colete-skave_sentado.png` | reaproveitada: `/_blob/fc75bbd993e697261e6824a52df388ea` |
+| `ritter_estudio-claro_jaqueta-couro_apontando-sorrindo.png` (original) | `/_blob/329a10d32b3bb8628417d5fe02baad85` |
+| `ritter_estudio-escuro_blazer-verde_sorrindo-perfil.png` (original) | `/_blob/88b9cdb8afc68e92e80639426a41006c` |
+| `ritter_estudio-escuro_jaqueta-couro_mao-no-rosto-close.png` (cópia de `claude-design/`) | `/_blob/e66bbb0a2f56f2c66579e876fbba0daa` |
+| `ritter_restaurante_blazer-verde-gola-alta_sorrindo-lado.png` (cópia de `claude-design/`) | `/_blob/24a6ae5e26d01e1f3b14b3c46917172f` |
+| `ritter_estudio-escuro_polo-branca_bracos-cruzados.png` | reaproveitada: `/_blob/551ca91587ed44116bbff1db2f08e0d9` |

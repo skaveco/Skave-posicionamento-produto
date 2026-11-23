@@ -9,7 +9,7 @@ dor: O comprador compara preço porque não percebe a diferença relevante; dese
 ordem: 2
 status: em produção
 producao: Claude Design
-template: Tweet com foto (capa) + Tweet textual (slides 2 a 5)
+template: Tweet com foto (slides 1 e 5) + Tweet textual (slides 2 a 4)
 modo_cor: Claro
 link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw#page-s23-29
 ---
@@ -40,8 +40,9 @@ Em vez de só cortar o preço, acrescenta o que mostra a sua diferença: implant
 
 ## Visual
 
-- Slide 1: foto ritter_estudio-claro_blazer-verde_maos-enquadrando.png (Tweet com foto)
-- Slides 2 a 5: Tweet textual, sem elemento visual
+- Slide 1: foto ritter_estudio-escuro_jaqueta-couro_mao-no-rosto-close.png (Tweet com foto)
+- Slides 2 a 4: Tweet textual, sem elemento visual
+- Slide 5: foto ritter_estudio-claro_blazer-verde_maos-enquadrando.png (Tweet com foto)
 
 ## Legenda
 

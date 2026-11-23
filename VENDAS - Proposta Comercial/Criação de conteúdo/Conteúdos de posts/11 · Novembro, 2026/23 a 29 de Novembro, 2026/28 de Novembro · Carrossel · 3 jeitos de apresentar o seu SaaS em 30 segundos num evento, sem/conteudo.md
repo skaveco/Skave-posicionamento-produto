@@ -9,7 +9,7 @@ dor: É difícil explicar o valor do software em poucas palavras (documento 04, 
 ordem: 1
 status: em produção
 producao: Claude Design
-template: Tweet com foto (capa) + Tweet textual (slides 2 a 5)
+template: Tweet com foto (slides 1 e 5) + Tweet textual (slides 2 a 4)
 modo_cor: Escuro
 link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw#page-s23-29
 ---
@@ -43,7 +43,8 @@ O que você faz que o concorrente não faria do mesmo jeito. É essa frase que a
 ## Visual
 
 - Slide 1: foto ritter_palestra_camisa-branca_microfone-perfil.png (Tweet com foto)
-- Slides 2 a 5: Tweet textual, sem elemento visual
+- Slides 2 a 4: Tweet textual, sem elemento visual
+- Slide 5: foto ritter_restaurante_blazer-verde-gola-alta_sorrindo-lado.png (Tweet com foto)
 
 ## Legenda
 
