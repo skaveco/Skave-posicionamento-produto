@@ -1,0 +1,234 @@
+<title>Teste de Posicionamento</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&family=Courier+Prime:wght@400;700&display=swap">
+<style>
+/* Layout: uma coluna estreita, como uma conversa; três perguntas em cartões, placar fixo que vira resultado no fim. */
+:root {
+  --bg: #F8F8F6;
+  --surface: #F3F3E7;
+  --soft: #E4E4D2;
+  --fg: #252F25;
+  --muted: #667266;
+  --line: #D7D7C9;
+  --accent: #2F3B2F;
+  --on-accent: #F8F8F6;
+  --ok: #3F6B45;
+  --warn: #8A5A1F;
+  --font-body: 'Instrument Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono: 'Courier Prime', ui-monospace, 'Courier New', monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #1E261E; --surface: #252F25; --soft: #3A4A3A; --fg: #F8F8F6; --muted: #ABB9AB;
+    --line: #445644; --accent: #E4E4D2; --on-accent: #1E261E; --ok: #9CC7A2; --warn: #E2B06B;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #1E261E; --surface: #252F25; --soft: #3A4A3A; --fg: #F8F8F6; --muted: #ABB9AB;
+  --line: #445644; --accent: #E4E4D2; --on-accent: #1E261E; --ok: #9CC7A2; --warn: #E2B06B;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--fg); font-family: var(--font-body); font-size: 17px; line-height: 1.55;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 40px 72px;
+}
+.wrap { max-width: 680px; margin: 0 auto; display: flex; flex-direction: column; gap: 40px; }
+.label { font-family: var(--font-mono); font-weight: 700; font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+header { display: flex; flex-direction: column; gap: 18px; }
+.who { display: flex; align-items: center; gap: 12px; }
+.who-mark { width: 44px; height: 44px; border-radius: 50%; background: var(--accent); color: var(--on-accent); display: grid; place-items: center; font-weight: 600; font-size: 16px; flex: none; }
+.who-name { font-weight: 600; }
+.who-role { color: var(--muted); font-size: 15px; }
+h1 { margin: 0; font-size: clamp(32px, 7vw, 48px); line-height: 1.08; letter-spacing: -0.03em; font-weight: 500; text-wrap: balance; }
+.lead { margin: 0; color: var(--muted); max-width: 60ch; }
+.how { margin: 0; padding: 0; list-style: none; display: flex; gap: 8px; flex-wrap: wrap; }
+.how li { font-family: var(--font-mono); font-size: 14px; background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px; }
+
+.q { background: var(--surface); border: 1px solid var(--line); border-radius: 20px; padding: 24px; display: flex; flex-direction: column; gap: 16px; }
+.q-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.q h2 { margin: 0; font-size: 24px; font-weight: 600; letter-spacing: -0.01em; }
+.q-task { margin: 0; max-width: 60ch; }
+.q-tip { margin: 0; color: var(--muted); font-size: 15px; }
+fieldset { border: 0; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+legend { padding: 0; margin-bottom: 4px; }
+.opt { display: grid; grid-template-columns: 22px minmax(0, 1fr) auto; gap: 12px; align-items: start; background: var(--bg); border: 1.5px solid var(--line); border-radius: 14px; padding: 14px 16px; cursor: pointer; transition: border-color .15s, background .15s; }
+.opt:hover { border-color: var(--muted); }
+.opt input { margin: 3px 0 0; width: 18px; height: 18px; accent-color: var(--accent); }
+.opt:has(input:checked) { border-color: var(--fg); background: var(--soft); }
+.opt:has(input:focus-visible) { outline: 3px solid var(--muted); outline-offset: 2px; }
+.pts { font-family: var(--font-mono); font-size: 13px; color: var(--muted); white-space: nowrap; padding-top: 2px; }
+
+.score { position: sticky; bottom: max(12px, env(safe-area-inset-bottom, 0px)); align-self: center; background: var(--accent); color: var(--on-accent); border-radius: 999px; padding: 10px 18px; font-family: var(--font-mono); font-size: 14px; font-variant-numeric: tabular-nums; box-shadow: 0 6px 20px rgba(0,0,0,.18); }
+
+.result { border: 1.5px solid var(--fg); border-radius: 20px; padding: 28px 24px; display: flex; flex-direction: column; gap: 16px; }
+.result h2 { margin: 0; font-size: clamp(26px, 5vw, 34px); line-height: 1.12; letter-spacing: -0.02em; font-weight: 500; text-wrap: balance; }
+.result p { margin: 0; max-width: 60ch; }
+.big { font-family: var(--font-mono); font-weight: 700; font-size: 15px; color: var(--muted); }
+.todo { display: flex; flex-direction: column; gap: 12px; margin: 0; padding: 0; list-style: none; }
+.todo li { border-top: 1px solid var(--line); padding-top: 12px; display: flex; flex-direction: column; gap: 4px; }
+.todo li.hit .tag { color: var(--warn); }
+.todo li.ok .tag { color: var(--ok); }
+.tag { font-family: var(--font-mono); font-weight: 700; font-size: 13px; letter-spacing: 0.06em; text-transform: uppercase; }
+.pending { color: var(--muted); }
+
+.cta { background: var(--accent); color: var(--on-accent); border-radius: 20px; padding: 28px 24px; display: flex; flex-direction: column; gap: 14px; }
+.cta h2 { margin: 0; font-size: 26px; font-weight: 500; letter-spacing: -0.02em; text-wrap: balance; }
+.cta p { margin: 0; max-width: 60ch; }
+.cta-row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+.btn { font: inherit; font-weight: 600; font-size: 16px; border-radius: 999px; padding: 12px 20px; border: 1.5px solid var(--on-accent); cursor: pointer; text-decoration: none; display: inline-flex; align-items: center; gap: 8px; }
+.btn-solid { background: var(--on-accent); color: var(--accent); }
+.btn-ghost { background: transparent; color: var(--on-accent); }
+.btn:focus-visible { outline: 3px solid var(--muted); outline-offset: 3px; }
+.handle { font-family: var(--font-mono); font-weight: 700; user-select: all; }
+.reset { align-self: flex-start; font: inherit; font-size: 15px; background: none; border: 0; color: var(--muted); text-decoration: underline; cursor: pointer; padding: 4px 0; }
+footer { color: var(--muted); font-size: 14px; border-top: 1px solid var(--line); padding-top: 16px; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="who">
+      <div class="who-mark" aria-hidden="true">MR</div>
+      <div>
+        <div class="who-name">Mateus Ritter</div>
+        <div class="who-role">Posicionamento para SaaS B2B</div>
+      </div>
+    </div>
+    <span class="label">Teste de posicionamento</span>
+    <h1>O seu SaaS tá competindo por preço?</h1>
+    <p class="lead">Três perguntas pra você responder com honestidade, sozinho ou com o seu sócio. Marque a opção mais perto da sua realidade. O resultado aparece no fim, com o que fazer em cada caso.</p>
+    <ul class="how" aria-label="Como funciona">
+      <li>3 perguntas</li>
+      <li>cerca de 5 minutos</li>
+      <li>0 a 3 pontos</li>
+    </ul>
+  </header>
+
+  <form id="teste" class="wrap" style="gap: 24px" novalidate>
+    <section class="q" aria-labelledby="q1-t">
+      <div class="q-head"><h2 id="q1-t">A frase</h2><span class="label">Pergunta 1 de 3</span></div>
+      <p class="q-task">Explique o que o seu SaaS faz e pra quem, em uma frase só, sem usar a palavra "e". Escreva num papel antes de marcar.</p>
+      <fieldset>
+        <legend class="label">A sua frase…</legend>
+        <label class="opt" for="q1a"><input type="radio" id="q1a" name="q1" value="0"><span>Diz um tipo de cliente e um problema específico.</span><span class="pts">0 ponto</span></label>
+        <label class="opt" for="q1b"><input type="radio" id="q1b" name="q1" value="1"><span>Serve pra qualquer empresa ("gestão completa", "tudo em um só lugar").</span><span class="pts">1 ponto</span></label>
+        <label class="opt" for="q1c"><input type="radio" id="q1c" name="q1" value="1"><span>Virou uma lista de funcionalidades.</span><span class="pts">1 ponto</span></label>
+      </fieldset>
+    </section>
+
+    <section class="q" aria-labelledby="q2-t">
+      <div class="q-head"><h2 id="q2-t">Os clientes</h2><span class="label">Pergunta 2 de 3</span></div>
+      <p class="q-task">Peça pra três clientes recentes responderem por mensagem: "Por que você escolheu a gente, e não outra opção?"</p>
+      <p class="q-tip">Se ainda não perguntou, marque pelo que você imagina e refaça o teste quando as respostas chegarem.</p>
+      <fieldset>
+        <legend class="label">As respostas…</legend>
+        <label class="opt" for="q2a"><input type="radio" id="q2a" name="q2" value="0"><span>Falam da mesma coisa, e essa coisa tá no seu site.</span><span class="pts">0 ponto</span></label>
+        <label class="opt" for="q2b"><input type="radio" id="q2b" name="q2" value="1"><span>Falam da mesma coisa, mas ela não aparece no seu site.</span><span class="pts">1 ponto</span></label>
+        <label class="opt" for="q2c"><input type="radio" id="q2c" name="q2" value="1"><span>Cada cliente disse uma coisa diferente, ou falou de preço.</span><span class="pts">1 ponto</span></label>
+      </fieldset>
+    </section>
+
+    <section class="q" aria-labelledby="q3-t">
+      <div class="q-head"><h2 id="q3-t">O logo</h2><span class="label">Pergunta 3 de 3</span></div>
+      <p class="q-task">Abra a sua home, imagine o logo do seu principal concorrente no lugar do seu e leia o topo da página: título, subtítulo e botão.</p>
+      <p class="q-tip">Essa é a que mais incomoda, porque mostra o que quem chega no seu site leva embora.</p>
+      <fieldset>
+        <legend class="label">Com o logo dele…</legend>
+        <label class="opt" for="q3a"><input type="radio" id="q3a" name="q3" value="0"><span>O texto deixa de fazer sentido.</span><span class="pts">0 ponto</span></label>
+        <label class="opt" for="q3b"><input type="radio" id="q3b" name="q3" value="1"><span>O texto continua fazendo sentido.</span><span class="pts">1 ponto</span></label>
+      </fieldset>
+    </section>
+
+    <div class="score" id="score" aria-live="polite">0 de 3 respondidas</div>
+  </form>
+
+  <section class="result" id="resultado" aria-live="polite">
+    <span class="label">O seu resultado</span>
+    <div id="res-body">
+      <h2 class="pending">Responda as três perguntas pra ver o resultado.</h2>
+    </div>
+    <ul class="todo" id="todo" aria-label="O que fazer com cada resposta">
+      <li data-q="q1"><span class="tag">Pergunta 1 · A frase</span><span>Escolha o problema que você resolve melhor do que todo mundo e coloque ele na frente. O resto do produto continua lá, só que vem depois.</span></li>
+      <li data-q="q2"><span class="tag">Pergunta 2 · Os clientes</span><span>A resposta que mais se repete entre os clientes é a sua melhor pista. Se ela não tá no site, comece por ela.</span></li>
+      <li data-q="q3"><span class="tag">Pergunta 3 · O logo</span><span>Reescreva a primeira frase da home até ela deixar de servir pro concorrente.</span></li>
+    </ul>
+    <button type="button" class="reset" id="reset">Refazer o teste</button>
+  </section>
+
+  <section class="cta" aria-labelledby="cta-t">
+    <h2 id="cta-t">Me conta o seu resultado</h2>
+    <p>Responde a mensagem do direct com a sua pontuação que eu te digo por onde eu começaria no seu caso.</p>
+    <p>E me segue no Instagram: toda semana eu mostro como sair da briga por preço.</p>
+    <div class="cta-row">
+      <a class="btn btn-solid" href="https://www.instagram.com/mateusritter/" target="_blank" rel="noopener">Abrir o @mateusritter</a>
+      <button type="button" class="btn btn-ghost" id="copy">Copiar @mateusritter</button>
+    </div>
+    <p class="handle" aria-label="Perfil no Instagram">@mateusritter</p>
+  </section>
+
+  <footer>Mateus Ritter · Skave · Posicionamento de Marca para SaaS B2B</footer>
+</div>
+
+<script>
+(function () {
+  var form = document.getElementById('teste');
+  var scoreEl = document.getElementById('score');
+  var body = document.getElementById('res-body');
+  var items = document.querySelectorAll('#todo li');
+  var names = ['q1', 'q2', 'q3'];
+
+  var results = {
+    0: { h: 'A sua diferença tá clara e chega no cliente.', p: 'Agora o trabalho é manter a mesma mensagem no site, na proposta e na fala do time.' },
+    1: { h: 'Tem uma diferença real, mas ela se perde em algum lugar.', p: 'Olhe a pergunta em que você pontuou: é ali que o cliente para de enxergar o que só você faz.' },
+    2: { h: 'O seu cliente provavelmente tá comparando você pelo preço.', p: 'Ele compara a lista de funcionalidades e o número, porque é o que ficou claro pra ele. Isso costuma aparecer como pedido de desconto, venda perdida "no preço" e vendedor explicando demais. Esse é um problema de posicionamento, e é isso que eu resolvo com donos de SaaS na Skave.' }
+  };
+
+  function update() {
+    var answered = 0, total = 0;
+    names.forEach(function (n) {
+      var c = form.querySelector('input[name="' + n + '"]:checked');
+      var li = document.querySelector('#todo li[data-q="' + n + '"]');
+      li.classList.remove('hit', 'ok');
+      if (c) {
+        answered++; total += Number(c.value);
+        li.classList.add(c.value === '1' ? 'hit' : 'ok');
+      }
+    });
+    scoreEl.textContent = answered < 3 ? answered + ' de 3 respondidas' : total + (total === 1 ? ' ponto' : ' pontos') + ' de 3';
+    if (answered < 3) {
+      body.innerHTML = '<h2 class="pending">Responda as três perguntas pra ver o resultado.</h2>';
+      return;
+    }
+    var r = results[Math.min(total, 2)];
+    body.innerHTML = '';
+    var big = document.createElement('p'); big.className = 'big'; big.textContent = total + (total === 1 ? ' ponto' : ' pontos') + ' de 3';
+    var h = document.createElement('h2'); h.textContent = r.h;
+    var p = document.createElement('p'); p.textContent = r.p;
+    body.append(big, h, p);
+  }
+
+  form.addEventListener('change', update);
+  form.addEventListener('submit', function (e) { e.preventDefault(); });
+  document.getElementById('reset').addEventListener('click', function () {
+    form.reset(); update();
+    window.scrollTo({ top: 0, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+  });
+  document.getElementById('copy').addEventListener('click', function () {
+    var btn = this;
+    function done(t) { btn.textContent = t; setTimeout(function () { btn.textContent = 'Copiar @mateusritter'; }, 2000); }
+    try {
+      navigator.clipboard.writeText('@mateusritter').then(function () { done('Copiado'); }, function () { selectHandle(); done('Selecionado: copie manualmente'); });
+    } catch (e) { selectHandle(); done('Selecionado: copie manualmente'); }
+  });
+  function selectHandle() {
+    var el = document.querySelector('.handle'); var r = document.createRange(); r.selectNodeContents(el);
+    var s = window.getSelection(); s.removeAllRanges(); s.addRange(r);
+  }
+  update();
+})();
+</script>

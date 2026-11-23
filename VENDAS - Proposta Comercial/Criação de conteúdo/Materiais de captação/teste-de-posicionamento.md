@@ -2,13 +2,18 @@
 
 Material enviado por DM a quem comenta **FRASE** nos posts do @mateusritter (decisão de 23 de Novembro, 2026, a partir da análise do documento 17). Primeiro uso: Reels de oferta de 28 de Novembro, 2026, e carrossel de resumo de 29 de Novembro, 2026.
 
-**Status:** rascunho, para Ritter aprovar. Depois de aprovado, vira PDF ou página (no brand kit) e o link entra na automação de DM.
+**Status:** página publicada em 23 de Novembro, 2026: https://claude.ai/artifact/3ApCK5YAYB13QdxCXQoBiv (fonte: `teste-de-posicionamento.html`, nesta pasta). Interativa: a pessoa marca as respostas, a pontuação e o resultado aparecem no fim, e as perguntas em que pontuou ficam destacadas no "o que fazer".
+
+**Antes de usar na automação:**
+1. Abrir o compartilhamento público da página (menu Share › qualquer pessoa com o link). Sem isso, quem recebe o link não consegue abrir.
+2. Colocar esse link na mensagem automática do direct, abaixo.
+3. Configurar a automação de DM para a palavra FRASE (por exemplo, no ManyChat).
 
 ---
 
 ## Mensagem automática do direct
 
-> Fala! Aqui tá o teste de posicionamento que eu prometi: [link]
+> Fala! Aqui tá o teste de posicionamento que eu prometi: https://claude.ai/artifact/3ApCK5YAYB13QdxCXQoBiv
 >
 > São três perguntas e leva uns cinco minutos. No fim tem o que fazer com cada resposta. Se quiser, me responde aqui com o resultado que eu te digo por onde eu começaria.
 
