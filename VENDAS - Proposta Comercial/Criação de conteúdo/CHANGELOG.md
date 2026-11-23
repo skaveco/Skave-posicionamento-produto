@@ -2,6 +2,12 @@
 
 Registro simples das mudanças nas regras de conteúdo. A mais recente fica em cima. As regras completas estão na skill `skave-ideias-ritter`; os exemplos, em `Modelos de posts/`.
 
+## 23 de Novembro, 2026 · Carrossel no modelo Tweet
+
+- Ritter não quer mais o modelo de carrossel de texto (Capa, Conteúdo, Fechamento, com ícones, ilustrações e diagramas). Os carrosséis passam a usar o modelo Tweet: capa no Tweet com foto (foto do catálogo do ensaio) e os demais slides no Tweet textual.
+- O modo de cor continua alternando entre os dias; o último slide segue o modo do carrossel.
+- `## Visual` dos carrosséis passa a registrar só a foto da capa. Os carrosséis de 25 a 29 de Novembro foram refeitos no canvas.
+
 ## 23 de Novembro, 2026 · Caixinha de perguntas semanal
 
 - Toda semana, caixinha de perguntas nos stories com o tema da semana (exceção à suspensão das pautas de stories). Perguntas enviadas na quinta; as boas viram Reels falados com a pergunta na tela, e o domingo vira dia de respostas quando houver material. Primeira: 24 de Novembro.

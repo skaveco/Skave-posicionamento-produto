@@ -9,8 +9,8 @@ dor: O comprador compara preço porque não percebe a diferença relevante; dese
 ordem: 2
 status: em produção
 producao: Claude Design
-template: Capa + Conteúdo com ilustração + Conteúdo com ícone + Conteúdo com ícone + Fechamento
-modo_cor: Claro (Fechamento escuro)
+template: Tweet com foto (capa) + Tweet textual (slides 2 a 5)
+modo_cor: Claro
 link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw#page-s23-29
 ---
 
@@ -40,11 +40,8 @@ Em vez de só cortar o preço, acrescenta o que mostra a sua diferença: implant
 
 ## Visual
 
-- Slide 1: nenhum
-- Slide 2: ilustração `preco`
-- Slide 3: ícone `mensagem`
-- Slide 4: ícone `certo`
-- Slide 5: nenhum
+- Slide 1: foto ritter_estudio-claro_blazer-verde_maos-enquadrando.png (Tweet com foto)
+- Slides 2 a 5: Tweet textual, sem elemento visual
 
 ## Legenda
 

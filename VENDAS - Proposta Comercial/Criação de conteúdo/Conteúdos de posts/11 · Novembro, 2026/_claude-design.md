@@ -24,3 +24,13 @@
 | 16 a 22 de Novembro, 2026 | `s16-22` |
 | 23 a 29 de Novembro, 2026 | `s23-29` |
 | Avulsos | `avulsos` |
+
+## Fotos enviadas em 23 de Novembro, 2026 (capas dos carrosséis de 25 a 29 de Novembro)
+
+| Foto | Endereço neste canvas |
+| --- | --- |
+| `ritter_estudio-cinza_blazer-verde_maos-unidas-olhando-camera.png` (original) | `/_blob/a2c7a6cbcb82c2d2b6c9592d617b640f` |
+| `ritter_estudio-escuro_jaqueta-couro_maos-unidas-pensativo.png` (original) | `/_blob/b39a9545ab86c7aa79a351d774535dd2` |
+| `ritter_estudio-claro_blazer-verde_maos-enquadrando.png` (original) | `/_blob/698b3af39ed0329e3c0dda98bf504210` |
+| `ritter_palestra_camisa-branca_microfone-perfil.png` (cópia de `claude-design/`) | `/_blob/c12e083dd4f7e38053f30993590ac31f` |
+| `ritter_estudio-claro_colete-skave_sentado.png` | reaproveitada: `/_blob/fc75bbd993e697261e6824a52df388ea` |

@@ -9,8 +9,8 @@ dor: O comprador compara preço porque não percebe a diferença relevante (docu
 ordem: 3
 status: em produção
 producao: Claude Design
-template: Capa + Conteúdo com ícone + Conteúdo com ilustração + Conteúdo com diagrama E + Fechamento
-modo_cor: Claro (Fechamento escuro)
+template: Tweet com foto (capa) + Tweet textual (slides 2 a 5)
+modo_cor: Claro
 link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw#page-s23-29
 ---
 ## Texto publicável
@@ -42,11 +42,8 @@ Quem entrou pelo desconto sai pelo desconto, no dia em que aparece alguém mais 
 
 ## Visual
 
-- Slide 1: nenhum
-- Slide 2: ícone `preço`
-- Slide 3: ilustração `funil`
-- Slide 4: diagrama E · Citação
-- Slide 5: nenhum
+- Slide 1: foto ritter_estudio-claro_colete-skave_sentado.png (Tweet com foto)
+- Slides 2 a 5: Tweet textual, sem elemento visual
 
 ## Legenda
 

@@ -9,8 +9,8 @@ dor: O comercial precisa explicar o diferencial em cada negociação, e o compra
 ordem: 1
 status: em produção
 producao: Claude Design
-template: Capa + Conteúdo com ícone + Conteúdo com ilustração + Conteúdo com ícone + Fechamento
-modo_cor: Claro (Fechamento escuro)
+template: Tweet com foto (capa) + Tweet textual (slides 2 a 5)
+modo_cor: Claro
 link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw#page-s23-29
 ---
 ## Texto publicável
@@ -39,11 +39,8 @@ Se a resposta honesta é "não sei", o desconto não resolve. Ele só empurra a 
 
 ## Visual
 
-- Slide 1: nenhum
-- Slide 2: ícone `mensagem`
-- Slide 3: ilustração `comparacao`
-- Slide 4: ícone `preço`
-- Slide 5: nenhum
+- Slide 1: foto ritter_estudio-cinza_blazer-verde_maos-unidas-olhando-camera.png (Tweet com foto)
+- Slides 2 a 5: Tweet textual, sem elemento visual
 
 ## Legenda
 
