@@ -7,7 +7,7 @@ funil: Topo
 pilar: Marca que vende
 dor: A marca parece menos madura que a operação (documento 04, dores na operação)
 ordem: 3
-status: em produção
+status: arte pronta
 producao: Claude Design
 template: Estático · Tweet (template branco)
 modo_cor: Claro (template branco)
