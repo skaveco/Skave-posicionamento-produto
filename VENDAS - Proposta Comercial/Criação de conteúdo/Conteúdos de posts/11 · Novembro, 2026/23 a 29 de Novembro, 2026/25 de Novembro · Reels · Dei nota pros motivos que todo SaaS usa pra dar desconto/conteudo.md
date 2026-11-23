@@ -17,10 +17,10 @@ link_arte:
 ## Texto publicável
 
 ### Take 1
-Vou dar nota pros motivos que todo dono de SaaS usa pra dar desconto.
+Se eu fosse você, eu não dava metade dos descontos que você dá.
 
 ### Take 2
-E o que leva zero é justamente o mais usado.
+Vou dar nota pros motivos que todo dono de SaaS usa pra dar desconto, e o que leva zero é justamente o mais usado.
 
 ### Take 3
 "O concorrente cobra menos." Nota dois. Na hora que você iguala o preço dele, você entrou na comparação que ele escolheu.
@@ -46,7 +46,7 @@ Desconto com troca (pagamento anual, case no contrato, prazo maior) é negociaç
 
 ## Notas de produção
 
-**Formato viral: Notas** (referência "Formato Viral 2026", em `Modelos de posts/Formatos-virais-2026.md`). Selfie falando pra câmera. Texto de tela grande nos 2 primeiros segundos: "Dei nota pros motivos de desconto". Em cada item, o motivo escrito em cima e a nota bem grande na tela (2/10, 6/10, 8/10, 0/10), entrando no corte. Ritmo rápido, um corte por take. CTA principal: mandar pro sócio que aprova os descontos. Ritter responde os comentários. Convite para seguir na legenda.
+**Gancho do bônus** (Polêmicos / Contraintuitivos: "Se eu fosse você, eu NÃO faria isso."). **Formato viral: Notas** (referência "Formato Viral 2026", em `Modelos de posts/Formatos-virais-2026.md`). Selfie falando pra câmera. Texto de tela grande nos 2 primeiros segundos: "Dei nota pros motivos de desconto". Em cada item, o motivo escrito em cima e a nota bem grande na tela (2/10, 6/10, 8/10, 0/10), entrando no corte. Ritmo rápido, um corte por take. CTA principal: mandar pro sócio que aprova os descontos. Ritter responde os comentários. Convite para seguir na legenda.
 
 ## Base e dependências
 

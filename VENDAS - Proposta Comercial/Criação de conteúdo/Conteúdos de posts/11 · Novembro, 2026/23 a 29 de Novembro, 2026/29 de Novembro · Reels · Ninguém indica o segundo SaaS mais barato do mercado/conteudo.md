@@ -8,7 +8,7 @@ funil: Topo
 pilar: Marca que vende
 dor: O comprador compara preço porque não percebe a diferença relevante (documento 04, dores práticas)
 ordem: 2
-status: aprovado
+status: rascunho
 producao:
 template:
 modo_cor:
@@ -17,10 +17,10 @@ link_arte:
 ## Texto publicável
 
 ### Take 1
-Pensa no último software que você indicou pra alguém.
+Ninguém tem coragem de te contar isso sobre ser o SaaS mais barato do mercado.
 
 ### Take 2
-Guarda esse nome, porque o motivo que te fez indicar ele explica como o seu cliente vai falar de você.
+E dá pra você conferir agora: pensa no último software que você indicou pra alguém. Guarda esse nome, porque o motivo que te fez indicar ele explica como o seu cliente vai falar de você.
 
 ### Take 3
 Aposto que você não indicou porque era o mais barato. Indicou porque ele resolvia uma coisa específica melhor que os outros, e você sabia dizer qual.
@@ -40,7 +40,7 @@ Preço baixo traz cliente. Uma razão clara pra escolher você traz indicação.
 
 ## Notas de produção
 
-Selfie falando pra câmera. Texto de tela grande nos 2 primeiros segundos: "Ninguém indica o segundo SaaS mais barato do mercado". CTA principal: mandar pro founder que você admira. Convite para seguir na legenda.
+**Gancho do bônus** (Polêmicos / Contraintuitivos: "O que ninguém tem coragem de te contar sobre ___."). Selfie falando pra câmera. Texto de tela grande nos 2 primeiros segundos: "Ninguém indica o segundo SaaS mais barato do mercado". CTA principal: mandar pro founder que você admira. Convite para seguir na legenda.
 
 **Alternativa no teste dos formatos virais:** se chegar uma pergunta polêmica e real na caixinha (Ritter envia na quinta, 26 de Novembro), este reel dá lugar a uma resposta no formato **Caixinha de pergunta**: a pergunta na tela, resposta em tom firme, até 45 segundos. Sem pergunta boa, fica como está.
 

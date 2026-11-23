@@ -18,10 +18,10 @@ link_arte:
 ## Texto publicável
 
 ### Take 1
-Quanto mais coisa o seu SaaS faz, mais difícil fica pro seu cliente escolher ele.
+Isso aqui separa o SaaS que é escolhido do SaaS que só é comparado.
 
 ### Take 2
-Parece contraditório, eu sei. No final tem um teste de uma frase pra você fazer agora.
+E quanto mais coisa o seu SaaS faz, mais perto ele fica do segundo grupo. No final tem um teste de uma frase pra você saber de que lado tá.
 
 ### Take 3
 O seu cliente não acordou querendo uma plataforma completa.
@@ -56,7 +56,7 @@ Um exemplo do teste: "gestão de agenda, financeiro e estoque" é uma lista. "O 
 
 ## Notas de produção
 
-**Formato viral: Cortes rápidos** (referência "Formato Viral 2026", em `Modelos de posts/Formatos-virais-2026.md`). Até 60 segundos, um corte a cada fala (2 a 3 segundos), sem respiro entre os takes. Alternar o enquadramento a cada corte (perto e médio) e pôr na tela a palavra-chave de cada take ("plataforma completa", "vinte funcionalidades", "sem usar 'e'"). Texto de tela grande nos 2 primeiros segundos: "O problema de um SaaS que faz tudo". No Take 8, a frase do teste na tela: "Explica o seu SaaS numa frase, sem usar 'e'". CTA principal: comentário com a frase do teste; Ritter lê e responde os comentários. Convite para seguir na legenda; na última fala, o pedido de envio ao sócio.
+**Gancho do bônus** (Informativos / Autoridade: "Isso aqui separa iniciantes de profissionais."). **Formato viral: Cortes rápidos** (referência "Formato Viral 2026", em `Modelos de posts/Formatos-virais-2026.md`). Até 60 segundos, um corte a cada fala (2 a 3 segundos), sem respiro entre os takes. Alternar o enquadramento a cada corte (perto e médio) e pôr na tela a palavra-chave de cada take ("plataforma completa", "vinte funcionalidades", "sem usar 'e'"). Texto de tela grande nos 2 primeiros segundos: "O problema de um SaaS que faz tudo". No Take 8, a frase do teste na tela: "Explica o seu SaaS numa frase, sem usar 'e'". CTA principal: comentário com a frase do teste; Ritter lê e responde os comentários. Convite para seguir na legenda; na última fala, o pedido de envio ao sócio.
 
 ## Base e dependências
 
