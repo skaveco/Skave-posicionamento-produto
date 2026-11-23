@@ -41,7 +41,7 @@ Status: `rascunho` → `aprovado` → `em produção` → `arte pronta` → `pub
 - Carrosséis mesclam dois tipos: texto corrido e lista (passos, dicas, quantidade), cerca de metade de cada na semana.
 - Tweet (antigo TWICH) é só texto e usa sempre o template branco (modo claro), sem perguntar o modo. É curto: de uma a três frases, sem convite para seguir na arte.
 - Carrossel no modelo Tweet (decisão de 23 de Novembro, 2026): capa e último slide no template Tweet com foto, com fotos diferentes do catálogo, e os slides do meio no Tweet textual, sem ícone, ilustração ou diagrama. O modo de cor alterna entre os dias, e o fechamento segue o modo do carrossel. Os templates de carrossel de texto (Capa, Conteúdo, Fechamento) deixam de ser usados.
-- Fotos vêm do catálogo do ensaio, sem perguntar. Nunca gerar imagem com o rosto ou o corpo do Ritter.
+- Fotos vêm do catálogo do ensaio, sem perguntar. Prioridade para as fotos naturais de palestras e eventos; as de estúdio entram de forma pontual, no máximo uma ou duas peças por semana (decisão de 23 de Novembro, 2026). Nunca gerar imagem com o rosto ou o corpo do Ritter.
 
 ## Trabalho a dois
 

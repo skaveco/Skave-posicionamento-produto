@@ -2,6 +2,12 @@
 
 Registro simples das mudanças nas regras de conteúdo. A mais recente fica em cima. As regras completas estão na skill `skave-ideias-ritter`; os exemplos, em `Modelos de posts/`.
 
+## 23 de Novembro, 2026 · Fotos naturais primeiro
+
+- Catálogo do ensaio ganhou a seção "Eventos e palestras", com 22 fotos novas da pasta "fotos" do Drive de Ritter: duas palestras (BNI e "A guerra do valor percebido"), um frame de palestra com o colete Skave e um retrato novo de estúdio. Originais em JPEG, sem conversão.
+- Regra: fotos naturais de palestras e eventos primeiro. Estúdio de forma pontual, no máximo uma ou duas peças por semana.
+- 22 fotos do Drive acima de 10 MB não baixam pelo conector e ficaram de fora; as parecidas com as escolhidas também.
+
 ## 23 de Novembro, 2026 · Carrossel no modelo Tweet
 
 - Ritter não quer mais o modelo de carrossel de texto (Capa, Conteúdo, Fechamento, com ícones, ilustrações e diagramas). Os carrosséis passam a usar o modelo Tweet: capa no Tweet com foto (foto do catálogo do ensaio) e os demais slides no Tweet textual.
