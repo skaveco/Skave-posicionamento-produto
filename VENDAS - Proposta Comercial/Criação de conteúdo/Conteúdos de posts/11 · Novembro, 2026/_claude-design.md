@@ -53,3 +53,7 @@
 | `ritter_palestra-valor-percebido_polo-branca_telao-pessoas-nao-compram-produtos.jpg` | `/_blob/9789d932dd96c282279fcb901a56d05a` |
 | `ritter_palestra-case-skave_colete-skave_apontando-telao.jpg` | `/_blob/4cf5577a7f152657f7168604a7a7b7f2` |
 | `ritter_palestra-valor-percebido_polo-branca_plano-aberto-plateia.jpg` | `/_blob/9602a65f65dd107ba55ba40c5ac77337` |
+| `ritter_palestra-bni_camisa-branca_olhando-camera-dedo-erguido.jpg` | `/_blob/3539554f65c63d82f1cd2c25fac75fb4` |
+| `ritter_palestra-valor-percebido_polo-branca_microfone-telao-azul.jpg` | `/_blob/ae194879cfb199ecd45780b1112b1539` |
+
+Página `30 a 6 de Dezembro` no canvas: id `s30-6`, criada em 23 de Novembro, 2026, com o carrossel e o Tweet de 30 de Novembro.

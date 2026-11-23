@@ -7,11 +7,11 @@ funil: Topo
 pilar: Vida de fundador de SaaS
 dor: Cansaço do fundador por ser a única pessoa que sabe explicar a empresa (documento 04, dores emocionais)
 ordem: 3
-status: rascunho
-producao:
-template:
-modo_cor:
-link_arte:
+status: em produção
+producao: Claude Design
+template: Estático · Tweet (template branco)
+modo_cor: Claro (template branco)
+link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw#page-s30-6
 ---
 
 ## Texto publicável
