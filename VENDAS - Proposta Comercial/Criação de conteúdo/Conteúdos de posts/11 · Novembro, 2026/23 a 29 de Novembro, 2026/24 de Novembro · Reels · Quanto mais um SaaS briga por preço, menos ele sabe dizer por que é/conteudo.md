@@ -8,7 +8,7 @@ funil: Topo
 pilar: Networking e parcerias
 dor: O comprador compara preço ou lista de funcionalidades porque não percebe a diferença relevante (documento 04, dores práticas)
 ordem: 1
-status: rascunho
+status: aprovado
 producao:
 template:
 modo_cor:

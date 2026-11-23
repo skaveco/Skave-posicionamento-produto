@@ -8,7 +8,7 @@ funil: Fundo
 pilar: Marca que vende
 dor: O comprador compara preço ou funcionalidades porque não percebe a diferença relevante (documento 04, dores práticas)
 ordem: 3
-status: rascunho
+status: aprovado
 producao:
 template:
 modo_cor:

@@ -7,7 +7,7 @@ funil: Meio
 pilar: Marca que vende
 dor: O comercial precisa explicar o diferencial em cada negociação, e o comprador decide pelo preço (documento 04, dores na operação e práticas)
 ordem: 1
-status: rascunho
+status: aprovado
 producao:
 template:
 modo_cor:
