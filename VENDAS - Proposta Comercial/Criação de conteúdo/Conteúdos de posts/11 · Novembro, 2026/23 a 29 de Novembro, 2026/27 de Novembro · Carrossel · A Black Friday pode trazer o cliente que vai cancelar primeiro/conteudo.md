@@ -7,7 +7,7 @@ funil: Topo
 pilar: Marca que vende
 dor: O comprador compara preço porque não percebe a diferença relevante; desejo de defender o valor sem depender de descontos (documento 04, dores práticas e desejos)
 ordem: 2
-status: em produção
+status: arte pronta
 producao: Claude Design
 template: Tweet com foto (slides 1 e 5) + Tweet textual (slides 2 a 4)
 modo_cor: Claro
@@ -17,9 +17,7 @@ link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw#page-s23-29
 ## Texto publicável
 
 ### Slide 1
-**Título:** A Black Friday pode trazer o cliente que vai cancelar primeiro no seu SaaS.
-
-**Subtítulo:** Dá pra fazer oferta sem cair nisso. Te mostro como.
+**Título:** A Black Friday pode trazer o cliente que vai cancelar primeiro no seu SaaS. Mas dá pra fazer oferta sem cair nisso 👉
 
 ### Slide 2
 **O cliente que entra pela promoção**
@@ -31,12 +29,10 @@ Ele vê a promoção e aprende que a sua tabela é negociável. No próximo cont
 
 ### Slide 4
 **Oferta boa reforça o motivo de te escolherem**
-Em vez de só cortar o preço, acrescenta o que mostra a sua diferença: implantação feita pelo seu time, treinamento da equipe do cliente, um mês a mais de acompanhamento. E fala com o tipo de cliente que você atende melhor.
+Em vez de só cortar o preço, acrescenta o que mostra o seu diferencial: implantação feita pelo seu time, treinamento da equipe do cliente, um mês a mais de acompanhamento. E fala com o tipo de cliente que você atende melhor.
 
 ### Slide 5
 **Título:** Na Black Friday, decide primeiro pra quem é a oferta. Depois, quanto ela vale.
-
-**Subtítulo:** Salva e manda pro seu sócio antes de soltar a promoção.
 
 ## Visual
 

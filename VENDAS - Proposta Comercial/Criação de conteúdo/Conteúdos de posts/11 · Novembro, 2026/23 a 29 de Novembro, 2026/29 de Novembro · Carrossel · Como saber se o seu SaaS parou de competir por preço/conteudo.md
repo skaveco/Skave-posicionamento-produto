@@ -7,7 +7,7 @@ funil: Fundo
 pilar: Marca que vende
 dor: O comprador compara preço porque não percebe a diferença; receio de investir em marca sem saber avaliar o retorno (documento 04, dores práticas e emocionais)
 ordem: 3
-status: em produção
+status: arte pronta
 producao: Claude Design
 template: Tweet com foto (slides 1 e 5) + Tweet textual (slides 2 a 4)
 modo_cor: Claro
@@ -18,8 +18,6 @@ link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw#page-s23-29
 
 ### Slide 1
 **Título:** Como saber se o seu SaaS parou de competir por preço
-
-**Subtítulo:** Dá pra ver no seu comercial antes de aparecer no faturamento.
 
 ### Slide 2
 **O pedido de desconto fica mais raro**

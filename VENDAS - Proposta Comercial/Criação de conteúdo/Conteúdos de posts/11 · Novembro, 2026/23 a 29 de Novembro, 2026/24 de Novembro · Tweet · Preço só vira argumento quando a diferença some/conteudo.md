@@ -7,7 +7,7 @@ funil: Topo
 pilar: Marca que vende
 dor: O comprador compara preço ou lista de funcionalidades porque não percebe a diferença relevante (documento 04, dores práticas)
 ordem: 3
-status: em produção
+status: arte pronta
 producao: Claude Design
 template: Estático · Tweet (template branco)
 modo_cor: Claro (template branco)
@@ -16,7 +16,7 @@ link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw#page-s23-29
 ## Texto publicável
 
 ### Arte
-Preço só vira argumento quando a diferença some. Se o seu cliente tá comparando tabela, ele já parou de enxergar o resto.
+Preço só vira argumento quando a diferença não é compreendida. Se o seu cliente tá comparando tabela e preços, é porque ele já parou de enxergar o resto há muito tempo.
 
 ## Legenda
 

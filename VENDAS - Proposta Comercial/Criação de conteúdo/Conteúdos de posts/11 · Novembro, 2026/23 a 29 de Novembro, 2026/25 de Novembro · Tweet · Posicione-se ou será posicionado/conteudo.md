@@ -7,7 +7,7 @@ funil: Topo
 pilar: Anti-manada e disciplina
 dor: O comprador compara preço porque não percebe a diferença relevante (documento 04, dores práticas)
 ordem: 2
-status: em produção
+status: arte pronta
 producao: Claude Design
 template: Estático · Tweet (template branco)
 modo_cor: Claro (template branco)
@@ -16,7 +16,7 @@ link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw#page-s23-29
 ## Texto publicável
 
 ### Arte
-Posicione-se ou será posicionado. Se você não diz por que é diferente, o seu concorrente diz por você. E ele vai dizer que é preço.
+Se você não diz por que é diferente, o seu concorrente diz por você. E sim, ele vai dizer que é preço.
 
 ## Legenda
 

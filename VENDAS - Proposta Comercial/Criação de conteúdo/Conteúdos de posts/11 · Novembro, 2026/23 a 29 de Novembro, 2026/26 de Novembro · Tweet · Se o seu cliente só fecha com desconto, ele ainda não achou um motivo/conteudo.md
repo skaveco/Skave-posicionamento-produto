@@ -7,7 +7,7 @@ funil: Topo
 pilar: Marca que vende
 dor: O comprador compara preço porque não percebe a diferença relevante (documento 04, dores práticas)
 ordem: 1
-status: em produção
+status: arte pronta
 producao: Claude Design
 template: Estático · Tweet (template branco)
 modo_cor: Claro (template branco)
@@ -16,7 +16,7 @@ link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw#page-s23-29
 ## Texto publicável
 
 ### Arte
-Se o seu cliente só fecha com desconto, ele ainda não achou um motivo pra pagar o preço cheio. E quem tem que dar esse motivo é você.
+Se o seu cliente só fecha com desconto, ele ainda não achou um motivo claro pra pagar o preço que você vale.
 
 ## Legenda
 

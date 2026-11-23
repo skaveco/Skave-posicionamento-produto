@@ -7,7 +7,7 @@ funil: Topo
 pilar: Marca que vende
 dor: O comprador compara preço porque não percebe a diferença relevante (documento 04, dores práticas)
 ordem: 3
-status: em produção
+status: arte pronta
 producao: Claude Design
 template: Tweet com foto (slides 1 e 5) + Tweet textual (slides 2 a 4)
 modo_cor: Escuro
@@ -16,23 +16,21 @@ link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw#page-s23-29
 ## Texto publicável
 
 ### Slide 1
-**Título:** O caminho do desconto até o cancelamento, em 5 passos
-
-**Subtítulo:** Só um deles dá pra resolver antes da venda.
+**Título:** O caminho do desconto até o cancelamento, em 5 passos 👉
 
 ### Slide 2
-**1. O cliente não vê diferença**
+**1. O cliente não viu a diferença**
 Ele olha o seu site e o do concorrente e encontra as mesmas promessas.
 
 **2. O vendedor oferece desconto**
 Sem outro argumento na mão, ele usa o único que fecha rápido.
 
 ### Slide 3
-**3. O cliente entra comprando preço**
+**3. O cliente entra comparando preço**
 Ele comprou o valor mais baixo daquela semana, e só.
 
 **4. Aparece alguém mais barato**
-E sempre aparece.
+Acredite, sempre aparece um que cobra menos e que entrega menos do que você.
 
 ### Slide 4
 **5. Ele cancela, e o time culpa o produto**

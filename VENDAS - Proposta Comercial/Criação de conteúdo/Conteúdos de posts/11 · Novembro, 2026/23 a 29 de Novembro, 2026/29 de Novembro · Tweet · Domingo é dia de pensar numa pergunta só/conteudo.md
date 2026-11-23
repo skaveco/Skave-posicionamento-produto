@@ -7,7 +7,7 @@ funil: Topo
 pilar: Vida de fundador de SaaS
 dor: É difícil explicar o valor do software em poucas palavras (documento 04, dores práticas)
 ordem: 1
-status: em produção
+status: arte pronta
 producao: Claude Design
 template: Estático · Tweet (template branco)
 modo_cor: Claro (template branco)
@@ -16,7 +16,7 @@ link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw#page-s23-29
 ## Texto publicável
 
 ### Arte
-Domingo é dia de pensar numa pergunta só: por que o seu cliente escolhe você, e não o outro?
+Neste domingo pense numa só pergunta: por que o seu cliente escolhe você, e não o outro? Bom almoço.
 
 ## Legenda
 
