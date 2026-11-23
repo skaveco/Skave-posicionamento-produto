@@ -7,7 +7,7 @@ funil: Topo
 pilar: Networking e parcerias
 dor: É difícil explicar o valor do software em poucas palavras (documento 04, dores práticas)
 ordem: 1
-status: em produção
+status: publicado
 producao: Claude Design
 template: Estático · Tweet (template branco)
 modo_cor: Claro (template branco)

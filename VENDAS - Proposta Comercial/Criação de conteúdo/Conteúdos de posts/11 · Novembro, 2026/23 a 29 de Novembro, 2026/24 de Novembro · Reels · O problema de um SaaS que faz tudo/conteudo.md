@@ -36,7 +36,7 @@ O teste é este: tenta explicar o que o seu SaaS faz numa frase só, sem usar a 
 Aí a decisão é sua: qual desses problemas você resolve melhor do que todo mundo? Esse vai na frente, no site, na reunião e na fala do seu time. O resto continua no produto, só que vem depois.
 
 ### Take 7
-Faz o teste e escreve a sua frase aqui nos comentários, que eu leio. E me segue, que eu vou continuar mostrando como deixar o seu SaaS mais fácil de escolher.
+Faz o teste e escreve a sua frase aqui nos comentários, que eu leio. E manda esse vídeo pro seu sócio, pra ver se a frase dele bate com a sua.
 
 ## Legenda
 
@@ -44,10 +44,10 @@ Um exemplo do teste: "gestão de agenda, financeiro e estoque" é uma lista. "O 
 
 ## Notas de produção
 
-Texto de tela no Take 1: "O problema de um SaaS que faz tudo". No Take 5, se quiser, a frase do teste na tela: "Explica o seu SaaS numa frase, sem usar 'e'". CTA principal: comentário com a frase do teste; Ritter lê e responde os comentários. Convite para seguir na última fala.
+Texto de tela no Take 1: "O problema de um SaaS que faz tudo". No Take 5, se quiser, a frase do teste na tela: "Explica o seu SaaS numa frase, sem usar 'e'". CTA principal: comentário com a frase do teste; Ritter lê e responde os comentários. Texto de tela grande nos 2 primeiros segundos. Convite para seguir na legenda (regra de 23 de Novembro, 2026); na última fala, o pedido de envio ao sócio.
 
 ## Base e dependências
 
 - Base: tema "O produto 'faz tudo' e parece não ser para ninguém" (documento 12, Vida de fundador de SaaS) e dores práticas do documento 04 (explicar o valor em poucas palavras; comparação por funcionalidades e preço).
 - O exemplo da legenda é ilustrativo, não é de um cliente real.
-- Escrito em 21 de Novembro, 2026, a pedido do Ritter, para gravar antes da semana ser planejada. Os outros dois posts de 24 de Novembro (Tweet e Carrossel) ainda não existem; o Reels ficou na 2ª posição (12h) porque o dia 23 abre com Reels e fecha com Tweet.
+- Escrito em 21 de Novembro, 2026, a pedido do Ritter, para gravar antes da semana ser planejada. Os outros dois posts de 24 de Novembro (Tweet e Carrossel) ainda não existem; o Reels ficou na 2ª posição (12h) porque o dia 23 abre com Reels e fecha com Tweet. Em 23 de Novembro, a última fala trocou o convite para seguir pelo envio ao sócio.

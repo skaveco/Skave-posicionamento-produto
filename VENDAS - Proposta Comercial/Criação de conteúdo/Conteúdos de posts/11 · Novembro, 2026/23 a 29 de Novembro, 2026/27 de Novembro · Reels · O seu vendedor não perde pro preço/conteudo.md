@@ -1,0 +1,47 @@
+---
+titulo: O seu vendedor não perde pro preço
+data: 27 de Novembro, 2026
+rede: Instagram
+formato: Reels
+tipo_reels: Falado
+funil: Topo
+pilar: Vida de fundador de SaaS
+dor: O comercial precisa explicar o diferencial em cada negociação (documento 04, dores na operação)
+ordem: 1
+status: rascunho
+producao:
+template:
+modo_cor:
+link_arte:
+---
+## Texto publicável
+
+### Take 1
+Quando o seu vendedor diz "perdemos no preço", quase sempre a venda foi perdida bem antes.
+
+### Take 2
+E dá pra descobrir em que momento com uma pergunta só. Já te passo.
+
+### Take 3
+O cliente chegou no fim da reunião sem um motivo claro pra escolher você. E sem motivo, quem decide é o preço.
+
+### Take 4
+Treinar objeção ajuda. Só que nenhum script salva um vendedor que não consegue responder, em uma frase, por que o cliente deveria escolher a sua empresa.
+
+### Take 5
+A pergunta é esta: pega a última venda que o seu time perdeu "no preço" e pergunta pro vendedor o que o cliente elogiou em você durante a reunião. Se a resposta for "nada em especial", a venda já tava perdida antes da proposta.
+
+### Take 6
+Manda esse vídeo pro seu time de vendas e faz essa pergunta hoje.
+
+## Legenda
+
+Script ajuda o vendedor a responder. O motivo pra escolher você precisa existir antes, no site, na apresentação e na fala de todo mundo do time. Me segue, que eu mostro como chegar nessa frase.
+
+## Notas de produção
+
+Selfie falando pra câmera. Texto de tela grande nos 2 primeiros segundos: "O seu vendedor não perde pro preço". CTA principal: mandar pro time de vendas. Convite para seguir na legenda.
+
+## Base e dependências
+
+Sem fontes externas. A dor é hipótese documentada (documento 04), não relato de cliente. Tema da semana definido a partir da análise da @carol.iasmim (documento 17).

@@ -220,6 +220,17 @@ Estes vícios deixam o texto com cara de IA e de copy genérica. Não use em nen
 
 Esses exemplos mostram a ligação com o assunto; não são fechamentos fixos. Escreva o CTA a partir do conteúdo efetivamente desenvolvido, sem introduzir uma nova dor no encerramento nem transformar toda chamada em pergunta.
 
+### Papel de cada post e convite na legenda (23 de Novembro, 2026)
+
+Decisão de Ritter a partir da análise da @carol.iasmim ([documento 17](../../../VENDAS%20-%20Proposta%20Comercial/Estratégia%20de%20marca%20pessoal%20e%20conteúdo%20-%20Ritter/17-referencia-carol-iasmim.md)). **Prevalece sobre as regras anteriores de onde fica o convite para seguir.**
+
+- **Ação principal por papel:** Reels de alcance pedem envio para alguém específico ("manda pro seu sócio", "manda pro seu time de vendas", "manda pro founder que você admira"); carrosséis e Tweets de autoridade pedem salvamento ou um teste; posts de prova e oferta pedem a palavra-chave **FRASE**, que envia o [teste de posicionamento](../../../VENDAS%20-%20Proposta%20Comercial/Criação%20de%20conteúdo/Materiais%20de%20captação/teste-de-posicionamento.md) por DM. "Me segue" deixa de ser a ação principal.
+- **Convite para seguir só no fim da legenda**, em todos os formatos, numa frase curta e contextual. A última fala do reel e o último slide do carrossel terminam com a ação principal, não com o convite. Registre em `## Notas de produção`: "Convite para seguir na legenda."
+- **Alcance e venda separados:** o post de oferta é curto, só oferta, e não tenta viralizar; os demais não vendem.
+- **Tema da semana:** os posts giram em torno de uma ideia de identidade só (primeira semana: SaaS B2B não deveria competir por preço), e o Reels do dia pode se desdobrar no carrossel ou no Tweet do mesmo dia.
+- **Reels falados em selfie, um por dia**, com a frase-gancho escrita grande na tela nos 2 primeiros segundos (indicar o texto em `## Notas de produção`), gravados em bloco numa sessão de cerca de 1 hora. Reels de frase entram como complemento, de preferência com trecho real de palestra, áudio em alta e texto por cima. A divisão meio a meio entre os dois tipos deixa de valer.
+- A grade continua com três posts por dia e a regra de ordem no dia.
+
 ### Varie os fechamentos
 
 Ritter pediu (11 de Novembro, 2026) que os CTAs não sejam sempre iguais. Um lote em que todo post fecha com “Se você quer X, me acompanha por aqui. Eu falo sobre Y” soa automático, mesmo que cada frase seja contextual.

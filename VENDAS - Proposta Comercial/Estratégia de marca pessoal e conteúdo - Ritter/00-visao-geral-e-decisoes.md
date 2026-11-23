@@ -45,7 +45,7 @@ Cada tema tem um Markdown próprio. O PDF *Estratégia de Marca e Conteúdo — 
 
 Observações públicas e dores descritas aqui são hipóteses para a conversa. Resultados, depoimentos, números, cases e notícias só entram no conteúdo com base real e, quando pertinente, autorização do cliente. Posicionamento não deve ser apresentado como garantia de faturamento ou eliminação de negociação por preço.
 
-Todos os conteúdos devem desenvolver uma dor atendida pelo produto Posicionamento de Marca, conforme [04](04-dores-e-desejos.md), e terminar com uma chamada explícita para seguir o perfil de Ritter. O convite pode ficar no fim da peça ou, em parte dos posts, na legenda, para os fechamentos não ficarem sempre iguais (decisão de Ritter em 11 de novembro de 2026). Isso vale para todos os pilares, formatos e etapas do funil. Na entrega para produção, reels vêm com as falas completas organizadas take a take e carrosséis com os textos organizados por slide.
+Todos os conteúdos devem desenvolver uma dor atendida pelo produto Posicionamento de Marca, conforme [04](04-dores-e-desejos.md), e terminar com uma chamada explícita para seguir o perfil de Ritter. O convite pode ficar no fim da peça ou, em parte dos posts, na legenda, para os fechamentos não ficarem sempre iguais (decisão de Ritter em 11 de novembro de 2026). Desde 23 de novembro de 2026, o convite para seguir fica no fim da legenda, e a peça termina com a ação principal do seu papel: enviar, salvar ou comentar a palavra-chave ([documento 17](17-referencia-carol-iasmim.md)). Isso vale para todos os pilares, formatos e etapas do funil. Na entrega para produção, reels vêm com as falas completas organizadas take a take e carrosséis com os textos organizados por slide.
 
 ## Skill para gerar ideias
 

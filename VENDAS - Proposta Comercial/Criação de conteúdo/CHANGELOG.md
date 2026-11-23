@@ -2,6 +2,15 @@
 
 Registro simples das mudanças nas regras de conteúdo. A mais recente fica em cima. As regras completas estão na skill `skave-ideias-ritter`; os exemplos, em `Modelos de posts/`.
 
+## 23 de Novembro, 2026 · Mecanismos da análise da @carol.iasmim
+
+- **Referência:** análise registrada no documento 17 da estratégia.
+- **CTA por papel:** Reels pedem envio (sócio, time de vendas), carrosséis e Tweets pedem salvamento ou teste, prova e oferta pedem a palavra-chave FRASE. O convite para seguir passa para uma frase curta no fim da legenda, em todos os formatos.
+- **Palavra-chave FRASE:** envia por DM o teste de posicionamento em 3 perguntas (`Materiais de captação/teste-de-posicionamento.md`). Depende da automação de DM.
+- **Reels:** um falado em selfie por dia, com a frase-gancho na tela nos 2 primeiros segundos, gravados em bloco. Reels de frase com trecho real de palestra. Sai a divisão meio a meio entre os tipos.
+- **Tema da semana** e separação entre posts de alcance e de oferta.
+- Primeira semana com as regras: 24 a 29 de Novembro. A última fala do Reels de 24 de Novembro (rascunho) foi ajustada.
+
 ## 16 de Novembro, 2026 · Teste de fotos nos carrosséis
 
 - Três carrosséis da semana (18, 21 e 22 de Novembro) ganharam uma versão com foto do ensaio na capa, no template Imagem, ao lado da versão original. A primeira tentativa, com foto num slide do meio, foi descartada por Ritter. Capa com foto de fundo passa a ser permitida; foto no meio do carrossel, não. Os outros quatro ficam sem foto, para comparar no Insights: chegada ao último slide, salvamentos, compartilhamentos e alcance. Depois de testar duas fotos em cada um, Ritter descartou as versões com foto de 18 e 21; o teste segue só com o carrossel de 22, comparado com os outros seis.
