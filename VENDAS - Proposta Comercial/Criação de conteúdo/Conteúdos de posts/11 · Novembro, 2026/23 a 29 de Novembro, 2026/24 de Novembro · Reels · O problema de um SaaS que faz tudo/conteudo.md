@@ -8,7 +8,7 @@ funil: Meio
 pilar: Vida de fundador de SaaS
 dor: É difícil explicar o valor do software em poucas palavras, e o comprador acaba comparando funcionalidades e preço (documento 04, dores práticas)
 ordem: 2
-status: aprovado
+status: rascunho
 producao:
 template:
 modo_cor:
@@ -21,22 +21,34 @@ link_arte:
 Quanto mais coisa o seu SaaS faz, mais difícil fica pro seu cliente escolher ele.
 
 ### Take 2
-Parece contraditório, eu sei. Mas fica comigo, que no final eu te passo um teste de uma frase pra você saber se isso tá acontecendo na sua empresa.
+Parece contraditório, eu sei. No final tem um teste de uma frase pra você fazer agora.
 
 ### Take 3
-Pensa no seu cliente no dia em que ele foi atrás de uma solução. Ele não acordou querendo uma plataforma completa. Ele tinha um problema específico, que tava custando tempo ou dinheiro pra ele.
+O seu cliente não acordou querendo uma plataforma completa.
 
 ### Take 4
-Aí ele chega no seu site e encontra vinte funcionalidades, todas com o mesmo destaque. O problema dele até tá lá no meio, só que ele precisa garimpar pra achar. E quando ninguém deixa claro pra que o produto serve, ele faz o que dá: compara lista e preço com o concorrente.
+Ele tinha um problema que tava custando tempo ou dinheiro pra ele.
 
 ### Take 5
-O teste é este: tenta explicar o que o seu SaaS faz numa frase só, sem usar a palavra "e". Se a frase virou uma lista, o seu cliente também tá recebendo uma lista.
+Aí ele entra no seu site e encontra vinte funcionalidades, todas com o mesmo destaque.
 
 ### Take 6
-Aí a decisão é sua: qual desses problemas você resolve melhor do que todo mundo? Esse vai na frente, no site, na reunião e na fala do seu time. O resto continua no produto, só que vem depois.
+O problema dele até tá lá, só que escondido no meio.
 
 ### Take 7
-Faz o teste e escreve a sua frase aqui nos comentários, que eu leio. E manda esse vídeo pro seu sócio, pra ver se a frase dele bate com a sua.
+E quando ninguém deixa claro pra que o produto serve, ele compara lista e preço.
+
+### Take 8
+O teste: explica o seu SaaS numa frase só, sem usar a palavra "e".
+
+### Take 9
+Se a frase virou lista, o seu cliente também tá recebendo uma lista.
+
+### Take 10
+Escolhe o problema que você resolve melhor que todo mundo e coloca ele na frente. O resto vem depois.
+
+### Take 11
+Escreve a sua frase aqui nos comentários, que eu leio. E manda esse vídeo pro seu sócio fazer o teste também.
 
 ## Legenda
 
@@ -44,10 +56,11 @@ Um exemplo do teste: "gestão de agenda, financeiro e estoque" é uma lista. "O 
 
 ## Notas de produção
 
-Texto de tela no Take 1: "O problema de um SaaS que faz tudo". No Take 5, se quiser, a frase do teste na tela: "Explica o seu SaaS numa frase, sem usar 'e'". CTA principal: comentário com a frase do teste; Ritter lê e responde os comentários. Texto de tela grande nos 2 primeiros segundos. Convite para seguir na legenda (regra de 23 de Novembro, 2026); na última fala, o pedido de envio ao sócio.
+**Formato viral: Cortes rápidos** (referência "Formato Viral 2026", em `Modelos de posts/Formatos-virais-2026.md`). Até 60 segundos, um corte a cada fala (2 a 3 segundos), sem respiro entre os takes. Alternar o enquadramento a cada corte (perto e médio) e pôr na tela a palavra-chave de cada take ("plataforma completa", "vinte funcionalidades", "sem usar 'e'"). Texto de tela grande nos 2 primeiros segundos: "O problema de um SaaS que faz tudo". No Take 8, a frase do teste na tela: "Explica o seu SaaS numa frase, sem usar 'e'". CTA principal: comentário com a frase do teste; Ritter lê e responde os comentários. Convite para seguir na legenda; na última fala, o pedido de envio ao sócio.
 
 ## Base e dependências
 
 - Base: tema "O produto 'faz tudo' e parece não ser para ninguém" (documento 12, Vida de fundador de SaaS) e dores práticas do documento 04 (explicar o valor em poucas palavras; comparação por funcionalidades e preço).
 - O exemplo da legenda é ilustrativo, não é de um cliente real.
 - Escrito em 21 de Novembro, 2026, a pedido do Ritter, para gravar antes da semana ser planejada. Os outros dois posts de 24 de Novembro (Tweet e Carrossel) ainda não existem; o Reels ficou na 2ª posição (12h) porque o dia 23 abre com Reels e fecha com Tweet. Em 23 de Novembro, a última fala trocou o convite para seguir pelo envio ao sócio.
+- Em 23 de Novembro, 2026, os takes foram encurtados para o formato Cortes rápidos (teste dos formatos virais). O argumento e o teste continuam os mesmos.

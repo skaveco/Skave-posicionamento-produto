@@ -2,6 +2,12 @@
 
 Registro simples das mudanças nas regras de conteúdo. A mais recente fica em cima. As regras completas estão na skill `skave-ideias-ritter`; os exemplos, em `Modelos de posts/`.
 
+## 23 de Novembro, 2026 · Formatos virais nos reels
+
+- Novo guia `Modelos de posts/Formatos-virais-2026.md`, a partir do material "Formato Viral 2026": Notas, Curiosidade (até 7 s), Caixinha de pergunta (até 45 s), Cortes rápidos (cerca de 60 s), Tela dividida, React e Carrossel neutro, com o que serve e o que não serve para o público B2B.
+- Regra na skill `skave-ideias-ritter`: cada reel ganha um formato viral, registrado em `## Notas de produção`, variado na semana, com um reel falado de controle enquanto durar o teste.
+- Teste na semana de 23 a 29 de Novembro: 24 (faz tudo) em Cortes rápidos; 25 trocado por "Dei nota pros motivos que todo SaaS usa pra dar desconto" (Notas); 26 virou reel de frase no formato Curiosidade; 27 fica de controle; 29 vira resposta de caixinha se chegar pergunta polêmica real. Os três reels alterados voltaram para `rascunho`.
+
 ## 23 de Novembro, 2026 · Bônus de ganchos virais
 
 - `Ganchos-de-conteúdos.md` ganhou a seção "Bônus: + de 100 ganchos virais", com os 101 ganchos da página do Notion, transcritos das capturas de tela e separados em cinco categorias: curiosos, engraçados, polêmicos/contraintuitivos, informativos/autoridade e suspense/história.

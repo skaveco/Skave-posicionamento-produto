@@ -42,6 +42,8 @@ Preço baixo traz cliente. Uma razão clara pra escolher você traz indicação.
 
 Selfie falando pra câmera. Texto de tela grande nos 2 primeiros segundos: "Ninguém indica o segundo SaaS mais barato do mercado". CTA principal: mandar pro founder que você admira. Convite para seguir na legenda.
 
+**Alternativa no teste dos formatos virais:** se chegar uma pergunta polêmica e real na caixinha (Ritter envia na quinta, 26 de Novembro), este reel dá lugar a uma resposta no formato **Caixinha de pergunta**: a pergunta na tela, resposta em tom firme, até 45 segundos. Sem pergunta boa, fica como está.
+
 ## Base e dependências
 
 Sem fontes externas. A dor é hipótese documentada (documento 04), não relato de cliente. Tema da semana definido a partir da análise da @carol.iasmim (documento 17).
