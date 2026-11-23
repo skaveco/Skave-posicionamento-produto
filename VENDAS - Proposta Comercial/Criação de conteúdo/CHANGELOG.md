@@ -2,6 +2,11 @@
 
 Registro simples das mudanças nas regras de conteúdo. A mais recente fica em cima. As regras completas estão na skill `skave-ideias-ritter`; os exemplos, em `Modelos de posts/`.
 
+## 23 de Novembro, 2026 · Bônus de ganchos virais
+
+- `Ganchos-de-conteúdos.md` ganhou a seção "Bônus: + de 100 ganchos virais", com os 101 ganchos da página do Notion, transcritos das capturas de tela e separados em cinco categorias: curiosos, engraçados, polêmicos/contraintuitivos, informativos/autoridade e suspense/história.
+- Os ganchos continuam como inspiração: adaptar à voz de Ritter, à dor do conteúdo e aos vícios de linguagem proibidos, sem copiar a frase pronta.
+
 ## 23 de Novembro, 2026 · Stories do dia com o RSL
 
 - Os dois bônus do RSL (Rota Stories Lotado) entraram na base: "30 ganchos para abrir seus Stories" e "10 sequências validadas de Stories para vender", transcritos em `Stories/` com os PDFs originais.

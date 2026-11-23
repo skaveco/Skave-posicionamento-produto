@@ -1,6 +1,6 @@
 # Ganchos para o início dos conteúdos
 
-Transcrição dos 60 itens enviados nas capturas de tela. A numeração original foi mantida.
+Duas fontes, transcritas das capturas de tela: os 60 itens da primeira lista (numeração original mantida) e o bônus "+ de 100 ganchos virais", separado por categoria. Servem de inspiração: adapte à voz de Ritter, à dor do conteúdo e aos vícios de linguagem proibidos da skill `skave-ideias-ritter`. Não copie a frase pronta.
 
 ## Itens 1 a 20
 
@@ -64,3 +64,123 @@ Transcrição dos 60 itens enviados nas capturas de tela. A numeração original
 58. Eu estava guardando um segredo...
 59. 7 formas de...
 60. Me arrependo de ter feito isso...
+
+## Bônus: + de 100 ganchos virais
+
+Transcrição da página do Notion "BÔNUS: + DE 100 GANCHOS VIRAIS" (101 ganchos), feita a partir de capturas de tela. A página indica o uso em Reels, carrosséis, lives e shorts. "___" marca o espaço para o tema.
+
+### Curiosos
+
+- E eu que descobri…
+- O resultado disso me deixou de boca aberta.
+- Olha como isso transforma tudo rapidinho.
+- Isso aqui parece loucura, mas é real.
+- Quanto tempo você acha que isso demora? Errado.
+- Aconteceu algo estranho… e preciso te contar.
+- O truque secreto que os avançados usam.
+- Eu só entendi isso depois de muito tempo.
+- Esse detalhe muda completamente o jogo.
+- A mágica acontece aqui, ó.
+- A primeira vez que fiz isso, falei: não é possível!
+- Olha isso — você vai surtar.
+- Nunca imaginei que isso funcionaria tão bem.
+- Quer saber o que eu descobri por acaso?
+- Descobri algo escondido aqui.
+- A pergunta que destravou tudo pra mim.
+- Uma coisa sobre ___ que ninguém percebe.
+- Isso parece simples, mas muda tudo.
+- Testei algo bizarro… e deu resultado.
+- Você nunca viu isso sendo explicado assim antes.
+- O que acontece quando você faz isso por 7 dias seguidos?
+
+### Engraçados
+
+- Se você riu, perdeu. (Eu perdi.)
+- A cara que faço quando percebo que esqueci algo muito óbvio.
+- Eu tentando ser adulto responsável…
+- Meu cérebro às 3h da manhã decidindo coisas importantes.
+- Se existe um jeito errado de fazer, eu vou encontrar.
+- Eu não sei quem precisa ouvir isso, mas pare.
+- Quando alguém fala 'relaxa, é simples'…
+- Se sentir perdido é opcional? Não no meu caso.
+- A expectativa era essa… A realidade foi essa.
+- Quando você tenta ser profissional, mas a vida não ajuda.
+- Eu, antes de aprender isso: 😱 / Eu agora: 😎
+- Sabe aquele momento em que tudo dá errado? Então…
+- Eu jurando que sabia… vs. a realidade.
+- Quando dizem 'é só seguir o passo a passo'…
+- O dia em que tentei ser produtivo… e quase morri.
+- Eu achava que era fácil… até tentar.
+- Se você faz isso, parabéns: você é dos meus.
+- A sensação de quando você finalmente entende ___.
+- Esse sou eu tentando ser adulto…
+- Você não vai acreditar no que tentei hoje… e falhei lindamente.
+
+### Polêmicos / Contraintuitivos
+
+- Se você continuar acreditando nisso… boa sorte.
+- Isso aqui deveria ser proibido — mas todo mundo faz.
+- O maior erro que TODO mundo comete quando começa.
+- Adivinha quem tá se beneficiando enquanto você sofre?
+- Você acha que sabe… mas não sabe.
+- Essa é a razão pela qual você continua preso.
+- Essa verdade vai doer, mas vai te libertar.
+- Se eu te mostrar isso, sua opinião vai mudar.
+- A real é que ninguém liga para ___.
+- Isso aqui vai te deixar puto, mas precisa ser dito.
+- Sabe aquele especialista? Ele não te contou essa parte.
+- Não, você NÃO precisa disso para ter resultado.
+- Você tá fazendo tudo errado… e nem percebe.
+- A pior coisa que te ensinaram sobre ___.
+- Quer saber por que a maioria nunca cresce? Por causa disso aqui.
+- Pare de seguir essa regra — ela te atrasa.
+- Esse conselho famoso… é uma cilada.
+- Se eu fosse você, eu NÃO faria isso.
+- O que ninguém tem coragem de te contar sobre ___.
+- Você foi enganado sobre isso a vida inteira…
+
+### Informativos / Autoridade
+
+- Essa é a técnica que mudou o jogo pra mim.
+- O método que me fez destravar ___.
+- O segredo é esse, mas quase ninguém presta atenção.
+- A diferença entre quem evolui e quem trava.
+- A forma mais inteligente de começar.
+- O atalho que ninguém te mostra.
+- 5 minutos e você já entende isso.
+- O framework que uso até hoje.
+- Por que isso funciona tão bem?
+- A explicação simples para algo que parece complicado.
+- O passo a passo claro, sem enrolação.
+- Isso aqui separa iniciantes de profissionais.
+- A lógica por trás desse processo.
+- Se eu fosse começar do zero hoje, faria isso.
+- O erro que te impede de evoluir.
+- Aqui está o que você precisa saber agora.
+- A aula rápida que vai salvar seu tempo.
+- O que realmente importa quando você está começando.
+- O que eu gostaria de ter aprendido antes.
+- 3 coisas que ninguém te explica sobre ___.
+
+### Suspense / História
+
+- A frase que mudou tudo na minha cabeça foi essa…
+- Essa virada foi mais rápida do que eu esperava.
+- Foi aí que tudo explodiu.
+- Essa história quase ninguém sabe.
+- Eu não tava preparado pro que aconteceu depois.
+- E então eu percebi… isso não era coincidência.
+- Foi um tapa na cara que eu precisava.
+- Se eu te contar, você não vai acreditar.
+- Um detalhe mudou tudo naquele dia.
+- Esse momento virou minha chave.
+- Quando percebi isso, já era tarde.
+- Aconteceu rápido demais.
+- Eu nunca vou esquecer o que ouvi naquele dia.
+- Foi nesse momento que percebi que precisava mudar.
+- E aí, do nada… BOOM.
+- Eu achei que tava tudo sob controle… até não estar mais.
+- No começo, parecia apenas mais um dia normal…
+- O que aconteceu depois vai te surpreender.
+- Eu quase desisti por causa desse dia.
+- Tudo estava indo bem… até acontecer isso.
