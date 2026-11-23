@@ -1,5 +1,5 @@
 ---
-titulo: Se você fosse o cliente, o seu site de hoje te convenceria
+titulo: Se você fosse o seu cliente, você se compraria
 data: 23 de Novembro, 2026
 rede: Instagram
 formato: Tweet
@@ -17,11 +17,11 @@ link_arte: https://claude.ai/artifact/SxYsCMmc5oB2Xgw7eb8Vdw
 ## Texto publicável
 
 ### Arte
-Se você fosse o cliente, o seu site de hoje te convenceria? Se pensou duas vezes, o seu cliente também pensa.
+Se você fosse o seu cliente, você se compraria? Se pensou duas vezes, ele também pensa.
 
 ## Legenda
 
-Abre o seu site como se nunca tivesse ouvido falar da sua empresa e lê só o que aparece sem rolar. Se a vontade de marcar uma conversa demorou a aparecer, me segue que eu mostro como chegar num topo de página que convence.
+Faz o teste: lê o seu site, a sua proposta e o seu perfil como se nunca tivesse ouvido falar da sua empresa. Se a vontade de fechar demorou a aparecer, me segue que eu mostro como deixar claro, logo de cara, por que escolher você.
 
 ## Notas de produção
 
