@@ -8,3 +8,4 @@ Histórico das sequências de stories do dia sugeridas pela skill [skave-stories
 
 | Data | Sequência | Gancho | Tema | Status | Views 1º | Views último | Retenção % | Respostas / DMs | Observações |
 | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | --- |
+| 24 de Novembro, 2026 | 08 · Enquete Diagnóstico (+ caixinha semanal no fim) | 11 | SaaS B2B não deveria competir por preço: desconto ou explicação quando o cliente diz "tá caro" | sugerida | | | | | Caixinha aprovada de 24/11 entrou como stories 6 e 7. |
