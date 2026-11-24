@@ -54,6 +54,6 @@ Posts adaptados das pautas do Instagram, de 3 a 4 por semana, na pasta `LinkedIn
 
 | Data | Formato | Publicação | Status |
 | --- | --- | --- | --- |
-| 25 de Novembro | Carrossel · PDF | [3 perguntas pra fazer antes de aprovar o próximo desconto](<LinkedIn/25 de Novembro · Carrossel · 3 perguntas pra fazer antes de aprovar o próximo desconto/conteudo.md>) | rascunho |
-| 26 de Novembro | Texto | [A Black Friday pode trazer o cliente que vai cancelar primeiro](<LinkedIn/26 de Novembro · Texto · A Black Friday pode trazer o cliente que vai cancelar primeiro/conteudo.md>) | rascunho |
-| 27 de Novembro | Texto | [O seu vendedor não perde pro preço](<LinkedIn/27 de Novembro · Texto · O seu vendedor não perde pro preço/conteudo.md>) | rascunho |
+| 25 de Novembro | Carrossel · PDF | [3 perguntas pra fazer antes de aprovar o próximo desconto](<LinkedIn/25 de Novembro · Carrossel · 3 perguntas pra fazer antes de aprovar o próximo desconto/conteudo.md>) | arte pronta |
+| 26 de Novembro | Texto | [A Black Friday pode trazer o cliente que vai cancelar primeiro](<LinkedIn/26 de Novembro · Texto · A Black Friday pode trazer o cliente que vai cancelar primeiro/conteudo.md>) | aprovado |
+| 27 de Novembro | Texto | [O seu vendedor não perde pro preço](<LinkedIn/27 de Novembro · Texto · O seu vendedor não perde pro preço/conteudo.md>) | aprovado |

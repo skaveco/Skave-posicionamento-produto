@@ -22,4 +22,4 @@ Posts adaptados das pautas do Instagram, de 3 a 4 por semana, na pasta `LinkedIn
 
 | Data | Formato | Publicação | Status |
 | --- | --- | --- | --- |
-| 30 de Novembro | Texto | [O dia em que o seu melhor vendedor pede demissão](<LinkedIn/30 de Novembro · Texto · O dia em que o seu melhor vendedor pede demissão/conteudo.md>) | rascunho |
+| 30 de Novembro | Texto | [O dia em que o seu melhor vendedor pede demissão](<LinkedIn/30 de Novembro · Texto · O dia em que o seu melhor vendedor pede demissão/conteudo.md>) | aprovado |

@@ -7,7 +7,7 @@ funil: Topo
 pilar: Marca que vende
 dor: O comprador compara preço porque não percebe a diferença relevante; desejo de defender o valor sem depender de descontos (documento 04, dores práticas e desejos)
 ordem: 1
-status: rascunho
+status: aprovado
 producao:
 template:
 modo_cor:

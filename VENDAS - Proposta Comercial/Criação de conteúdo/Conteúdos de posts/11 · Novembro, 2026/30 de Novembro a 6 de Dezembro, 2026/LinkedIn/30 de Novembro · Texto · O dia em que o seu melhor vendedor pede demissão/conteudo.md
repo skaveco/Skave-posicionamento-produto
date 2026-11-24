@@ -7,7 +7,7 @@ funil: Topo
 pilar: Vida de fundador de SaaS
 dor: Equipe depende do fundador para decidir o que dizer; o comercial precisa explicar o diferencial em cada negociação (documento 04, dores na operação)
 ordem: 1
-status: rascunho
+status: aprovado
 producao:
 template:
 modo_cor:
