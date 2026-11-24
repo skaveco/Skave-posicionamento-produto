@@ -36,11 +36,19 @@ Manda esse vídeo pro seu time de vendas e faz essa pergunta hoje mesmo aí na t
 
 ## Opções de gancho
 
+### Fala (Take 1)
+
 Take 1 atual: a versão escrita por Ritter em 24 de Novembro, 2026 (“Quando o seu vendedor diz "perdemos a venda por preço"…”). As três opções abaixo servem para comparar na gravação. Todas funcionam com o Take 2 como está.
 
 1. **Contraintuitivo** (bônus, Polêmicos: "Você foi enganado sobre isso a vida inteira…"): "Toda vez que o seu vendedor te diz que perdeu a venda por preço, ele tá te contando só o final da história."
 2. **O que ninguém conta** (bônus, Polêmicos: "O que ninguém tem coragem de te contar sobre ___"): "Ninguém no seu time de vendas tem coragem de te contar o verdadeiro motivo de perder venda por preço."
 3. **Situação e consequência** (bônus, Suspense: "Quando percebi isso, já era tarde."): "Se o seu time vive perdendo venda por preço, eu tenho uma notícia ruim: quando o preço apareceu, a venda já tinha ido embora."
+
+### Na tela, primeiros 7 s
+
+1. "O seu vendedor não perde pro preço" (o atual, que também é o título)
+2. "Perdeu a venda no preço? O problema começou antes"
+3. "1 pergunta pra descobrir onde a venda morreu"
 
 ## Legenda
 
@@ -48,7 +56,7 @@ Script ajuda o vendedor a responder. O motivo pra escolher você precisa existir
 
 ## Notas de produção
 
-Selfie falando pra câmera. Texto de tela grande nos 2 primeiros segundos: "O seu vendedor não perde pro preço". CTA principal: mandar pro time de vendas. Convite para seguir na legenda.
+Selfie falando pra câmera. Texto de tela grande nos primeiros 7 segundos: "O seu vendedor não perde pro preço" (opções em `## Opções de gancho`). CTA principal: mandar pro time de vendas. Convite para seguir na legenda.
 
 ## Base e dependências
 

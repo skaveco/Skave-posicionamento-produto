@@ -7,6 +7,7 @@ Registro simples das mudanças nas regras de conteúdo. A mais recente fica em c
 - Pedido de Ritter: a partir das próximas publicações, todo vídeo que ele for gravar vem com três opções de gancho. Substitui a regra de 16 de Novembro ("um gancho por reel; se não agradar, pede-se outro").
 - As opções ficam na seção `## Opções de gancho` do `conteudo.md`, com estruturas diferentes e compatíveis com o resto do roteiro. A recomendada vai no Take 1 até ele escolher.
 - Primeiro exemplo: Reels de 27 de Novembro ("O seu vendedor não perde pro preço").
+- Também três opções de gancho de tela, o texto que fica nos primeiros 7 segundos: curto, lido sem som e somando à fala. Ficam na mesma seção, numa lista própria.
 
 ## 23 de Novembro, 2026 · Formatos virais nos reels
 
