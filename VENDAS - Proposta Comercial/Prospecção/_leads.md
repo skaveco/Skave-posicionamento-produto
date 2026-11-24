@@ -32,6 +32,11 @@ Status: `encontrado` → `abordado` → `respondeu` → `call marcada` → `desc
 | Lucas B. | [@lucasgb.founder](https://www.instagram.com/lucasgb.founder/) | Tycoonito e Marlume | [23/11/2026 (b)](leads-2026-11-23-b.md) | encontrado | B2C; pré-lançamento |
 | Felipe Gigante | [@dev_gigante](https://www.instagram.com/dev_gigante/) | Zeca da Zarpa | [23/11/2026 (b)](leads-2026-11-23-b.md) | encontrado | B2C; é CTO |
 | Guilherme Martins | [@guimartinsbr](https://www.instagram.com/guimartinsbr/) | Kapi | [23/11/2026 (b)](leads-2026-11-23-b.md) | encontrado | B2C; site não lido |
+| Bruno Kalil | [@brunokalil_](https://www.instagram.com/brunokalil_/) | Dalea AI e Fokvs | [24/11/2026](leads-2026-11-24.md) | encontrado | prioridade alta |
+| Antonio Alfonso | [@oantonioalfonso](https://www.instagram.com/oantonioalfonso/) | Sinnu | [24/11/2026](leads-2026-11-24.md) | encontrado | prioridade alta |
+| Gabriel Dias | [@diasdestartup](https://www.instagram.com/diasdestartup/) | HostMyPet | [24/11/2026](leads-2026-11-24.md) | encontrado | post de 12/11 |
+| Léo Sygel | [@leosygel](https://www.instagram.com/leosygel/) | Previsão | [24/11/2026](leads-2026-11-24.md) | encontrado | site não abriu; mercado de previsões |
+| Matheus Neri | [@matheus.nerii](https://www.instagram.com/matheus.nerii/) | Sinnu | [24/11/2026](leads-2026-11-24.md) | encontrado | sócio do Antonio; abordar só um |
 
 ## Descartados (não revisitar)
 
@@ -41,3 +46,4 @@ Os descartados de cada rodada, com o motivo, estão no fim do arquivo da rodada.
 - **19/11/2026:** (Lucas B. saiu dos descartados em 23/11, quando B2C passou a valer) ver [leads-2026-11-19.md](leads-2026-11-19.md) e [leads-2026-11-19-b.md](leads-2026-11-19-b.md).
 - **23/11/2026:** @ogabrielrdm, @ricardo.ceo, @ojuliopachecoo, @euclevertonjunior, @henrique.parisi, @guimassa, @luksborges, @matheusnattan1, @brunoahualli, @euviniciustroncoso, @luanshimoda, @jacksonsouzarc, @souleofurtado, @eyuriferreira, @eduardostorini, @d_coquieri, @dttg, @lnunesjr, @odanielrosa, @rafaelincao, @malberone, @o.marcosfonseca, @eeogus, @ecauduro, @alfredosoares, @pedroaredes, @_ricardo_piedade, @erickasanches.ia, @okauarodriguez, @granzoto7, @oarthur.goncalves_, @felipenonino_, @lethsobral.
 - **23/11/2026 (b):** @daniellimae, @matheusgobbi, @maxcarrau.ia, @rafa.grandi, @aleferreirabr1, @matheuscaiaffa, @lunabmachado, @arthur.paesi.
+- **24/11/2026:** @jezsoares, @miguelnevss, @rod_valverde, @daniel.abrucezzi, @pablo_aa, @eugustavosextaro, @aleelienai, @o.ryanviana, @gianplaceres, @karinesackt, @bennicode, @sophscatola, @felourenco, @rafaelmilagre, @julio.fontes5, @luisjlourenco, @marceloatavora, @igmarinelli, @guilherme.de.bortoli, @pirinelli, @joaoaugustocampos, @lhfaria, @manoellemos, @richardrx, @ciaandre, @celso.apexsoftware, @simsoumarcospaulo, @eu.marko, @oi.emanuel, @murilobono, @o.diegobatista, @ocarlosazevedo, @matteocouto, @matheusmoreira, @eu.hermano, @diogokobata, @renan.kaminski.
