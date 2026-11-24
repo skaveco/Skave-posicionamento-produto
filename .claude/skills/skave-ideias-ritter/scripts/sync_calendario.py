@@ -66,11 +66,13 @@ def ler(md, raiz):
     doc["legenda"] = legenda.group(1).strip() if legenda else ""
     pasta = md.parent
     arte = pasta / "arte"
-    doc["artes"] = len(list(arte.glob("*.png"))) if arte.is_dir() else 0
+    doc["artes"] = len(list(arte.glob("*.png"))) + len(list(arte.glob("*.pdf"))) if arte.is_dir() else 0
     doc["pasta"] = nfc(str(pasta.relative_to(raiz.parent)))
     mtime = max([md.stat().st_mtime] + [p.stat().st_mtime for p in arte.glob("*.png")] if arte.is_dir() else [md.stat().st_mtime])
     doc["atualizado_em"] = dt.datetime.fromtimestamp(mtime, dt.timezone.utc).isoformat(timespec="seconds")
     doc_id = f"{doc['data']}-{slug(doc['formato'], 12)}-{slug(doc['titulo'])}"
+    if nfc(doc["rede"]).lower() == "linkedin":
+        doc_id = f"{doc['data']}-linkedin-{slug(doc['formato'], 12)}-{slug(doc['titulo'], 40)}"
     return doc_id, doc
 
 
@@ -83,6 +85,11 @@ def hoje_brasil():
         return dt.datetime.now(ZoneInfo("America/Sao_Paulo")).date()
     except Exception:
         return (dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=3)).date()
+
+
+def semana_de(pasta):
+    """Pasta da semana de um post. Posts do LinkedIn ficam em <semana>/LinkedIn/<post>."""
+    return pasta.parent.parent if pasta.parent.name == "LinkedIn" else pasta.parent
 
 
 def marcar_publicados(raiz, hoje):
@@ -105,7 +112,8 @@ def marcar_publicados(raiz, hoje):
             continue
         md.write_text(s[:m_st.start()] + "status: publicado" + s[m_st.end():], encoding="utf-8")
         pasta = md.parent
-        sem = pasta.parent / "_semana.md"
+        semana = semana_de(pasta)
+        sem = semana / "_semana.md"
         if sem.exists():
             linhas = sem.read_text(encoding="utf-8").split("\n")
             for i, l in enumerate(linhas):
@@ -115,7 +123,7 @@ def marcar_publicados(raiz, hoje):
                     linhas[i] = "|".join(celulas) + "|"
             sem.write_text("\n".join(linhas), encoding="utf-8")
         alterados.append(pasta)
-    for mes in sorted({p.parent.parent for p in alterados}):
+    for mes in sorted({semana_de(p).parent for p in alterados}):
         cal = mes / "_calendario.md"
         if not cal.exists():
             continue

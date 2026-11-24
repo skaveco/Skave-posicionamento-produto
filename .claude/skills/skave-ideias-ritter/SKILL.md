@@ -120,6 +120,18 @@ Ritter pediu (13 de Novembro, 2026) que a ordem dos três posts do dia mude ao l
 
 Consulte as pastas de semana que cobrem o período para identificar o que já existe pelas datas e evitar duplicatas. Entregue a grade no chat com data, título da pauta, ordem no dia, formato, etapa do funil e pilar de cada publicação, já na ordem de publicação. Confira **sete datas e três formatos em cada data**, mostre o total de 21 conteúdos e indique as pautas que dependem de material ou fonte. Aguarde o usuário selecionar as pautas. Depois, crie a pasta da semana, grave os conteúdos completos **nos `conteudo.md` de cada publicação**, atualize `_semana.md` e `_calendario.md` e peça a conferência, conforme o fluxo acima. Não produza carrosséis ou Tweet automaticamente após criar os arquivos.
 
+## LinkedIn (24 de Novembro, 2026)
+
+Ritter aprovou levar ao LinkedIn de 3 a 4 posts por semana, adaptados das pautas mais estratégicas do Instagram: as que falam de dinheiro, margem e time comercial, para o dono ou diretor que decide com calma e lê até o fim ([documento 16](../../../VENDAS%20-%20Proposta%20Comercial/Estratégia%20de%20marca%20pessoal%20e%20conteúdo%20-%20Ritter/16-perfis-youtube-tiktok-linkedin.md)). Ficam de fora os reels de frase e de formatos virais, a oferta com palavra-chave no direct, a caixinha e os posts de comunidade.
+
+- **Pasta:** `<semana>/LinkedIn/<dia · Formato · título>/conteudo.md`, separada dos posts do Instagram. Assim os totais do `_calendario.md` e a ordem do feed continuam só do Instagram.
+- **Frontmatter:** `rede: LinkedIn`, `formato: Texto`, `Carrossel` (documento em PDF) ou `Vídeo`, `ordem: 1`. O fluxo de status é o mesmo.
+- **Texto:** no LinkedIn, o post é a `## Legenda` (é ela que o calendário copia). As duas primeiras linhas são o gancho, antes do "ver mais". Mais contexto que no Instagram, parágrafos curtos, chamada para comentar, sem convite para seguir e sem "tua". Até três hashtags no fim; link, se houver, no primeiro comentário. `## Texto publicável` traz só o `### Anexo` (o PDF ou "Nenhum").
+- **Carrossel em PDF:** montado com os PNGs do carrossel do Instagram, em `arte/carrossel.pdf`, sem refazer arte.
+- **`_semana.md`:** seção `## LinkedIn` própria, com a tabela dos posts dessa rede.
+- **Calendário:** o filtro de rede (Instagram ou LinkedIn) separa as duas. O `sync_calendario.py` dá aos posts do LinkedIn um `doc_id` com `linkedin`.
+- **Dias:** de preferência entre terça e sexta, com o post do LinkedIn saindo no mesmo dia ou um pouco antes do original quando o tema é datado (por exemplo, Black Friday na véspera).
+
 ## Leia a estratégia atual antes de gerar
 
 A pasta da estratégia está ao lado da pasta de criação de conteúdo, **três níveis acima deste arquivo**. Comece pelo [índice e decisões](../../../VENDAS%20-%20Proposta%20Comercial/Estratégia%20de%20marca%20pessoal%20e%20conteúdo%20-%20Ritter/00-visao-geral-e-decisoes.md), liste os Markdown na raiz dessa pasta e leia integralmente os documentos de estratégia numerados, incluindo novos tópicos que tenham sido adicionados. Faça essa leitura em cada novo pedido de geração ou revisão; não use somente a memória de uma conversa anterior. Se uma leitura vier truncada, complete-a antes de afirmar que conferiu as diretrizes.

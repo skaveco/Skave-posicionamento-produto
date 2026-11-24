@@ -16,7 +16,7 @@ Documentação da Skave (posicionamento, produto, vendas) e operação de conte�
     - `CHANGELOG.md`: registro simples das mudanças nas regras de conteúdo. Acrescente uma entrada a cada mudança de regra.
     - `Modelos de posts/`: exemplos de referência por formato (hoje, `Tweet.md`, `Reels.md` e `Carrossel.md`). Servem para calibrar tamanho e tom; não são textos para publicar nem copiar.
     - `Linguagem-do-Ritter.md`: jeito real de o Ritter falar, atualizado a cada correção dele. Lido antes de escrever qualquer copy; os vícios de linguagem proibidos estão na skill `skave-ideias-ritter`.
-    - `Conteúdos de posts/<NN · Mês, ano>/<intervalo da semana>/<dia · Formato · título>/conteudo.md` (+ `arte/`): fonte oficial de cada post.
+    - `Conteúdos de posts/<NN · Mês, ano>/<intervalo da semana>/<dia · Formato · título>/conteudo.md` (+ `arte/`): fonte oficial de cada post. Posts do LinkedIn ficam em `<intervalo da semana>/LinkedIn/`, separados dos do Instagram (filtro de rede no calendário).
     - `Stories/`: base de stories do RSL (`Sequencias-de-stories.md`, com as 10 sequências de venda, e `Ganchos-para-stories.md`, com os 30 ganchos), os PDFs originais e o `Registro-de-stories.md` (sugestões, postagens e métricas). Usada pela skill `skave-stories-do-dia`.
     - `Materiais de captação/`: materiais enviados por palavra-chave no direct (hoje, o teste de posicionamento da palavra FRASE).
     - `Ensaio Fotogáfico Ritter/_catalogo.md`: fotos reais do Ritter, originais em PNG. Nunca comprimir nem converter para JPEG.

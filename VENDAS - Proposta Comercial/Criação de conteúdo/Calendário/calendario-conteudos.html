@@ -163,7 +163,7 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
 <div class="wrap">
   <header class="top">
     <div>
-      <p class="eyebrow">@mateusritter · Instagram</p>
+      <p class="eyebrow" id="eyebrow">@mateusritter · Instagram</p>
       <h1>Calendário de conteúdos</h1>
     </div>
     <div class="nav">
@@ -179,6 +179,10 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
   </header>
 
   <div class="filters">
+    <div class="seg" role="group" aria-label="Rede" id="fRede">
+      <button type="button" id="rIg" aria-pressed="true">Instagram</button>
+      <button type="button" id="rLi" aria-pressed="false">LinkedIn</button>
+    </div>
     <div class="fgroup" id="fStatus"><span class="flabel">Status</span></div>
     <div class="fgroup" id="fFormat"><span class="flabel">Formato</span></div>
   </div>
@@ -212,28 +216,36 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
     { key: "arte pronta", label: "Arte pronta", cls: "--st-pronta" },
     { key: "publicado", label: "Publicado", cls: "--st-publicado" }
   ];
-  var FORMATS = [
-    { key: "Carrossel", abbr: "CAR" }, { key: "Reels", abbr: "REE" }, { key: "Tweet", abbr: "TWE" },
-    { key: "Estático", abbr: "EST" }, { key: "Stories", abbr: "STO" }
-  ];
+  var FORMATS_BY_REDE = {
+    Instagram: [
+      { key: "Carrossel", abbr: "CAR" }, { key: "Reels", abbr: "REE" }, { key: "Tweet", abbr: "TWE" },
+      { key: "Estático", abbr: "EST" }, { key: "Stories", abbr: "STO" }
+    ],
+    LinkedIn: [
+      { key: "Texto", abbr: "TXT" }, { key: "Carrossel", abbr: "PDF" }, { key: "Vídeo", abbr: "VID" }
+    ]
+  };
+  var FORMATS = FORMATS_BY_REDE.Instagram;
+  function redeOf(p) { return p.rede === "LinkedIn" ? "LinkedIn" : "Instagram"; }
   var MONTHS = ["Janeiro","Fevereiro","Março","Abril","Maio","Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"];
   var WD = ["Seg","Ter","Qua","Qui","Sex","Sáb","Dom"];
 
   var st = {
     posts: [], db: "loading", view: "mes",
     cursor: startOfMonth(new Date()),
-    hideStatus: {}, hideFormat: {}, narrow: false, updated: null
+    rede: "Instagram", hideStatus: {}, hideFormat: {}, narrow: false, updated: null
   };
   try {
     var saved = JSON.parse(localStorage.getItem("cal-ritter") || "{}");
     if (saved.view === "semana" || saved.view === "mes") st.view = saved.view;
     if (saved.hideStatus) st.hideStatus = saved.hideStatus;
     if (saved.hideFormat) st.hideFormat = saved.hideFormat;
+    if (saved.rede === "LinkedIn") st.rede = "LinkedIn";
   } catch (e) {}
   if (st.view === "semana") st.cursor = startOfWeek(new Date());
 
   function persist() {
-    try { localStorage.setItem("cal-ritter", JSON.stringify({ view: st.view, hideStatus: st.hideStatus, hideFormat: st.hideFormat })); } catch (e) {}
+    try { localStorage.setItem("cal-ritter", JSON.stringify({ view: st.view, rede: st.rede, hideStatus: st.hideStatus, hideFormat: st.hideFormat })); } catch (e) {}
   }
   function $(id) { return document.getElementById(id); }
   function el(tag, cls, text) { var n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; }
@@ -246,7 +258,7 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
   function fmtOf(k) { for (var i = 0; i < FORMATS.length; i++) if (FORMATS[i].key === k) return FORMATS[i]; return { key: k || "—", abbr: String(k || "—").slice(0, 3).toUpperCase() }; }
   function longDate(d) { return d.getDate() + " de " + MONTHS[d.getMonth()] + ", " + d.getFullYear(); }
 
-  function visible(p) { return !st.hideStatus[p.status] && !st.hideFormat[p.formato]; }
+  function visible(p) { return redeOf(p) === st.rede && !st.hideStatus[p.status] && !st.hideFormat[p.formato]; }
   function postsOn(dayIso) {
     return st.posts.filter(function (p) { return p.data === dayIso && visible(p); })
       .sort(function (a, b) {
@@ -279,7 +291,7 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
 
   function renderSummary() {
     var r = range(), a = iso(r[0]), z = iso(r[1]);
-    var inPeriod = st.posts.filter(function (p) { return p.data >= a && p.data <= z && !st.hideFormat[p.formato]; });
+    var inPeriod = st.posts.filter(function (p) { return redeOf(p) === st.rede && p.data >= a && p.data <= z && !st.hideFormat[p.formato]; });
     var box = $("summary"); box.textContent = "";
     var total = inPeriod.length;
     var bar = el("div", "sumbar");
@@ -387,6 +399,10 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
   }
 
   function render() {
+    FORMATS = FORMATS_BY_REDE[st.rede];
+    $("eyebrow").textContent = st.rede === "LinkedIn" ? "Mateus Ritter · LinkedIn" : "@mateusritter · Instagram";
+    $("rIg").setAttribute("aria-pressed", st.rede === "Instagram" ? "true" : "false");
+    $("rLi").setAttribute("aria-pressed", st.rede === "LinkedIn" ? "true" : "false");
     var r = range();
     $("period").textContent = st.view === "mes"
       ? MONTHS[st.cursor.getMonth()] + " " + st.cursor.getFullYear()
@@ -398,7 +414,8 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
     if (st.db !== "ok" || !st.posts.length) renderState(main);
     if (st.db === "ok") { if (st.view === "mes") renderMonth(main); else renderWeek(main); }
     var foot = $("foot"); foot.textContent = "";
-    foot.appendChild(el("span", null, st.posts.length + " posts registrados"));
+    var nRede = st.posts.filter(function (p) { return redeOf(p) === st.rede; }).length;
+    foot.appendChild(el("span", null, nRede + " posts registrados no " + st.rede));
     if (st.updated) foot.appendChild(el("span", null, "Última atualização: " + st.updated));
     foot.appendChild(el("span", null, "Somente visualização. Os status mudam pelas skills de conteúdo."));
   }
@@ -449,7 +466,7 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
     fact("Ordem no dia", p.ordem ? p.ordem + "º post" : ""); fact("Funil", p.funil); fact("Pilar", p.pilar); fact("Dor", p.dor); fact("Rede", p.rede);
     fact("Produção", p.producao); fact("Template", p.template); fact("Modo de cor", p.modo_cor);
     if (p.link_arte && /^https:\/\//.test(p.link_arte)) fact("Arte", "Abrir no " + (p.producao || "editor"), p.link_arte);
-    fact("PNGs na pasta arte/", p.artes ? String(p.artes) : "");
+    fact("Arquivos na pasta arte/", p.artes ? String(p.artes) : "");
     body.appendChild(dl);
     if (p.pasta) {
       var pw = el("div", "path"); pw.appendChild(el("code", null, p.pasta));
@@ -470,6 +487,8 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
 
   $("dClose").addEventListener("click", function () { $("dlg").close ? $("dlg").close() : $("dlg").removeAttribute("open"); });
   $("dlg").addEventListener("click", function (e) { if (e.target === this && this.close) this.close(); });
+  $("rIg").addEventListener("click", function () { if (st.rede === "Instagram") return; st.rede = "Instagram"; persist(); render(); });
+  $("rLi").addEventListener("click", function () { if (st.rede === "LinkedIn") return; st.rede = "LinkedIn"; persist(); render(); });
   $("prev").addEventListener("click", function () { st.cursor = st.view === "mes" ? new Date(st.cursor.getFullYear(), st.cursor.getMonth() - 1, 1) : addDays(st.cursor, -7); render(); });
   $("next").addEventListener("click", function () { st.cursor = st.view === "mes" ? new Date(st.cursor.getFullYear(), st.cursor.getMonth() + 1, 1) : addDays(st.cursor, 7); render(); });
   $("today").addEventListener("click", function () { st.cursor = st.view === "mes" ? startOfMonth(new Date()) : startOfWeek(new Date()); render(); });

@@ -2,6 +2,13 @@
 
 Registro simples das mudanças nas regras de conteúdo. A mais recente fica em cima. As regras completas estão na skill `skave-ideias-ritter`; os exemplos, em `Modelos de posts/`.
 
+## 24 de Novembro, 2026 · LinkedIn
+
+- De 3 a 4 posts por semana no LinkedIn, adaptados das pautas mais estratégicas do Instagram. Regras na seção "LinkedIn" da skill `skave-ideias-ritter`.
+- Posts em `<semana>/LinkedIn/`, com `rede: LinkedIn`, fora dos totais do `_calendario.md`. O post é a legenda; carrossel vira PDF com as artes do Instagram.
+- O calendário ganhou o filtro de rede (Instagram ou LinkedIn), para as duas não se misturarem.
+- Primeiros quatro, em rascunho: 25 (3 perguntas antes de aprovar desconto, PDF), 26 (Black Friday, texto), 27 (o vendedor não perde pro preço, texto) e 30 (o melhor vendedor pede demissão, texto).
+
 ## 24 de Novembro, 2026 · Três opções de gancho por reel
 
 - Pedido de Ritter: a partir das próximas publicações, todo vídeo que ele for gravar vem com três opções de gancho. Substitui a regra de 16 de Novembro ("um gancho por reel; se não agradar, pede-se outro").

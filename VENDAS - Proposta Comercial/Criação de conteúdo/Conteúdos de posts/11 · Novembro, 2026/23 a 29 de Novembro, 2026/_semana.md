@@ -47,3 +47,13 @@ Decidido em 23 de Novembro, 2026: os reels desta semana testam os formatos do ma
 | 24 e 25 de Novembro | [Caixinha de perguntas sobre preço, desconto e diferenciação](<24 de Novembro · Stories · Caixinha de perguntas sobre preço, desconto e diferenciação/conteudo.md>) | aprovado |
 
 Perguntas da caixinha: Ritter envia na quinta, 26 de Novembro. Se houver perguntas boas, o domingo vira dia de respostas.
+
+## LinkedIn
+
+Posts adaptados das pautas do Instagram, de 3 a 4 por semana, na pasta `LinkedIn/` desta semana. Ficam fora dos totais do `_calendario.md` e aparecem no calendário só com o filtro LinkedIn.
+
+| Data | Formato | Publicação | Status |
+| --- | --- | --- | --- |
+| 25 de Novembro | Carrossel · PDF | [3 perguntas pra fazer antes de aprovar o próximo desconto](<LinkedIn/25 de Novembro · Carrossel · 3 perguntas pra fazer antes de aprovar o próximo desconto/conteudo.md>) | rascunho |
+| 26 de Novembro | Texto | [A Black Friday pode trazer o cliente que vai cancelar primeiro](<LinkedIn/26 de Novembro · Texto · A Black Friday pode trazer o cliente que vai cancelar primeiro/conteudo.md>) | rascunho |
+| 27 de Novembro | Texto | [O seu vendedor não perde pro preço](<LinkedIn/27 de Novembro · Texto · O seu vendedor não perde pro preço/conteudo.md>) | rascunho |
