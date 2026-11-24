@@ -2,7 +2,7 @@
 
 Registro vivo do jeito de Mateus Ritter falar e escrever. A skill [skave-ideias-ritter](../../.claude/skills/skave-ideias-ritter/SKILL.md) lê este arquivo antes de cada geração ou revisão e o atualiza sempre que Ritter corrige uma frase no chat ou edita um `conteudo.md` diretamente.
 
-**Último registro:** 23 de Novembro, 2026
+**Último registro:** 24 de Novembro, 2026
 
 Registre padrões, não só frases soltas. O objetivo é que o texto soe como o Ritter, e não como uma copy genérica com expressões dele espalhadas.
 
@@ -55,3 +55,4 @@ Registre padrões, não só frases soltas. O objetivo é que o texto soe como o 
 - Os vícios listados na seção [Vícios de linguagem proibidos](../../.claude/skills/skave-ideias-ritter/SKILL.md#vícios-de-linguagem-proibidos) da skill: contraste artificial (“não é X, é Y”), pergunta retórica de efeito, palavras como crucial, fundamental, essencial, vital, revolucionário, inspirador, mergulhar, navegar, jornada e ecossistema, transições de redação escolar, listas onde cabia conversa, pontuação engessada e a fórmula “Sem X. Sem Y. Só Z.”.
 - Vocabulário de apresentação institucional, como “lacuna de percepção da diferenciação”. No lugar, diz a situação: “seu cliente não entendeu por que escolher você”.
 - Gírias ou intimidade forçadas.
+- Jargão de vendas importado do inglês ou de manual de B2B (pedido de 24 de Novembro, 2026, no infográfico de LinkedIn). Ele não usa “comitê” nem “demo”. No lugar: “o cliente”, “quem decide”, “o sócio”; “apresentação”, “reunião”, “mostrar o produto”. Vale para termos do mesmo tipo (champion, decisor, stakeholder, pipeline, lead, ICP, discovery, follow-up): antes de usar um deles, troque pela palavra que o dono de SaaS usaria numa conversa.

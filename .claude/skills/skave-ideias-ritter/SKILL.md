@@ -130,6 +130,7 @@ Ritter aprovou levar ao LinkedIn de 3 a 4 posts por semana, adaptados das pautas
 - **Carrossel em PDF:** montado com os PNGs do carrossel do Instagram, em `arte/carrossel.pdf`, sem refazer arte.
 - **`_semana.md`:** seção `## LinkedIn` própria, com a tabela dos posts dessa rede.
 - **Calendário:** o filtro de rede (Instagram ou LinkedIn) separa as duas. O `sync_calendario.py` dá aos posts do LinkedIn um `doc_id` com `linkedin`.
+- **Infográfico semanal:** um post por semana no formato do [modelo de infográfico](../../../VENDAS%20-%20Proposta%20Comercial/Criação%20de%20conteúdo/Modelos%20de%20posts/LinkedIn-infografico.md) (`formato: Infográfico`), com a arte no padrão do Tweet, pouca informação e muito respiro.
 - **Dias:** de preferência entre terça e sexta, com o post do LinkedIn saindo no mesmo dia ou um pouco antes do original quando o tema é datado (por exemplo, Black Friday na véspera).
 
 ## Leia a estratégia atual antes de gerar
@@ -201,6 +202,7 @@ O arquivo cresce com o uso. Mantenha-o assim:
 - **Edição direta nos arquivos:** antes de gerar ou revisar, confira com `git log -p --since=<data do último registro> -- "VENDAS - Proposta Comercial/Criação de conteúdo/Conteúdos de posts"` se alguém editou o texto publicável de algum `conteudo.md` depois que esta skill o gravou. Compare a versão gravada com a editada e registre os padrões das mudanças feitas por Ritter. Ajustes de status, frontmatter ou produção não contam.
 - Atualize a data de "Último registro" no topo do arquivo e inclua o arquivo no commit da etapa.
 - Registre padrões, não cópias. Se uma troca contradisser outra anterior, mantenha a mais recente e anote a mudança.
+- **Curadoria de vocabulário antes de entregar** (pedido de 24 de Novembro, 2026). Depois de escrever, releia palavra por palavra contra o arquivo e troque toda palavra que ele não usa, em especial jargão de vendas e marketing (“comitê”, “demo” e similares). Vale para todo texto, inclusive o que vai dentro de arte, infográfico ou PDF, que é onde o jargão passa mais fácil.
 
 ## Vícios de linguagem proibidos
 
