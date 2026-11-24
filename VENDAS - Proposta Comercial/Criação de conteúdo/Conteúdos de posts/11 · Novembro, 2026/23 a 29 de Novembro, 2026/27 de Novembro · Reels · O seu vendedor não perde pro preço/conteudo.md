@@ -34,6 +34,14 @@ A pergunta que te prometi no começo do vídeo é esta: pega a última venda que
 ### Take 6
 Manda esse vídeo pro seu time de vendas e faz essa pergunta hoje mesmo aí na tua operação.
 
+## Opções de gancho
+
+Take 1 atual: a versão escrita por Ritter em 24 de Novembro, 2026 (“Quando o seu vendedor diz "perdemos a venda por preço"…”). As três opções abaixo servem para comparar na gravação. Todas funcionam com o Take 2 como está.
+
+1. **Contraintuitivo** (bônus, Polêmicos: "Você foi enganado sobre isso a vida inteira…"): "Toda vez que o seu vendedor te diz que perdeu a venda por preço, ele tá te contando só o final da história."
+2. **O que ninguém conta** (bônus, Polêmicos: "O que ninguém tem coragem de te contar sobre ___"): "Ninguém no seu time de vendas tem coragem de te contar o verdadeiro motivo de perder venda por preço."
+3. **Situação e consequência** (bônus, Suspense: "Quando percebi isso, já era tarde."): "Se o seu time vive perdendo venda por preço, eu tenho uma notícia ruim: quando o preço apareceu, a venda já tinha ido embora."
+
 ## Legenda
 
 Script ajuda o vendedor a responder. O motivo pra escolher você precisa existir antes, no site, na apresentação e na fala de todo mundo do time. Me segue, que eu mostro como chegar nessa frase.

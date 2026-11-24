@@ -2,6 +2,12 @@
 
 Registro simples das mudanças nas regras de conteúdo. A mais recente fica em cima. As regras completas estão na skill `skave-ideias-ritter`; os exemplos, em `Modelos de posts/`.
 
+## 24 de Novembro, 2026 · Três opções de gancho por reel
+
+- Pedido de Ritter: a partir das próximas publicações, todo vídeo que ele for gravar vem com três opções de gancho. Substitui a regra de 16 de Novembro ("um gancho por reel; se não agradar, pede-se outro").
+- As opções ficam na seção `## Opções de gancho` do `conteudo.md`, com estruturas diferentes e compatíveis com o resto do roteiro. A recomendada vai no Take 1 até ele escolher.
+- Primeiro exemplo: Reels de 27 de Novembro ("O seu vendedor não perde pro preço").
+
 ## 23 de Novembro, 2026 · Formatos virais nos reels
 
 - Novo guia `Modelos de posts/Formatos-virais-2026.md`, a partir do material "Formato Viral 2026": Notas, Curiosidade (até 7 s), Caixinha de pergunta (até 45 s), Cortes rápidos (cerca de 60 s), Tela dividida, React e Carrossel neutro, com o que serve e o que não serve para o público B2B.
