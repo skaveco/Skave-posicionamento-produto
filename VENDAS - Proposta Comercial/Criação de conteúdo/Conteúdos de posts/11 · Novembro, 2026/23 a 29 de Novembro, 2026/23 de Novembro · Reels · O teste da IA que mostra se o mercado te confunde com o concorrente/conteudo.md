@@ -8,7 +8,7 @@ funil: Topo
 pilar: Humano na era da IA
 dor: Ferramentas de IA facilitam lançar software e as ofertas se parecem (documento 12; documento 04, dores práticas)
 ordem: 1
-status: aprovado
+status: publicado
 producao:
 template:
 modo_cor:

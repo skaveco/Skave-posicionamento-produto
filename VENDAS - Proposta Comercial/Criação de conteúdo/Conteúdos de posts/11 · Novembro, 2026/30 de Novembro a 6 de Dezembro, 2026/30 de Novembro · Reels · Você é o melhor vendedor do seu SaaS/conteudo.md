@@ -8,7 +8,7 @@ funil: Topo
 pilar: Vida de fundador de SaaS
 dor: Equipe depende do fundador para explicar a empresa; cansaço do fundador por ser o único que sabe explicar (documento 04, dores na operação e emocionais)
 ordem: 1
-status: rascunho
+status: aprovado
 producao:
 template:
 modo_cor:

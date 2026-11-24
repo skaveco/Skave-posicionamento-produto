@@ -4,9 +4,9 @@ Semana ainda não planejada. O dia 30 de Novembro foi escrito antes, a pedido de
 
 | Data | Ordem | Formato | Publicação | Funil | Pilar | Status |
 | --- | ---: | --- | --- | --- | --- | --- |
-| 30 de Novembro | 1º | Reels · Falado | [Você é o melhor vendedor do seu SaaS](<30 de Novembro · Reels · Você é o melhor vendedor do seu SaaS/conteudo.md>) | Topo | Vida de fundador de SaaS | rascunho |
-| 30 de Novembro | 2º | Carrossel · Texto | [O dia em que o seu melhor vendedor pede demissão](<30 de Novembro · Carrossel · O dia em que o seu melhor vendedor pede demissão/conteudo.md>) | Topo | Vida de fundador de SaaS | em produção |
-| 30 de Novembro | 3º | Tweet | [Se o seu SaaS só fecha quando você entra na reunião](<30 de Novembro · Tweet · Se o seu SaaS só fecha quando você entra na reunião/conteudo.md>) | Topo | Vida de fundador de SaaS | em produção |
+| 30 de Novembro | 1º | Reels · Falado | [Você é o melhor vendedor do seu SaaS](<30 de Novembro · Reels · Você é o melhor vendedor do seu SaaS/conteudo.md>) | Topo | Vida de fundador de SaaS | aprovado |
+| 30 de Novembro | 2º | Carrossel · Texto | [O dia em que o seu melhor vendedor pede demissão](<30 de Novembro · Carrossel · O dia em que o seu melhor vendedor pede demissão/conteudo.md>) | Topo | Vida de fundador de SaaS | arte pronta |
+| 30 de Novembro | 3º | Tweet | [Se o seu SaaS só fecha quando você entra na reunião](<30 de Novembro · Tweet · Se o seu SaaS só fecha quando você entra na reunião/conteudo.md>) | Topo | Vida de fundador de SaaS | arte pronta |
 
 | Data | Reels | Formato viral |
 | --- | --- | --- |
