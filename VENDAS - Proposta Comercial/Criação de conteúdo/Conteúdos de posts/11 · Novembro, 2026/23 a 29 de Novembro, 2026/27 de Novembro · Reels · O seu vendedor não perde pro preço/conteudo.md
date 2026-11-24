@@ -17,22 +17,22 @@ link_arte:
 ## Texto publicável
 
 ### Take 1
-Quando o seu vendedor diz "perdemos no preço", quase sempre a venda foi perdida bem antes.
+Quando o seu vendedor diz "perdemos a venda por preço", quase sempre a venda foi perdida bem antes dele verbalizar.
 
 ### Take 2
-E dá pra descobrir em que momento com uma pergunta só. Já te passo.
+E dá pra descobrir o momento exato com apenas uma simples pergunta. Já te passo.
 
 ### Take 3
-O cliente chegou no fim da reunião sem um motivo claro pra escolher você. E sem motivo, quem decide é o preço.
+O cliente chegou até o fim da reunião sem nenhum motivo claro pra escolher você. E sem motivo, quem decide é o preço.
 
 ### Take 4
-Treinar objeção ajuda. Só que nenhum script salva um vendedor que não consegue responder, em uma frase, por que o cliente deveria escolher a sua empresa.
+Treinar objeção ajuda, eu diria que é essencial. Só que nenhum script salva um vendedor que não consegue responder, em uma frase, por que o cliente deveria escolher a sua empresa.
 
 ### Take 5
-A pergunta é esta: pega a última venda que o seu time perdeu "no preço" e pergunta pro vendedor o que o cliente elogiou em você durante a reunião. Se a resposta for "nada em especial", a venda já tava perdida antes da proposta.
+A pergunta que te prometi no começo do vídeo é esta: pega a última venda que o seu time perdeu "no preço" e pergunta pro vendedor o que o cliente mais elogiou em você durante a reunião. Se a resposta for "nada em especial", a venda já tava perdida antes da proposta.
 
 ### Take 6
-Manda esse vídeo pro seu time de vendas e faz essa pergunta hoje.
+Manda esse vídeo pro seu time de vendas e faz essa pergunta hoje mesmo aí na tua operação.
 
 ## Legenda
 
