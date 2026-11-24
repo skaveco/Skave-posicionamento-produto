@@ -2,12 +2,12 @@
 titulo: O dia em que o seu melhor vendedor pede demissão
 data: 30 de Novembro, 2026
 rede: LinkedIn
-formato: Texto
+formato: Carrossel
 funil: Topo
 pilar: Vida de fundador de SaaS
 dor: Equipe depende do fundador para decidir o que dizer; o comercial precisa explicar o diferencial em cada negociação (documento 04, dores na operação)
 ordem: 1
-status: aprovado
+status: arte pronta
 producao:
 template:
 modo_cor:
@@ -17,7 +17,7 @@ link_arte:
 ## Texto publicável
 
 ### Anexo
-Nenhum. Post só de texto.
+PDF `arte/carrossel.pdf` (5 páginas, 1080 × 1350), montado com as artes do carrossel do Instagram [30 de Novembro · Carrossel · O dia em que o seu melhor vendedor pede demissão](<../../30 de Novembro · Carrossel · O dia em que o seu melhor vendedor pede demissão/conteudo.md>). Título do documento no LinkedIn: "O dia em que o seu melhor vendedor pede demissão".
 
 ## Legenda
 

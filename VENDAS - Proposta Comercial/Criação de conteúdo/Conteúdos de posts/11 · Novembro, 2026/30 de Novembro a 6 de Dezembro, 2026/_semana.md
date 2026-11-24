@@ -22,4 +22,6 @@ Posts adaptados das pautas do Instagram, de 3 a 4 por semana, na pasta `LinkedIn
 
 | Data | Formato | Publicação | Status |
 | --- | --- | --- | --- |
-| 30 de Novembro | Texto | [O dia em que o seu melhor vendedor pede demissão](<LinkedIn/30 de Novembro · Texto · O dia em que o seu melhor vendedor pede demissão/conteudo.md>) | aprovado |
+| 30 de Novembro | Carrossel · PDF | [O dia em que o seu melhor vendedor pede demissão](<LinkedIn/30 de Novembro · Carrossel · O dia em que o seu melhor vendedor pede demissão/conteudo.md>) | arte pronta |
+
+**LinkedIn, para outro momento:** infográfico "Rebobinando uma venda perdida no preço" (modelo em `Modelos de posts/LinkedIn-infografico.md`). Texto aprovado; falta escolher o modo de cor e a data.

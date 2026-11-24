@@ -2,12 +2,12 @@
 titulo: O seu vendedor não perde pro preço
 data: 27 de Novembro, 2026
 rede: LinkedIn
-formato: Texto
+formato: Tweet
 funil: Topo
 pilar: Vida de fundador de SaaS
 dor: O comercial precisa explicar o diferencial em cada negociação (documento 04, dores na operação)
 ordem: 1
-status: aprovado
+status: arte pronta
 producao:
 template:
 modo_cor:
@@ -17,7 +17,7 @@ link_arte:
 ## Texto publicável
 
 ### Anexo
-Nenhum. Post só de texto.
+Imagem `arte/arte.png` (1080 × 1350), o Tweet do Instagram [27 de Novembro · Tweet · Seu time pode decorar todas as respostas pra objeção de preço](<../../27 de Novembro · Tweet · Seu time pode decorar todas as respostas pra objeção de preço/conteudo.md>).
 
 ## Legenda
 

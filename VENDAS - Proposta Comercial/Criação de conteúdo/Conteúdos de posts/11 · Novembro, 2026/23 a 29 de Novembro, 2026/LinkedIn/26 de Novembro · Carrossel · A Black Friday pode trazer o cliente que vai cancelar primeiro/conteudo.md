@@ -2,12 +2,12 @@
 titulo: A Black Friday pode trazer o cliente que vai cancelar primeiro
 data: 26 de Novembro, 2026
 rede: LinkedIn
-formato: Texto
+formato: Carrossel
 funil: Topo
 pilar: Marca que vende
 dor: O comprador compara preço porque não percebe a diferença relevante; desejo de defender o valor sem depender de descontos (documento 04, dores práticas e desejos)
 ordem: 1
-status: aprovado
+status: arte pronta
 producao:
 template:
 modo_cor:
@@ -17,7 +17,7 @@ link_arte:
 ## Texto publicável
 
 ### Anexo
-Nenhum. Post só de texto.
+PDF `arte/carrossel.pdf` (5 páginas, 1080 × 1350), montado com as artes do carrossel do Instagram [27 de Novembro · Carrossel · A Black Friday pode trazer o cliente que vai cancelar primeiro](<../../27 de Novembro · Carrossel · A Black Friday pode trazer o cliente que vai cancelar primeiro/conteudo.md>). Título do documento no LinkedIn: "A Black Friday pode trazer o cliente que vai cancelar primeiro".
 
 ## Legenda
 
