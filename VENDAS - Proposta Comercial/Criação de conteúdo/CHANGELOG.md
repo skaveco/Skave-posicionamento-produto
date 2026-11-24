@@ -4,6 +4,7 @@ Registro simples das mudanças nas regras de conteúdo. A mais recente fica em c
 
 ## 24 de Novembro, 2026 · Infográfico no LinkedIn e curadoria de vocabulário
 
+- Todo post do LinkedIn passa a ter peça visual, intercalando infográfico (um por semana), carrossel em PDF e Tweet em imagem. Post só de texto deixa de ser o padrão.
 - Novo formato no LinkedIn: infográfico de uma página, um por semana, no padrão visual do Tweet, com pouca informação e muito respiro. Modelo em `Modelos de posts/LinkedIn-infografico.md`, com o exemplo "Rebobinando uma venda perdida no preço".
 - Ritter não usa "comitê" nem "demo". Registrado em `Linguagem-do-Ritter.md`, junto com outros termos de jargão de vendas. A skill ganhou o passo de curadoria de vocabulário antes de entregar qualquer texto, inclusive o de dentro das artes.
 
