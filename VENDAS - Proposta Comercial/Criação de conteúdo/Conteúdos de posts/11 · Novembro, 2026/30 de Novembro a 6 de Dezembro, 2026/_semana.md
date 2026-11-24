@@ -13,3 +13,5 @@ Semana ainda não planejada. O dia 30 de Novembro foi escrito antes, a pedido de
 | 30 de Novembro | Você é o melhor vendedor do seu SaaS | Cortes rápidos |
 
 **Pauta reserva:** "4 sinais de que o seu SaaS ainda depende de você pra vender" (carrossel de lista), escrita para 30 de Novembro e trocada a pedido de Ritter. Texto no histórico do Git, commit 0f1673d.
+
+**Para outro momento:** depoimento real de cliente (avaliações do Google, escolhido por Ritter, falando de clareza ou valor percebido, sem dizer que o cliente é SaaS). Saiu do carrossel de 29 de Novembro quando a pauta foi trocada. Pode entrar num post de prova, no reels de oferta ou nos destaques de prova do perfil (documento 17).
