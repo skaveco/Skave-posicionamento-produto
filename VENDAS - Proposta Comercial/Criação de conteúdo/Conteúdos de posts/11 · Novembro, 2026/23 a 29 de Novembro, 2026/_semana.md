@@ -7,9 +7,9 @@ Tema da semana a partir de 24 de Novembro: **SaaS B2B não deveria competir por 
 | 23 de Novembro | 1º | Reels · Frase | [O teste da IA que mostra se o mercado te confunde com o concorrente](<23 de Novembro · Reels · O teste da IA que mostra se o mercado te confunde com o concorrente/conteudo.md>) | Topo | Humano na era da IA | publicado |
 | 23 de Novembro | 2º | Carrossel · Lista | [Como descobrir em 3 passos se o seu time explica o seu SaaS do mesmo jeito que você](<23 de Novembro · Carrossel · Como descobrir em 3 passos se o seu time explica o seu SaaS do mesmo/conteudo.md>) | Topo | Vida de fundador de SaaS | publicado |
 | 23 de Novembro | 3º | Tweet | [Se você fosse o seu cliente, você se compraria](<23 de Novembro · Tweet · Se você fosse o seu cliente, você se compraria/conteudo.md>) | Topo | Marca que vende | publicado |
-| 24 de Novembro | 1º | Reels · Frase | [Quanto mais um SaaS briga por preço, menos ele sabe dizer por que é diferente](<24 de Novembro · Reels · Quanto mais um SaaS briga por preço, menos ele sabe dizer por que é/conteudo.md>) | Topo | Networking e parcerias | aprovado |
-| 24 de Novembro | 2º | Reels · Falado | [O problema de um SaaS que faz tudo](<24 de Novembro · Reels · O problema de um SaaS que faz tudo/conteudo.md>) | Meio | Vida de fundador de SaaS | aprovado |
-| 24 de Novembro | 3º | Tweet | [Preço só vira argumento quando a diferença some](<24 de Novembro · Tweet · Preço só vira argumento quando a diferença some/conteudo.md>) | Topo | Marca que vende | arte pronta |
+| 24 de Novembro | 1º | Reels · Frase | [Quanto mais um SaaS briga por preço, menos ele sabe dizer por que é diferente](<24 de Novembro · Reels · Quanto mais um SaaS briga por preço, menos ele sabe dizer por que é/conteudo.md>) | Topo | Networking e parcerias | publicado |
+| 24 de Novembro | 2º | Reels · Falado | [O problema de um SaaS que faz tudo](<24 de Novembro · Reels · O problema de um SaaS que faz tudo/conteudo.md>) | Meio | Vida de fundador de SaaS | publicado |
+| 24 de Novembro | 3º | Tweet | [Preço só vira argumento quando a diferença some](<24 de Novembro · Tweet · Preço só vira argumento quando a diferença some/conteudo.md>) | Topo | Marca que vende | publicado |
 | 25 de Novembro | 1º | Carrossel · Lista | [3 perguntas pra fazer antes de aprovar o próximo desconto](<25 de Novembro · Carrossel · 3 perguntas pra fazer antes de aprovar o próximo desconto/conteudo.md>) | Meio | Marca que vende | arte pronta |
 | 25 de Novembro | 2º | Tweet | [Posicione-se ou será posicionado](<25 de Novembro · Tweet · Posicione-se ou será posicionado/conteudo.md>) | Topo | Anti-manada e disciplina | arte pronta |
 | 25 de Novembro | 3º | Reels · Falado | [Dei nota pros motivos que todo SaaS usa pra dar desconto](<25 de Novembro · Reels · Dei nota pros motivos que todo SaaS usa pra dar desconto/conteudo.md>) | Topo | Marca que vende | aprovado |
@@ -44,7 +44,7 @@ Decidido em 23 de Novembro, 2026: os reels desta semana testam os formatos do ma
 
 | Data | Publicação | Status |
 | --- | --- | --- |
-| 24 e 25 de Novembro | [Caixinha de perguntas sobre preço, desconto e diferenciação](<24 de Novembro · Stories · Caixinha de perguntas sobre preço, desconto e diferenciação/conteudo.md>) | aprovado |
+| 24 e 25 de Novembro | [Caixinha de perguntas sobre preço, desconto e diferenciação](<24 de Novembro · Stories · Caixinha de perguntas sobre preço, desconto e diferenciação/conteudo.md>) | publicado |
 
 Perguntas da caixinha: nenhuma resposta até 25 de Novembro. O Reels de 29 fica como está (não vira Caixinha) e o domingo segue o plano original.
 
