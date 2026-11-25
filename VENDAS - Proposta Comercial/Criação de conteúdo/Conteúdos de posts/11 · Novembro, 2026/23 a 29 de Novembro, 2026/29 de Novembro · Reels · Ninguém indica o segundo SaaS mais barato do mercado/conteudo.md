@@ -8,7 +8,7 @@ funil: Topo
 pilar: Marca que vende
 dor: O comprador compara preço porque não percebe a diferença relevante (documento 04, dores práticas)
 ordem: 2
-status: aprovado
+status: arte pronta
 producao:
 template:
 modo_cor:
@@ -51,5 +51,7 @@ Preço baixo traz cliente. Uma razão clara pra escolher você traz indicação.
 **Alternativa no teste dos formatos virais:** se chegar uma pergunta polêmica e real na caixinha (Ritter envia na quinta, 26 de Novembro), este reel dá lugar a uma resposta no formato **Caixinha de pergunta**: a pergunta na tela, resposta em tom firme, até 45 segundos. Sem pergunta boa, fica como está.
 
 ## Base e dependências
+
+- Vídeo gravado, editado e programado no Instagram (Ritter, 25 de Novembro, 2026).
 
 Sem fontes externas. A dor é hipótese documentada (documento 04), não relato de cliente. Tema da semana definido a partir da análise da @carol.iasmim (documento 17).

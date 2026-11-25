@@ -8,7 +8,7 @@ funil: Topo
 pilar: Marca que vende
 dor: O comprador compara preço porque não percebe a diferença relevante; desejo de defender o valor sem depender de descontos (documento 04)
 ordem: 3
-status: aprovado
+status: arte pronta
 producao:
 template:
 modo_cor:
@@ -55,6 +55,8 @@ Desconto com troca (pagamento anual, case no contrato, prazo maior) é negociaç
 **Gancho do bônus** (Polêmicos / Contraintuitivos: "Se eu fosse você, eu NÃO faria isso."). **Formato viral: Notas** (referência "Formato Viral 2026", em `Modelos de posts/Formatos-virais-2026.md`). Selfie falando pra câmera. Texto de tela grande nos primeiros segundos: "Dei nota pros motivos de desconto". Ritmo rápido, um corte por take. CTA principal: mandar pro sócio que aprova os descontos. Ritter responde os comentários. Convite para seguir na legenda.
 
 ## Base e dependências
+
+- Vídeo gravado, editado e programado no Instagram (Ritter, 25 de Novembro, 2026).
 
 Sem fontes externas. A dor é hipótese documentada (documento 04), não relato de cliente. As notas são opinião do Ritter, sem número de mercado. Segue a linha registrada em 23 de Novembro, 2026: alertar sobre o perigo do desconto sem condenar toda oferta.
 - Substitui o reel "Todo desconto confessa uma coisa sobre o seu SaaS" (aprovado), trocado em 23 de Novembro, 2026 para testar o formato Notas. O texto antigo está no histórico do git.

@@ -8,7 +8,7 @@ funil: Fundo
 pilar: Marca que vende
 dor: O comprador compara preço ou funcionalidades porque não percebe a diferença relevante (documento 04, dores práticas)
 ordem: 3
-status: aprovado
+status: arte pronta
 producao:
 template:
 modo_cor:
@@ -43,6 +43,8 @@ Comenta FRASE que eu te mando o teste de posicionamento no direct. São três pe
 Post de oferta, curto (cerca de 20 segundos), separado do conteúdo de alcance (documento 17). Texto de tela: "Teste de posicionamento em 3 perguntas. De graça." CTA principal: palavra-chave FRASE. Convite para seguir na legenda.
 
 ## Base e dependências
+
+- Vídeo gravado, editado e programado no Instagram (Ritter, 25 de Novembro, 2026).
 
 Sem fontes externas. A dor é hipótese documentada (documento 04), não relato de cliente. Tema da semana definido a partir da análise da @carol.iasmim (documento 17).
 - **Material:** [Teste de posicionamento em 3 perguntas](../../../../Materiais%20de%20captação/teste-de-posicionamento.md).

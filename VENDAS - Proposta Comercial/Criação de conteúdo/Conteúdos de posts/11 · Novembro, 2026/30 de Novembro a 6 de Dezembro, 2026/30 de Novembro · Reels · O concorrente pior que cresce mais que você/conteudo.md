@@ -8,7 +8,7 @@ funil: Topo
 pilar: Marca que vende
 dor: Incômodo ao ver concorrentes percebidos como inferiores conquistarem mais espaço; sensação de que o produto é melhor do que a marca faz parecer (documento 04, dores emocionais)
 ordem: 1
-status: aprovado
+status: arte pronta
 producao:
 template:
 modo_cor:
@@ -81,6 +81,8 @@ Quando um concorrente pior cresce mais, quase sempre a diferença tá na primeir
 Selfie falando pra câmera. **Formato viral: Cortes rápidos** (referência em `Modelos de posts/Formatos-virais-2026.md`): até 60 segundos, um corte a cada fala, alternando plano perto e médio. **Gancho do bônus** (Polêmicos: "Adivinha quem tá se beneficiando enquanto você sofre?"). Texto de tela grande nos primeiros 7 segundos: "É por isso que um concorrente pior vende mais que você" (escolhido por Ritter; opções em `## Opções de gancho`). CTA principal: comentar FRASE. Quem comenta recebe por direct o link do teste de posicionamento (`Materiais de captação/teste-de-posicionamento.md`), que liga com a oferta de diferenciação. Convite para seguir na legenda.
 
 ## Base e dependências
+
+- Vídeo gravado, editado e programado no Instagram (Ritter, 25 de Novembro, 2026).
 
 Sem fontes externas. A dor é hipótese documentada (documento 04), não relato de cliente. Nenhum número de mercado é citado; o teste é para o leitor fazer com a própria home.
 - **Dependência:** a resposta para quem comentar FRASE. Se a automação estiver configurada só para o direct, responder os comentários à mão ou ajustar a automação para comentários.

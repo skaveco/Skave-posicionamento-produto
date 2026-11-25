@@ -8,7 +8,7 @@ funil: Topo
 pilar: Vida de fundador de SaaS
 dor: O comercial precisa explicar o diferencial em cada negociação (documento 04, dores na operação)
 ordem: 1
-status: aprovado
+status: arte pronta
 producao:
 template:
 modo_cor:
@@ -65,5 +65,7 @@ Script ajuda o vendedor a responder. O motivo pra escolher você precisa existir
 Selfie falando pra câmera. Texto de tela grande nos primeiros 7 segundos: "O seu vendedor não perde pro preço" (opções em `## Opções de gancho`). CTA principal: mandar pro time de vendas. Convite para seguir na legenda.
 
 ## Base e dependências
+
+- Vídeo gravado, editado e programado no Instagram (Ritter, 25 de Novembro, 2026).
 
 Sem fontes externas. A dor é hipótese documentada (documento 04), não relato de cliente. Tema da semana definido a partir da análise da @carol.iasmim (documento 17).

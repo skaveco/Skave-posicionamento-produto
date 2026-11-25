@@ -8,7 +8,7 @@ funil: Topo
 pilar: Vida de fundador de SaaS
 dor: O comprador compara preço porque não percebe a diferença relevante (documento 04, dores práticas)
 ordem: 2
-status: aprovado
+status: arte pronta
 producao:
 template:
 modo_cor:
@@ -46,6 +46,8 @@ Faz a conta com o seu sócio e me conta o número aqui embaixo. Me segue, que es
 **Formato viral: Curiosidade** (referência "Formato Viral 2026", em `Modelos de posts/Formatos-virais-2026.md`). Vídeo curtíssimo, de até 7 segundos, para ser visto mais de uma vez; a frase fica na tela o vídeo todo e o conteúdo vai na legenda. A primeira linha da legenda retoma a frase para segurar quem chega do vídeo. CTA principal: comentário com o número da conta. Convite para seguir na legenda.
 
 ## Base e dependências
+
+- Vídeo gravado, editado e programado no Instagram (Ritter, 25 de Novembro, 2026).
 
 Sem fontes externas. A dor é hipótese documentada (documento 04), não relato de cliente. A relação entre desconto e cancelamento é apresentada como tendência a conferir nos dados do próprio leitor, sem número de mercado.
 - **Confirmar com o Ritter:** "E eu que descobri" apresenta a ideia como observação dele. Se ele preferir não assumir assim, trocar por "E eu que entendi por que…".
