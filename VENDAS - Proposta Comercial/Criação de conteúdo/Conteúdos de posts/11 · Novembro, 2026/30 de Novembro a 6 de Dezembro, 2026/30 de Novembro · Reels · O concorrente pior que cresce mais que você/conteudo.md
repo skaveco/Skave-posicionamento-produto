@@ -8,7 +8,7 @@ funil: Topo
 pilar: Marca que vende
 dor: Incômodo ao ver concorrentes percebidos como inferiores conquistarem mais espaço; sensação de que o produto é melhor do que a marca faz parecer (documento 04, dores emocionais)
 ordem: 1
-status: rascunho
+status: aprovado
 producao:
 template:
 modo_cor:
@@ -54,7 +54,7 @@ Faz esse teste hoje. E se a frase dele ganhou, comenta FRASE aqui que eu te mand
 
 ### Fala (Take 1)
 
-Todas funcionam com o Take 2 como está. A 1 está no Take 1.
+Todas funcionam com o Take 2 como está. **Escolhida por Ritter (25 de Novembro): a 1**, que está no Take 1.
 
 1. **Situação e provocação** (bônus, Polêmicos: "Adivinha quem tá se beneficiando enquanto você sofre?"): "Tem um concorrente seu, que você sabe que é pior, crescendo mais rápido que você."
 2. **O que ninguém conta** (bônus, Polêmicos: "O que ninguém tem coragem de te contar sobre ___"): "Ninguém tem coragem de te contar por que aquele concorrente pior tá vendendo mais que você."
@@ -63,7 +63,7 @@ Todas funcionam com o Take 2 como está. A 1 está no Take 1.
 ### Na tela, primeiros 7 s
 
 1. "O concorrente pior que cresce mais que você" (também é o título)
-2. "Por que ele vende mais com um produto pior"
+2. "Por que ele vende mais com um produto pior" → **escolhida e ajustada por Ritter (25 de Novembro): "É por isso que um concorrente pior vende mais que você"**
 3. "Teste de 1 minuto: a sua home × a dele"
 
 ## Legenda
@@ -72,7 +72,7 @@ Quando um concorrente pior cresce mais, quase sempre a diferença tá na primeir
 
 ## Notas de produção
 
-Selfie falando pra câmera. **Formato viral: Cortes rápidos** (referência em `Modelos de posts/Formatos-virais-2026.md`): até 60 segundos, um corte a cada fala, alternando plano perto e médio. **Gancho do bônus** (Polêmicos: "Adivinha quem tá se beneficiando enquanto você sofre?"). Texto de tela grande nos primeiros 7 segundos: "O concorrente pior que cresce mais que você" (opções em `## Opções de gancho`). Palavra-chave na tela em alguns takes ("a frase", "cinco minutos", "quem explica melhor"). Nos Takes 8 e 9, na tela: "a sua home × a dele". CTA principal: comentar FRASE (liga com a oferta de diferenciação). Convite para seguir na legenda.
+Selfie falando pra câmera. **Formato viral: Cortes rápidos** (referência em `Modelos de posts/Formatos-virais-2026.md`): até 60 segundos, um corte a cada fala, alternando plano perto e médio. **Gancho do bônus** (Polêmicos: "Adivinha quem tá se beneficiando enquanto você sofre?"). Texto de tela grande nos primeiros 7 segundos: "É por isso que um concorrente pior vende mais que você" (escolhido por Ritter; opções em `## Opções de gancho`). Palavra-chave na tela em alguns takes ("a frase", "cinco minutos", "quem explica melhor"). Nos Takes 8 e 9, na tela: "a sua home × a dele". CTA principal: comentar FRASE. Quem comenta recebe por direct o link do teste de posicionamento (`Materiais de captação/teste-de-posicionamento.md`), que liga com a oferta de diferenciação. Convite para seguir na legenda.
 
 ## Base e dependências
 
