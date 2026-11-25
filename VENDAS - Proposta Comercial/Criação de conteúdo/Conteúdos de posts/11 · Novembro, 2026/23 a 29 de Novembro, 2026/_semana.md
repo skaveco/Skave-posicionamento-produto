@@ -38,7 +38,7 @@ Decidido em 23 de Novembro, 2026: os reels desta semana testam os formatos do ma
 | 26 de Novembro | E eu que descobri por que o cliente que entra pelo desconto cancela primeiro | Curiosidade (até 7 segundos) |
 | 27 de Novembro | O seu vendedor não perde pro preço | Controle: falado de sempre, sem mudança |
 | 28 de Novembro | Teste de posicionamento em 3 perguntas | Oferta (fora do teste) |
-| 29 de Novembro | Ninguém indica o segundo SaaS mais barato do mercado | Caixinha de pergunta, se chegar uma pergunta polêmica real; senão fica como está |
+| 29 de Novembro | Ninguém indica o segundo SaaS mais barato do mercado | Fica como está: a caixinha não teve resposta |
 
 ## Stories
 
@@ -46,7 +46,7 @@ Decidido em 23 de Novembro, 2026: os reels desta semana testam os formatos do ma
 | --- | --- | --- |
 | 24 e 25 de Novembro | [Caixinha de perguntas sobre preço, desconto e diferenciação](<24 de Novembro · Stories · Caixinha de perguntas sobre preço, desconto e diferenciação/conteudo.md>) | aprovado |
 
-Perguntas da caixinha: Ritter envia na quinta, 26 de Novembro. Se houver perguntas boas, o domingo vira dia de respostas.
+Perguntas da caixinha: nenhuma resposta até 25 de Novembro. O Reels de 29 fica como está (não vira Caixinha) e o domingo segue o plano original.
 
 ## LinkedIn
 
