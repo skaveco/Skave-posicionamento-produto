@@ -68,13 +68,9 @@ Todas funcionam com o Take 2 como está. **Escolhida por Ritter (25 de Novembro)
 
 ## Texto na tela
 
-O que fica escrito na tela enquanto Ritter fala, take por take. Takes sem linha ficam só com a legenda automática.
+Só o texto dos primeiros segundos da gravação, para a edição ser rápida. O resto do vídeo fica só com a legenda automática.
 
 - Takes 1 a 2: "É por isso que um concorrente pior vende mais que você"
-- Take 4: "a frase"
-- Take 6: "cinco minutos"
-- Take 7: "quem explica melhor"
-- Takes 8 a 9: "a sua home × a dele"
 
 ## Legenda
 
@@ -82,7 +78,7 @@ Quando um concorrente pior cresce mais, quase sempre a diferença tá na primeir
 
 ## Notas de produção
 
-Selfie falando pra câmera. **Formato viral: Cortes rápidos** (referência em `Modelos de posts/Formatos-virais-2026.md`): até 60 segundos, um corte a cada fala, alternando plano perto e médio. **Gancho do bônus** (Polêmicos: "Adivinha quem tá se beneficiando enquanto você sofre?"). Texto de tela grande nos primeiros 7 segundos: "É por isso que um concorrente pior vende mais que você" (escolhido por Ritter; opções em `## Opções de gancho`). Palavra-chave na tela em alguns takes ("a frase", "cinco minutos", "quem explica melhor"). Nos Takes 8 e 9, na tela: "a sua home × a dele". CTA principal: comentar FRASE. Quem comenta recebe por direct o link do teste de posicionamento (`Materiais de captação/teste-de-posicionamento.md`), que liga com a oferta de diferenciação. Convite para seguir na legenda.
+Selfie falando pra câmera. **Formato viral: Cortes rápidos** (referência em `Modelos de posts/Formatos-virais-2026.md`): até 60 segundos, um corte a cada fala, alternando plano perto e médio. **Gancho do bônus** (Polêmicos: "Adivinha quem tá se beneficiando enquanto você sofre?"). Texto de tela grande nos primeiros 7 segundos: "É por isso que um concorrente pior vende mais que você" (escolhido por Ritter; opções em `## Opções de gancho`). CTA principal: comentar FRASE. Quem comenta recebe por direct o link do teste de posicionamento (`Materiais de captação/teste-de-posicionamento.md`), que liga com a oferta de diferenciação. Convite para seguir na legenda.
 
 ## Base e dependências
 

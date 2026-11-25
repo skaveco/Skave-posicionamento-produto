@@ -36,7 +36,7 @@ Manda esse vídeo pro founder que você mais admira, e me conta qual software vo
 
 ## Texto na tela
 
-O que fica escrito na tela enquanto Ritter fala, take por take. Takes sem linha ficam só com a legenda automática.
+Só o texto dos primeiros segundos da gravação, para a edição ser rápida. O resto do vídeo fica só com a legenda automática.
 
 - Takes 1 a 2: "Ninguém indica o segundo SaaS mais barato do mercado"
 
@@ -46,7 +46,7 @@ Preço baixo traz cliente. Uma razão clara pra escolher você traz indicação.
 
 ## Notas de produção
 
-**Gancho do bônus** (Polêmicos / Contraintuitivos: "O que ninguém tem coragem de te contar sobre ___."). Selfie falando pra câmera. Texto de tela grande nos 2 primeiros segundos: "Ninguém indica o segundo SaaS mais barato do mercado". CTA principal: mandar pro founder que você admira. Convite para seguir na legenda.
+**Gancho do bônus** (Polêmicos / Contraintuitivos: "O que ninguém tem coragem de te contar sobre ___."). Selfie falando pra câmera. Texto de tela grande nos primeiros segundos: "Ninguém indica o segundo SaaS mais barato do mercado". CTA principal: mandar pro founder que você admira. Convite para seguir na legenda.
 
 **Alternativa no teste dos formatos virais:** se chegar uma pergunta polêmica e real na caixinha (Ritter envia na quinta, 26 de Novembro), este reel dá lugar a uma resposta no formato **Caixinha de pergunta**: a pergunta na tela, resposta em tom firme, até 45 segundos. Sem pergunta boa, fica como está.
 

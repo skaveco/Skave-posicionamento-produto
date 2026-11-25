@@ -4,8 +4,8 @@ Registro simples das mudanças nas regras de conteúdo. A mais recente fica em c
 
 ## 25 de Novembro, 2026 · Texto na tela dos reels no calendário
 
-- Todo reel ganha a seção `## Texto na tela` no `conteudo.md`, com o texto que fica escrito na tela em cada trecho da gravação (gancho de tela nos primeiros takes, palavras-chave nos seguintes, frase no reel de frase).
-- O calendário mostra esse texto em destaque na página do post, num bloco "Texto na tela durante a gravação" e junto de cada take.
+- Todo reel ganha a seção `## Texto na tela` no `conteudo.md`, com uma linha só: o texto dos primeiros segundos da gravação (no reel de frase, a frase do vídeo todo). Ajuste de Ritter no mesmo dia: a edição precisa ser rápida, então sai o texto por take e as palavras-chave ao longo do vídeo, inclusive as notas na tela do reel de 25.
+- O calendário mostra esse texto em destaque na página do post e junto dos takes em que ele aparece.
 - Preenchido nos reels de 25 a 30 de Novembro.
 
 ## 24 de Novembro, 2026 · Infográfico no LinkedIn e curadoria de vocabulário

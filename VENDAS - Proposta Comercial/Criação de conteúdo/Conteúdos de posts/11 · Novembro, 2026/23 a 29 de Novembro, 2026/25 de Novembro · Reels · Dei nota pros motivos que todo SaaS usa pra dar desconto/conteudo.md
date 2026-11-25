@@ -42,13 +42,9 @@ Manda esse vídeo pro seu sócio que aprova os descontos e conta quantos zeros s
 
 ## Texto na tela
 
-O que fica escrito na tela enquanto Ritter fala, take por take. Takes sem linha ficam só com a legenda automática.
+Só o texto dos primeiros segundos da gravação, para a edição ser rápida. O resto do vídeo fica só com a legenda automática.
 
 - Takes 1 a 2: "Dei nota pros motivos de desconto"
-- Take 3: "O concorrente cobra menos · 2/10"
-- Take 4: "Cliente grande, vai virar case · 6/10"
-- Take 5: "Desconto no plano anual · 8/10"
-- Take 6: "Pra bater a meta do mês · 0/10"
 
 ## Legenda
 
@@ -56,7 +52,7 @@ Desconto com troca (pagamento anual, case no contrato, prazo maior) é negociaç
 
 ## Notas de produção
 
-**Gancho do bônus** (Polêmicos / Contraintuitivos: "Se eu fosse você, eu NÃO faria isso."). **Formato viral: Notas** (referência "Formato Viral 2026", em `Modelos de posts/Formatos-virais-2026.md`). Selfie falando pra câmera. Texto de tela grande nos 2 primeiros segundos: "Dei nota pros motivos de desconto". Em cada item, o motivo escrito em cima e a nota bem grande na tela (2/10, 6/10, 8/10, 0/10), entrando no corte. Ritmo rápido, um corte por take. CTA principal: mandar pro sócio que aprova os descontos. Ritter responde os comentários. Convite para seguir na legenda.
+**Gancho do bônus** (Polêmicos / Contraintuitivos: "Se eu fosse você, eu NÃO faria isso."). **Formato viral: Notas** (referência "Formato Viral 2026", em `Modelos de posts/Formatos-virais-2026.md`). Selfie falando pra câmera. Texto de tela grande nos primeiros segundos: "Dei nota pros motivos de desconto". Ritmo rápido, um corte por take. CTA principal: mandar pro sócio que aprova os descontos. Ritter responde os comentários. Convite para seguir na legenda.
 
 ## Base e dependências
 

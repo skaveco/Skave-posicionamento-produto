@@ -52,7 +52,7 @@ Take 1 atual: a versão escrita por Ritter em 24 de Novembro, 2026 (“Quando o 
 
 ## Texto na tela
 
-O que fica escrito na tela enquanto Ritter fala, take por take. Takes sem linha ficam só com a legenda automática.
+Só o texto dos primeiros segundos da gravação, para a edição ser rápida. O resto do vídeo fica só com a legenda automática.
 
 - Takes 1 a 2: "O seu vendedor não perde pro preço"
 

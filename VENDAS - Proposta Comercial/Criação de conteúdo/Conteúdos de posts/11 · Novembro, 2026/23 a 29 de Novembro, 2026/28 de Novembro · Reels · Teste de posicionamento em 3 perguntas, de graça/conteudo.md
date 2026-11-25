@@ -30,10 +30,9 @@ Comenta FRASE aqui embaixo que eu te mando o teste no direct.
 
 ## Texto na tela
 
-O que fica escrito na tela enquanto Ritter fala, take por take. Takes sem linha ficam só com a legenda automática.
+Só o texto dos primeiros segundos da gravação, para a edição ser rápida. O resto do vídeo fica só com a legenda automática.
 
-- Takes 1 a 3: "Teste de posicionamento em 3 perguntas. De graça."
-- Take 4: "Comenta FRASE"
+- Takes 1 a 2: "Teste de posicionamento em 3 perguntas. De graça."
 
 ## Legenda
 

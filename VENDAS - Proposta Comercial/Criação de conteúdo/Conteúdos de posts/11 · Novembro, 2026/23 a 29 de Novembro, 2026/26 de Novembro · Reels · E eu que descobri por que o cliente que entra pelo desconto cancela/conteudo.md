@@ -27,7 +27,7 @@ notebook: 5 a 7 segundos do Ritter olhando a tela e reagindo, como quem acabou d
 
 ## Texto na tela
 
-O que fica escrito na tela enquanto Ritter fala, take por take. Takes sem linha ficam só com a legenda automática.
+Só o texto dos primeiros segundos da gravação, para a edição ser rápida. O resto do vídeo fica só com a legenda automática.
 
 - Vídeo todo: "E eu que descobri por que o cliente que entrou com desconto é o primeiro a cancelar… Te explico na legenda."
 
