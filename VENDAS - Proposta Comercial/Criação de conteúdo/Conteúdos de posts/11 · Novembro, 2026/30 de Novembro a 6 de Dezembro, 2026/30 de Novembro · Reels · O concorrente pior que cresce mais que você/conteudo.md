@@ -66,6 +66,16 @@ Todas funcionam com o Take 2 como está. **Escolhida por Ritter (25 de Novembro)
 2. "Por que ele vende mais com um produto pior" → **escolhida e ajustada por Ritter (25 de Novembro): "É por isso que um concorrente pior vende mais que você"**
 3. "Teste de 1 minuto: a sua home × a dele"
 
+## Texto na tela
+
+O que fica escrito na tela enquanto Ritter fala, take por take. Takes sem linha ficam só com a legenda automática.
+
+- Takes 1 a 2: "É por isso que um concorrente pior vende mais que você"
+- Take 4: "a frase"
+- Take 6: "cinco minutos"
+- Take 7: "quem explica melhor"
+- Takes 8 a 9: "a sua home × a dele"
+
 ## Legenda
 
 Quando um concorrente pior cresce mais, quase sempre a diferença tá na primeira frase que o cliente lê. Faz o teste da home ainda hoje, e se a frase dele ganhar, comenta FRASE que eu te mando o teste de posicionamento. E me segue, que essa semana eu mostro como chegar na sua frase.

@@ -34,6 +34,12 @@ Ser lembrado pelo preço sai caro. Ser lembrado por resolver uma coisa melhor qu
 ### Take 6
 Manda esse vídeo pro founder que você mais admira, e me conta qual software você indicou.
 
+## Texto na tela
+
+O que fica escrito na tela enquanto Ritter fala, take por take. Takes sem linha ficam só com a legenda automática.
+
+- Takes 1 a 2: "Ninguém indica o segundo SaaS mais barato do mercado"
+
 ## Legenda
 
 Preço baixo traz cliente. Uma razão clara pra escolher você traz indicação. Comenta qual foi o último software que você indicou e por quê, e me segue que eu mostro como deixar essa razão clara no seu.

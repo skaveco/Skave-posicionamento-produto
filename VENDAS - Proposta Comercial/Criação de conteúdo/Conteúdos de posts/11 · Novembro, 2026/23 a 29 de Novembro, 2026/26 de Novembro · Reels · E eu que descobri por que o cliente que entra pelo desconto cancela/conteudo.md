@@ -25,6 +25,12 @@ Te explico na legenda.
 
 notebook: 5 a 7 segundos do Ritter olhando a tela e reagindo, como quem acabou de perceber uma coisa. Sem fala.
 
+## Texto na tela
+
+O que fica escrito na tela enquanto Ritter fala, take por take. Takes sem linha ficam só com a legenda automática.
+
+- Vídeo todo: "E eu que descobri por que o cliente que entrou com desconto é o primeiro a cancelar… Te explico na legenda."
+
 ## Legenda
 
 O cliente que entrou com desconto costuma ser o primeiro a cancelar, e o motivo começa na venda.

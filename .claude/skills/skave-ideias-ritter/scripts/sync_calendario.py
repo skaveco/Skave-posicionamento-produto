@@ -64,6 +64,8 @@ def ler(md, raiz):
     doc["texto"] = texto.group(1).strip() if texto else ""
     legenda = re.search(r"^## Legenda\s*\n(.*?)(?=^## |\Z)", corpo, re.S | re.M)
     doc["legenda"] = legenda.group(1).strip() if legenda else ""
+    tela = re.search(r"^## Texto na tela\s*\n(.*?)(?=^## |\Z)", corpo, re.S | re.M)
+    doc["texto_tela"] = "\n".join(l.strip() for l in tela.group(1).splitlines() if l.strip().startswith("- ")) if tela else ""
     pasta = md.parent
     arte = pasta / "arte"
     doc["artes"] = len(list(arte.glob("*.png"))) + len(list(arte.glob("*.pdf"))) if arte.is_dir() else 0

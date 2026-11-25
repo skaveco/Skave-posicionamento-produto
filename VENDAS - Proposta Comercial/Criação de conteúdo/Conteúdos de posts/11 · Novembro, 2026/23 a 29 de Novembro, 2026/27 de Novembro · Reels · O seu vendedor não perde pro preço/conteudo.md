@@ -50,6 +50,12 @@ Take 1 atual: a versão escrita por Ritter em 24 de Novembro, 2026 (“Quando o 
 2. "Perdeu a venda no preço? O problema começou antes"
 3. "1 pergunta pra descobrir onde a venda morreu"
 
+## Texto na tela
+
+O que fica escrito na tela enquanto Ritter fala, take por take. Takes sem linha ficam só com a legenda automática.
+
+- Takes 1 a 2: "O seu vendedor não perde pro preço"
+
 ## Legenda
 
 Script ajuda o vendedor a responder. O motivo pra escolher você precisa existir antes, no site, na apresentação e na fala de todo mundo do time. Me segue, que eu mostro como chegar nessa frase.

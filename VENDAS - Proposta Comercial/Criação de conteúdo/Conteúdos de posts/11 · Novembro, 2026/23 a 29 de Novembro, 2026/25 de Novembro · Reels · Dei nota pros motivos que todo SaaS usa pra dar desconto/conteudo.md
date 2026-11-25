@@ -40,6 +40,16 @@ Desconto com troca pode até ajudar. Desconto pra fechar porque o cliente não v
 ### Take 8
 Manda esse vídeo pro seu sócio que aprova os descontos e conta quantos zeros saíram esse mês.
 
+## Texto na tela
+
+O que fica escrito na tela enquanto Ritter fala, take por take. Takes sem linha ficam só com a legenda automática.
+
+- Takes 1 a 2: "Dei nota pros motivos de desconto"
+- Take 3: "O concorrente cobra menos · 2/10"
+- Take 4: "Cliente grande, vai virar case · 6/10"
+- Take 5: "Desconto no plano anual · 8/10"
+- Take 6: "Pra bater a meta do mês · 0/10"
+
 ## Legenda
 
 Desconto com troca (pagamento anual, case no contrato, prazo maior) é negociação. Desconto pra fechar porque o cliente não viu diferença vira o seu preço novo, e o próximo cliente vai pedir igual. Comenta qual motivo você daria nota dez, que eu respondo. E segue aqui, que eu vou mostrando como sair da briga por preço sem abrir mão de oferta.

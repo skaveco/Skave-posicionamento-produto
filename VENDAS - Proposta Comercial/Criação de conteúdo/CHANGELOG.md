@@ -2,6 +2,12 @@
 
 Registro simples das mudanças nas regras de conteúdo. A mais recente fica em cima. As regras completas estão na skill `skave-ideias-ritter`; os exemplos, em `Modelos de posts/`.
 
+## 25 de Novembro, 2026 · Texto na tela dos reels no calendário
+
+- Todo reel ganha a seção `## Texto na tela` no `conteudo.md`, com o texto que fica escrito na tela em cada trecho da gravação (gancho de tela nos primeiros takes, palavras-chave nos seguintes, frase no reel de frase).
+- O calendário mostra esse texto em destaque na página do post, num bloco "Texto na tela durante a gravação" e junto de cada take.
+- Preenchido nos reels de 25 a 30 de Novembro.
+
 ## 24 de Novembro, 2026 · Infográfico no LinkedIn e curadoria de vocabulário
 
 - Todo post do LinkedIn passa a ter peça visual, intercalando infográfico (um por semana), carrossel em PDF e Tweet em imagem. Post só de texto deixa de ser o padrão.

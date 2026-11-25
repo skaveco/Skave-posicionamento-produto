@@ -147,6 +147,9 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
 .text h4 { margin: 8px 0 0; font-size: 13px; font-weight: 600; color: var(--muted); }
 .text p, .text li { margin: 0; max-width: 65ch; }
 .text ul { margin: 0; padding-left: 18px; }
+.onscreen { display: flex; gap: 10px; align-items: baseline; background: var(--bg); border: 1px solid var(--line); border-left: 3px solid var(--focus); border-radius: 8px; padding: 8px 10px; max-width: 65ch; }
+.onscreen .k { font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); flex: none; }
+.onscreen .v { font-weight: 600; }
 
 @media (max-width: 760px) {
   .summary { grid-template-columns: repeat(3, minmax(0, 1fr)); }
@@ -421,7 +424,26 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
     foot.appendChild(el("span", null, "Somente visualização. Os status mudam pelas skills de conteúdo."));
   }
 
-  function mdBlock(text, heading, copiable) {
+  function parseTela(t) {
+    var out = [];
+    String(t || "").split(/\r?\n/).forEach(function (l) {
+      var m = l.trim().match(/^-\s*(.+?):\s*(.+)$/); if (!m) return;
+      var takes = null, mm = m[1].match(/Takes?\s+(\d+)(?:\s+a\s+(\d+))?/i);
+      if (mm) { var a = +mm[1], b = mm[2] ? +mm[2] : a; takes = []; for (var i = a; i <= b; i++) takes.push(i); }
+      out.push({ label: m[1], texto: m[2].replace(/^"(.*)"$/, "$1"), takes: takes });
+    });
+    return out;
+  }
+  function onscreen(label, texto) {
+    var d = el("div", "onscreen"); d.appendChild(el("span", "k", label)); d.appendChild(el("span", "v", texto)); return d;
+  }
+  function telaBlock(tela) {
+    var wrap = el("div", "text");
+    wrap.appendChild(el("h3", null, "Texto na tela durante a gravação"));
+    tela.forEach(function (e) { wrap.appendChild(onscreen(e.label, e.texto)); });
+    return wrap;
+  }
+  function mdBlock(text, heading, copiable, tela) {
     var wrap = el("div", "text");
     var hrow = el("div", "hrow");
     hrow.appendChild(el("h3", null, heading || "Texto publicável"));
@@ -438,7 +460,12 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
     String(text || "").split(/\r?\n/).forEach(function (line) {
       var t = line.trim();
       if (!t) { list = null; return; }
-      if (/^#{3,4}\s+/.test(t)) { list = null; wrap.appendChild(el("h4", null, t.replace(/^#{3,4}\s+/, ""))); return; }
+      if (/^#{3,4}\s+/.test(t)) {
+        list = null; var h = t.replace(/^#{3,4}\s+/, ""); wrap.appendChild(el("h4", null, h));
+        var tk = h.match(/^Take\s+(\d+)/i);
+        if (tk && tela) tela.forEach(function (e) { if (e.takes && e.takes.indexOf(+tk[1]) >= 0) wrap.appendChild(onscreen("Na tela", e.texto)); });
+        return;
+      }
       if (/^[-*]\s+/.test(t)) { if (!list) { list = el("ul"); wrap.appendChild(list); } list.appendChild(inline(el("li"), t.replace(/^[-*]\s+/, ""))); return; }
       list = null; wrap.appendChild(inline(el("p"), t));
     });
@@ -480,7 +507,9 @@ dialog::backdrop { background: rgba(20, 26, 20, 0.45); }
     }
     if (p.legenda) body.appendChild(mdBlock(p.legenda, "Legenda", true));
     else body.appendChild(mdBlock("Ainda sem legenda no conteudo.md.", "Legenda"));
-    if (p.texto) body.appendChild(mdBlock(p.texto, "Texto publicável"));
+    var tela = parseTela(p.texto_tela);
+    if (tela.length) body.appendChild(telaBlock(tela));
+    if (p.texto) body.appendChild(mdBlock(p.texto, "Texto publicável", false, tela));
     var dlg = $("dlg");
     if (typeof dlg.showModal === "function") dlg.showModal(); else dlg.setAttribute("open", "");
   }
