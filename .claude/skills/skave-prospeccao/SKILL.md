@@ -1,6 +1,6 @@
 ---
 name: skave-prospeccao
-description: "Encontra e qualifica no Instagram donos e lideranças de empresas SaaS (B2B ou B2C) ativos na rede, para prospecção ativa do Posicionamento de Marca da Skave. Usa o Chrome logado do usuário (Claude in Chrome), confirma cargo, empresa, atividade recente e necessidade visível de posicionamento, e grava a lista em VENDAS - Proposta Comercial/Prospecção. Use quando o usuário pedir leads, prospecção, lista de empresários ou rodar a prospecção da semana."
+description: "Encontra e qualifica no Instagram donos e lideranças de empresas SaaS (B2B ou B2C) ativos na rede, para prospecção ativa do Posicionamento de Marca da Skave. Usa o Chrome logado do usuário (Claude in Chrome), confirma cargo, empresa, atividade recente e necessidade visível de posicionamento, e grava a lista em VENDAS - Proposta Comercial/Prospecção, na pasta de quem vai abordar (Ritter ou Seifert), por mês e semana. Use quando o usuário pedir leads, prospecção, lista de empresários ou rodar a prospecção da semana."
 ---
 
 # Prospecção de leads no Instagram · Skave
@@ -65,7 +65,7 @@ Outras regras:
 
 ## O que gravar
 
-Ao final, grave `VENDAS - Proposta Comercial/Prospecção/leads-AAAA-MM-DD.md` (data da rodada), no mesmo formato de [leads-2026-11-18.md](../../../VENDAS%20-%20Proposta%20Comercial/Prospecção/leads-2026-11-18.md): tabela de resumo, uma ficha por lead e a lista de descartados com o motivo.
+Antes de começar a rodada, pergunte para quem são os leads: **Ritter** ou **Seifert** (cada um aborda os seus). Ao final, grave `VENDAS - Proposta Comercial/Prospecção/<Ritter ou Seifert>/<NN · Mês, ano>/<intervalo da semana>/leads-AAAA-MM-DD.md` (data da rodada), com os nomes de mês e semana no mesmo padrão de `Conteúdos de posts` (ex.: `11 · Novembro, 2026/23 a 29 de Novembro, 2026/`; semana de segunda a domingo). Crie as pastas se não existirem. Siga o formato de [leads-2026-11-24.md](../../../VENDAS%20-%20Proposta%20Comercial/Prospecção/Seifert/11%20·%20Novembro,%202026/23%20a%2029%20de%20Novembro,%202026/leads-2026-11-24.md): tabela de resumo, uma ficha por lead e a lista de descartados com o motivo.
 
 Cada ficha traz:
 
@@ -79,6 +79,6 @@ Cada ficha traz:
 - **Gancho:** uma observação concreta e uma pergunta para abrir a conversa. Não diagnosticar perda de vendas nem afirmar fatos sobre receita.
 - Faturamento: **não confirmado**, salvo evidência pública.
 
-Depois, atualize [_leads.md](../../../VENDAS%20-%20Proposta%20Comercial/Prospecção/_leads.md): acrescente os novos leads com status `encontrado` e os descartados relevantes (para não revisitar). Status de abordagem: `encontrado` → `abordado` → `respondeu` → `call marcada` → `descartado`. Quando o usuário contar que abordou ou recebeu resposta, atualize o status ali.
+Depois, atualize [_leads.md](../../../VENDAS%20-%20Proposta%20Comercial/Prospecção/_leads.md): acrescente os novos leads com status `encontrado`, o responsável (Ritter ou Seifert) e o link para o arquivo da rodada, e os descartados relevantes (para não revisitar). Status de abordagem: `encontrado` → `abordado` → `respondeu` → `call marcada` → `descartado`. Quando o usuário contar que abordou ou recebeu resposta, atualize o status ali.
 
 Por fim, faça commit e push no `main` (`git pull --rebase origin main` antes do push) e entregue no chat a tabela de resumo, o caminho do arquivo e quantos perfis foram descartados por qual filtro.
