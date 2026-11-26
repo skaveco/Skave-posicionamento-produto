@@ -9,3 +9,4 @@ Histórico das sequências de stories do dia sugeridas pela skill [skave-stories
 | Data | Sequência | Gancho | Tema | Status | Views 1º | Views último | Retenção % | Respostas / DMs | Observações |
 | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | --- |
 | 24 de Novembro, 2026 | 08 · Enquete Diagnóstico (+ caixinha semanal no fim) | 11 | SaaS B2B não deveria competir por preço: desconto ou explicação quando o cliente diz "tá caro" | postada | | | | 0 | Caixinha aprovada de 24/11 entrou como stories 6 e 7. Caixinha sem nenhuma resposta (Ritter, 25/11). |
+| 26 de Novembro, 2026 | 09 · Escassez Real (contagem regressiva trocada por enquete "Sou eu / Quase", sem prazo com data) | 17 | Última vaga de fundador (Brand Launch e Brand Evolution), condição de fundador sem preço no story | sugerida | | | | | Pedido do usuário: ofertar a última vaga. Quarta do plano era a 10; a 09 entra por ser escassez real. Confirmar que restam 2 vagas preenchidas antes de postar. |
