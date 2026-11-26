@@ -11,9 +11,10 @@ A busca roda no Chrome do usuário, já logado no Instagram, pelas ferramentas `
 
 ## Antes de começar
 
-1. `git pull origin main`.
-2. Leia [_leads.md](../../../VENDAS%20-%20Proposta%20Comercial/Prospecção/_leads.md): quem já está na lista ou foi descartado **não entra de novo**.
-3. Leia o [guia de identificação de leads](../../../VENDAS%20-%20Proposta%20Comercial/como-identificar-lead.md) e o [cliente ideal](../../../SKAVE%20-%20Posicionamento/possivel-cliente-ideal.md). Esta skill aplica o guia ao Instagram; onde houver diferença, valem os critérios abaixo.
+1. **Para quem é a rodada.** O usuário diz se os leads vão para a pasta `Ritter` ou `Seifert`. Se não disser, pergunte antes de qualquer busca e espere a resposta; nunca escolha por conta própria nem deduza por quem está pedindo.
+2. `git pull origin main`.
+3. Leia [_leads.md](../../../VENDAS%20-%20Proposta%20Comercial/Prospecção/_leads.md), o índice único dos dois: quem já está na lista, **seja de Ritter ou de Seifert**, ou foi descartado **não entra de novo**, em nenhuma das pastas. Compare pelo @ do Instagram e também pela empresa: se um sócio da mesma empresa já está no índice, o outro não entra (abordar só um por empresa). Antes de gravar, rode `git pull origin main` de novo (o outro pode ter enviado uma rodada enquanto esta acontecia) e repita a checagem de cada perfil aprovado no índice atualizado; e liste no fim os que foram barrados por já estarem no índice.
+4. Leia o [guia de identificação de leads](../../../VENDAS%20-%20Proposta%20Comercial/como-identificar-lead.md) e o [cliente ideal](../../../SKAVE%20-%20Posicionamento/possivel-cliente-ideal.md). Esta skill aplica o guia ao Instagram; onde houver diferença, valem os critérios abaixo.
 
 ## Os quatro filtros do perfil
 
@@ -65,7 +66,7 @@ Outras regras:
 
 ## O que gravar
 
-Antes de começar a rodada, pergunte para quem são os leads: **Ritter** ou **Seifert** (cada um aborda os seus). Ao final, grave `VENDAS - Proposta Comercial/Prospecção/<Ritter ou Seifert>/<NN · Mês, ano>/<intervalo da semana>/leads-AAAA-MM-DD.md` (data da rodada), com os nomes de mês e semana no mesmo padrão de `Conteúdos de posts` (ex.: `11 · Novembro, 2026/23 a 29 de Novembro, 2026/`; semana de segunda a domingo). Crie as pastas se não existirem. Siga o formato de [leads-2026-11-24.md](../../../VENDAS%20-%20Proposta%20Comercial/Prospecção/Seifert/11%20·%20Novembro,%202026/23%20a%2029%20de%20Novembro,%202026/leads-2026-11-24.md): tabela de resumo, uma ficha por lead e a lista de descartados com o motivo.
+Ao final, grave `VENDAS - Proposta Comercial/Prospecção/<pasta definida pelo usuário: Ritter ou Seifert>/<NN · Mês, ano>/<intervalo da semana>/leads-AAAA-MM-DD.md` (data da rodada), com os nomes de mês e semana no mesmo padrão de `Conteúdos de posts` (ex.: `11 · Novembro, 2026/23 a 29 de Novembro, 2026/`; semana de segunda a domingo). Crie as pastas se não existirem. Siga o formato de [leads-2026-11-24.md](../../../VENDAS%20-%20Proposta%20Comercial/Prospecção/Seifert/11%20·%20Novembro,%202026/23%20a%2029%20de%20Novembro,%202026/leads-2026-11-24.md): tabela de resumo, uma ficha por lead e a lista de descartados com o motivo.
 
 Cada ficha traz:
 
