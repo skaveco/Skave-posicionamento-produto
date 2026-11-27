@@ -7,7 +7,7 @@ funil: Meio
 pilar: Marca que vende
 dor: O comercial precisa explicar o diferencial em cada negociação, e o comprador decide pelo preço (documento 04, dores na operação e práticas)
 ordem: 1
-status: arte pronta
+status: publicado
 producao: Claude Design
 template: Tweet com foto (slides 1 e 5) + Tweet textual (slides 2 a 4)
 modo_cor: Claro
