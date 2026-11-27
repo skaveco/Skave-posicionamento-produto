@@ -7,7 +7,7 @@ funil: Topo
 pilar: Anti-manada e disciplina
 dor: Post de comunidade; a ligação com a dor vem pela meta 4 (empresas com a marca explicando o que fazem, documento 04, dores práticas)
 ordem: 3
-status: rascunho
+status: aprovado
 producao:
 template:
 modo_cor:
