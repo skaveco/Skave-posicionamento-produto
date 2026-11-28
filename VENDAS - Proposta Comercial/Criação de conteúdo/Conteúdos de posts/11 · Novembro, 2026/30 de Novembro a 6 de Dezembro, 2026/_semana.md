@@ -7,7 +7,7 @@ Semana ainda não planejada. O dia 30 de Novembro foi escrito antes, a pedido de
 | 30 de Novembro | 1º | Reels · Falado | [O concorrente pior que cresce mais que você](<30 de Novembro · Reels · O concorrente pior que cresce mais que você/conteudo.md>) | Topo | Marca que vende | arte pronta |
 | 30 de Novembro | 2º | Carrossel · Texto | [O dia em que o seu melhor vendedor pede demissão](<30 de Novembro · Carrossel · O dia em que o seu melhor vendedor pede demissão/conteudo.md>) | Topo | Vida de fundador de SaaS | arte pronta |
 | 30 de Novembro | 3º | Tweet | [Se o seu SaaS só fecha quando você entra na reunião](<30 de Novembro · Tweet · Se o seu SaaS só fecha quando você entra na reunião/conteudo.md>) | Topo | Vida de fundador de SaaS | arte pronta |
-| 1 de Dezembro | 3º | Carrossel · Lista | [Minhas 5 metas até o fim do ano](<1 de Dezembro · Carrossel · Minhas 5 metas até o fim do ano/conteudo.md>) | Topo | Anti-manada e disciplina | aprovado |
+| 1 de Dezembro | 1º | Carrossel · Lista | [Minhas 5 metas até o fim do ano](<1 de Dezembro · Carrossel · Minhas 5 metas até o fim do ano/conteudo.md>) | Topo | Anti-manada e disciplina | arte pronta |
 
 | Data | Reels | Formato viral |
 | --- | --- | --- |

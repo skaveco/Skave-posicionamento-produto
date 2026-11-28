@@ -6,9 +6,9 @@ formato: Carrossel
 funil: Topo
 pilar: Anti-manada e disciplina
 dor: Post de comunidade; a ligação com a dor vem pela meta 4 (empresas com a marca explicando o que fazem, documento 04, dores práticas)
-ordem: 3
-status: aprovado
-producao:
+ordem: 1
+status: arte pronta
+producao: Instagram (editor nativo)
 template:
 modo_cor:
 link_arte:
@@ -51,6 +51,8 @@ Essa entrou de propósito. Meta que só tem trabalho não chega viva no dia 31.
 Coloquei número em todas porque meta sem número eu esqueço na segunda semana. No dia 31 eu volto com o placar de cada uma, batida ou não. Me segue pra acompanhar e me cobrar.
 
 ## Notas de produção
+
+**Programado por Ritter em 28 de Novembro, 2026, para 1 de Dezembro às 8h**, com arte feita direto no editor do Instagram (fontes e imagens do próprio app), fora do modelo Tweet. Fica fora do fluxo de arte das skills de produção.
 
 Carrossel de lista no modelo Tweet. As metas são do Ritter (enviadas no chat em 27 de Novembro, 2026). Cinco metas em três slides do meio para caber no limite de cinco slides. Modo claro sugerido, alternando com o carrossel escuro de 30 de Novembro.
 

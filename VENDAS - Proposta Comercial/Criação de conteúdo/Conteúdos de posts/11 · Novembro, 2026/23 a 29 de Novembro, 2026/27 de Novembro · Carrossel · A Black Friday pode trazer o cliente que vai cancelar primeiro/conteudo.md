@@ -7,7 +7,7 @@ funil: Topo
 pilar: Marca que vende
 dor: O comprador compara preço porque não percebe a diferença relevante; desejo de defender o valor sem depender de descontos (documento 04, dores práticas e desejos)
 ordem: 2
-status: arte pronta
+status: publicado
 producao: Claude Design
 template: Tweet com foto (slides 1 e 5) + Tweet textual (slides 2 a 4)
 modo_cor: Claro

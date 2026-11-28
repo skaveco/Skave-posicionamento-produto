@@ -7,7 +7,7 @@ funil: Topo
 pilar: Vida de fundador de SaaS
 dor: O comercial precisa explicar o diferencial em cada negociação (documento 04, dores na operação)
 ordem: 3
-status: arte pronta
+status: publicado
 producao: Claude Design
 template: Estático · Tweet (template branco)
 modo_cor: Claro (template branco)
